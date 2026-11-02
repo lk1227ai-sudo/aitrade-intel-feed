@@ -5,7 +5,21 @@
 <link>https://lk7221ai-bit.github.io/aitrade-intel-feed/</link>
 <description>公開資訊彙整，非交易建議</description>
 <language>zh-TW</language>
-<lastBuildDate>Mon, 02 Nov 2026 22:30:00 +0800</lastBuildDate>
+<lastBuildDate>Tue, 03 Nov 2026 00:10:00 +0800</lastBuildDate>
+<item>
+<title>Post-ISM snapshot ~23:55-00:09 Taipei (Yahoo): COMEX Dec gold $3,968.2 (prev $3,898.9, high $3,976.8), DXY 101.72 (range 101.43-101.99), US 10Y 4.912% (CNBC earlier 4.884%), EUR/USD 1.1196, USD/JPY 157.86; WTI near $96 (-5%) as Pezeshkian says Supreme Leader granted government negotiating powers (ISNA via FXStreet)</title>
+<link>https://www.fxstreet.com/news/gold-finds-relief-from-oils-decline-as-traders-await-key-us-economic-data-202611021107</link>
+<description>[事實] 影響: XAUUSD/DXY/EUR/USD/USD/JPY | 重點: ISM公布後黃金未失守，COMEX 12月金23:59報$3,968.2，高點$3,976.8，仍在$4,000下方（Saxo稱$3,970為前支撐轉壓力，屬觀點）；DXY 101.72、美10年期4.912%、EUR/USD 1.1196、USD/JPY 157.86（Yahoo）；CNBC稱10年期一度4.884%、2年期4.585%，來源時間點不同數值有差；FXStreet引ISNA稱伊朗總統表示最高領袖授予政府談判權，WTI跌向$96 | 發布: 2026-11-02 23:59 (Asia/Taipei，Yahoo報價) | 抓取: 2026-11-03 00:10 (Asia/Taipei)</description>
+<pubDate>Mon, 02 Nov 2026 23:59:00 +0800</pubDate>
+<guid isPermaLink="false">aitrade-intel-202611022359-post-ism-snapshot</guid>
+</item>
+<item>
+<title>US ISM Manufacturing PMI Oct 55.5 vs ~54.5-54.7 consensus, prior 54.5 (10th month of expansion); New Orders 55.5, Production 59.0 (highest since Nov 2021), Employment 52.4, Prices Paid 75.2 vs 77.9 prior (~77 forecast); Kitco: gold's rebound hits selling pressure on initial reaction, spot $3,955.60 (+2%)</title>
+<link>https://www.ismworld.org/supply-management-news-and-reports/reports/ism-pmi-reports/pmi/october/</link>
+<description>[事實] 影響: XAUUSD/DXY/美債殖利率 | 重點: 美國10月ISM製造業PMI 55.5，高於市場預期約54.5-54.7（各家預期不一）與前值54.5，連續第10個月擴張；新訂單55.5、生產59.0（2021年11月以來最高）、就業52.4；物價支付指數75.2，低於前值77.9與預期約77（ISM/FXStreet）；Kitco稱數據公布後黃金反彈遇賣壓，現貨$3,955.60（+2%）；數據強勁可能強化12月升息預期（推測，CME FedWatch約72%） | 發布: 2026-11-02 23:00 (Asia/Taipei，ISM) | 抓取: 2026-11-03 00:10 (Asia/Taipei)</description>
+<pubDate>Mon, 02 Nov 2026 23:00:00 +0800</pubDate>
+<guid isPermaLink="false">aitrade-intel-202611022300-ism-mfg-oct</guid>
+</item>
 <item>
 <title>US open FX/rates snapshot ~22:10-22:23 Taipei (Yahoo): DXY 101.64 (prev 101.88), US 10Y 4.906% (prev 4.929%), EUR/USD 1.1218 (prev 1.1166), USD/JPY 157.81 (prev 157.52); CNBC 2Y 4.598% (+2bp), 30Y 5.273%; ING: Democratic sweep ~68% in prediction markets, cautious on USD upside before midterms</title>
 <link>https://www.fxstreet.com/news/experts-agree-us-midterms-and-ai-jitters-might-damage-confidence-in-the-us-dollar-202611021232</link>
@@ -201,20 +215,6 @@
 <description>[事實] 影響: EUR/USD | 重點: ECB首席經濟學家Lane談AI對歐元區成長的支撐，數位投資占GDP 3.3%，生產力效果仍高度不確定；公開講稿未見利率路徑指引 | 發布: 2026-10-31 00:10 (Asia/Taipei) | 抓取: 2026-10-31 04:10 (Asia/Taipei)</description>
 <pubDate>Sat, 31 Oct 2026 00:10:00 +0800</pubDate>
 <guid isPermaLink="false">aitrade-intel-202610310010-lane</guid>
-</item>
-<item>
-<title>Cook/Hammack dissent explanations: content UNKNOWN - Newsquawk had them scheduled ~20:00 Taipei, but no Oct 30 statement found on Cleveland Fed speeches page (latest Oct 12) or in search results as of 00:07 Taipei; Daly opening remarks text also UNKNOWN</title>
-<link>https://www.clevelandfed.org/collections/speeches</link>
-<description>[UNKNOWN] 影響: XAUUSD/DXY | 重點: Newsquawk預告Cook與Hammack約20:00台北說明10/28主張升息25bp的異議理由，但抓取時Cleveland Fed講稿頁最新仍為10/12，搜尋也未找到Cook或Hammack 10/30聲明全文；是否已發布及內容UNKNOWN；FOMC紀要11/18公布 | 發布: 2026-10-31 00:08 (Asia/Taipei，查核時間) | 抓取: 2026-10-31 00:08 (Asia/Taipei)</description>
-<pubDate>Sat, 31 Oct 2026 00:07:30 +0800</pubDate>
-<guid isPermaLink="false">aitrade-intel-202610310007-dissent-unknown</guid>
-</item>
-<item>
-<title>Pre-close snapshot ~00:00 Taipei (Yahoo): DXY 101.95 (range 101.54-102.09), US 10Y 4.949% (prev 4.989%), EUR/USD 1.1169, USD/JPY 157.43, GBP/USD 1.3399, AUD/USD 0.7035, WTI $103.97, Brent Jan $113.50</title>
-<link>https://finance.yahoo.com/</link>
-<description>[事實] 影響: XAUUSD/DXY/EUR/USD/USD/JPY/GBP/USD/AUD/USD | 重點: 紐約盤中段美元指數約101.95、10年期殖利率4.949%較前收4.989%低；EUR/USD 1.1169（日區間1.1140-1.1217）、USD/JPY 157.43（156.96-157.90）、GBP/USD 1.3399、AUD/USD 0.7035；WTI $103.97、布蘭特1月約$113.50；收盤值UNKNOWN（紐約收盤約05:00台北） | 發布: 2026-10-31 00:04 (Asia/Taipei，報價時間) | 抓取: 2026-10-31 00:08 (Asia/Taipei)</description>
-<pubDate>Sat, 31 Oct 2026 00:04:15 +0800</pubDate>
-<guid isPermaLink="false">aitrade-intel-202610310004-snapshot</guid>
 </item>
 </channel>
 </rss>
