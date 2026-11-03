@@ -5,7 +5,35 @@
     <link>https://lk7221ai-bit.github.io/aitrade-intel-feed/</link>
     <description>公開資訊彙整，非交易建議</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 04 Nov 2026 00:05:00 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 04:15:00 +0800</lastBuildDate>
+    <item>
+      <title>Next 24h (Taipei) update: US midterm first polls close ~07:00 Wed, results through the day (X prediction-market summaries: Dem House ~94%, full sweep ~70-76%, unverified); NZ Q3 jobs 05:45; BoJ minutes 07:50; Qatar 36h US-Iran feedback window; EZ Oct HICP flash 18:00; US ADP Oct 21:15; US trade balance + Treasury refunding 21:30; ISM Services 23:00</title>
+      <link>https://www.newsquawk.com/headlines/crude-wrap-wti-z6-settles-usd-037-lower-at-9609bbl</link>
+      <description>[事實] 影響: XAUUSD/DXY/EURUSD/NZDUSD/USDJPY | 重點: 未來24小時焦點為美國期中選舉開票、美伊回覆期限、歐元區HICP、ADP/ISM服務業與財政部再融資細節；預測市場機率來自X帖子彙整屬[推測]；各數據市場預期見本feed 11/03 20:55項 | 發布: 2026-11-04 04:15 (Asia/Taipei, 本feed彙整) | 抓取: 2026-11-04 04:10 (Asia/Taipei)</description>
+      <pubDate>Wed, 04 Nov 2026 04:15:00 +0800</pubDate>
+      <guid isPermaLink="false">aitrade-intel-202611040415-next24h</guid>
+    </item>
+    <item>
+      <title>Oil settles off lows: WTI Dec -$0.37 to $96.09, Brent -$1.17 to $103.60 after lows $93.59/$100.80 on reports US approved Qatari draft MoU (Al-Araby, unconfirmed); Iran SNSC's Rezaei says US response 'not convincing', Hormuz reopens only if Iran's seven conditions are fully met; Qatar expects US/Iran feedback within 36 hours (Newsquawk/CNBC)</title>
+      <link>https://www.newsquawk.com/headlines/crude-wrap-wti-z6-settles-usd-037-lower-at-9609bbl</link>
+      <description>[事實] 影響: XAUUSD/USDCAD/USDJPY/DXY | 重點: 美伊協議傳聞一度壓低油價，但伊朗Rezaei公開設七條件、協議未獲證實，油價收離低點；「美方已批准MoU草案」屬未證實報導 | 發布: 2026-11-04 03:58 (Asia/Taipei, Newsquawk 19:58 UTC) | 抓取: 2026-11-04 04:10 (Asia/Taipei)</description>
+      <pubDate>Wed, 04 Nov 2026 03:58:00 +0800</pubDate>
+      <guid isPermaLink="false">aitrade-intel-202611040358-oil-settle-rezaei-seven-conditions</guid>
+    </item>
+    <item>
+      <title>NYT: Israel shared intelligence with US and Gulf states that Iran is considering chemical weapons use (missile delivery or covert smuggling); US officials divided, some suspect Netanyahu pressure to resume major combat; Gulf officials called briefings 'unserious'; no evidence published (via Al Arabiya/Times of Israel)</title>
+      <link>https://english.alarabiya.net/News/middle-east/2026/11/03/israel-shares-intel-with-us-claiming-that-iran-is-preparing-to-use-chemical-weapons-nyt</link>
+      <description>[推測] 影響: XAUUSD/油價/避險貨幣(USDJPY,USDCHF) | 重點: 以色列情報稱伊朗考慮化武，美方與海灣國家多存疑、未公開證據；屬未證實情報主張，市場影響UNKNOWN | 發布: 2026-11-04 02:59 (Asia/Taipei, Al Arabiya 22:59 GST) | 抓取: 2026-11-04 04:10 (Asia/Taipei)</description>
+      <pubDate>Wed, 04 Nov 2026 02:59:00 +0800</pubDate>
+      <guid isPermaLink="false">aitrade-intel-202611040259-nyt-israel-iran-chemical-intel</guid>
+    </item>
+    <item>
+      <title>COMEX gold settles -0.73% ($29.00) at $3,927.90 (front-month Nov), down 4 of past 5 sessions, 2nd-lowest settle of 2026, +1.09% above Oct 30 year low $3,885.70, -26.15% from Jan 29 record $5,318.40 (Dow Jones Data Talk); FXStreet ~03:09 Taipei: XAUUSD $3,926 (-0.45%), US 10Y 4.954% (+4bp), DXY 101.78; Dec Fed hike odds 79% (FXStreet) vs 73% (CNBC) per CME FedWatch</title>
+      <link>https://www.morningstar.com/news/dow-jones/202611039458/comex-gold-settles-073-lower-at-392790-data-talk</link>
+      <description>[事實] 影響: XAUUSD/DXY/美債殖利率 | 重點: 11/3 COMEX金結算$3,927.90跌0.73%，距今年低點$3,885.70僅約1%；美債10年期升至約4.954%、DXY約101.78；來源矛盾：12月升息機率FXStreet稱79%、CNBC稱73%，另EL7稱GCUSD收$3,917.9 | 發布: 2026-11-04 02:49 (Asia/Taipei, Dow Jones) | 抓取: 2026-11-04 04:10 (Asia/Taipei)</description>
+      <pubDate>Wed, 04 Nov 2026 02:49:00 +0800</pubDate>
+      <guid isPermaLink="false">aitrade-intel-202611040249-comex-gold-settle-nov3</guid>
+    </item>
     <item>
       <title>US factory orders Sep +1.8% m/m to $677.2B vs +1.2% consensus, Aug revised up to +0.3% from +0.1%; ex-transportation +1.3%, civilian aircraft +28.3%, core capital goods orders revised to +0.6% (Census/Reuters)</title>
       <link>https://www.census.gov/manufacturing/m3/current/index.html</link>
@@ -26,6 +54,13 @@
       <description>[事實] 影響: XAUUSD/XAGUSD/DXY | 重點: 金價從歐盤跌破$3,900後於美盤回升至$3,950-3,960區間，收復當日跌幅；美債殖利率同步小升（10年期約4.93%），各來源報價時間不同略有差異；「$3,900以下有買盤」屬USAGOLD觀點；WGC下修投資需求預測的具體數字未取得＝UNKNOWN | 發布: 2026-11-03 時間UNKNOWN (USAGOLD/FXStreet/Invezz/CNBC，以抓取時間作pubDate) | 抓取: 2026-11-03 22:22 (Asia/Taipei)</description>
       <pubDate>Tue, 03 Nov 2026 22:22:00 +0800</pubDate>
       <guid isPermaLink="false">aitrade-intel-202611032222-us-hours-gold-rebound</guid>
+    </item>
+    <item>
+      <title>WGC Gold Demand Trends Q3 2026: total demand 1,369t (-1% y/y), central banks 321t (+42% y/y, ytd 675t; PBoC +63t, Poland +40t; ~63% unreported), ETFs +211t (holdings record 4,256t), bar &amp; coin 268t (-19%), jewellery 313t (-17%); 2026 investment growth forecast cut to ~+200t from +400t, central bank demand seen at least matching 2025</title>
+      <link>https://www.gold.org/goldhub/research/gold-demand-trends/gold-demand-trends-q3-2026</link>
+      <description>[事實] 影響: XAUUSD | 重點: Q3央行購金321噸強勁、ETF流入211噸，但金條金幣與首飾需求下滑，WGC下修全年投資需求增量至約200噸；WGC稱高利率、高殖利率與強美元可能壓抑Q4投資需求（觀點） | 發布: 2026-11-03（確切時間UNKNOWN，本feed 22:22項已提及） | 抓取: 2026-11-04 04:10 (Asia/Taipei)</description>
+      <pubDate>Tue, 03 Nov 2026 22:21:00 +0800</pubDate>
+      <guid isPermaLink="false">aitrade-intel-20261103-wgc-gdt-q3-2026</guid>
     </item>
     <item>
       <title>Next 24h (Taipei) update: US JOLTS Sep + Factory Orders Sep 23:00 Tue (JOLTS consensus 7.10M finviz vs 7.15M ForexFactory, prior 7.079M; factory orders +1.2% vs prior +0.1%); US midterm results from Wed morning; NZ Q3 jobs 05:45 Wed (consensus +0.4%, UR 5.5%); BoJ minutes 07:50; EZ Oct HICP flash 18:00 (4.0% vs 3.8%); US ADP Oct 21:15 (67K-69K, prior 90K); US trade balance + Treasury refunding 21:30; ISM Services 23:00 (54.8)</title>
@@ -180,41 +215,6 @@
       <description>[事實] 影響: XAUUSD/DXY/AUD/USD/EUR/USD | 重點: 未來24小時焦點為美國11/3期中選舉（台北時間週三上午起陸續開票）與RBA週二11:30決議（先前報導市場約78-86%定價升息25bp至4.85%）；Julius Baer認為選舉結果不足以改變美國赤字格局（觀點）；Goolsbee週一受訪稱應「100%承諾」讓通膨回到目標（CNBC Squawk Box，原文細節UNKNOWN）；週三有歐元區HICP快報、美國ADP與ISM服務業 | 發布: 2026-11-03 00:24 (Asia/Taipei，Business Recorder更新時間) | 抓取: 2026-11-03 04:20 (Asia/Taipei)</description>
       <pubDate>Tue, 03 Nov 2026 03:00:00 +0800</pubDate>
       <guid isPermaLink="false">aitrade-intel-202611030300-next24h</guid>
-    </item>
-    <item>
-      <title>Post-ISM snapshot ~23:55-00:09 Taipei (Yahoo): COMEX Dec gold $3,968.2 (prev $3,898.9, high $3,976.8), DXY 101.72 (range 101.43-101.99), US 10Y 4.912% (CNBC earlier 4.884%), EUR/USD 1.1196, USD/JPY 157.86; WTI near $96 (-5%) as Pezeshkian says Supreme Leader granted government negotiating powers (ISNA via FXStreet)</title>
-      <link>https://www.fxstreet.com/news/gold-finds-relief-from-oils-decline-as-traders-await-key-us-economic-data-202611021107</link>
-      <description>[事實] 影響: XAUUSD/DXY/EUR/USD/USD/JPY | 重點: ISM公布後黃金未失守，COMEX 12月金23:59報$3,968.2，高點$3,976.8，仍在$4,000下方（Saxo稱$3,970為前支撐轉壓力，屬觀點）；DXY 101.72、美10年期4.912%、EUR/USD 1.1196、USD/JPY 157.86（Yahoo）；CNBC稱10年期一度4.884%、2年期4.585%，來源時間點不同數值有差；FXStreet引ISNA稱伊朗總統表示最高領袖授予政府談判權，WTI跌向$96 | 發布: 2026-11-02 23:59 (Asia/Taipei，Yahoo報價) | 抓取: 2026-11-03 00:10 (Asia/Taipei)</description>
-      <pubDate>Mon, 02 Nov 2026 23:59:00 +0800</pubDate>
-      <guid isPermaLink="false">aitrade-intel-202611022359-post-ism-snapshot</guid>
-    </item>
-    <item>
-      <title>US ISM Manufacturing PMI Oct 55.5 vs ~54.5-54.7 consensus, prior 54.5 (10th month of expansion); New Orders 55.5, Production 59.0 (highest since Nov 2021), Employment 52.4, Prices Paid 75.2 vs 77.9 prior (~77 forecast); Kitco: gold's rebound hits selling pressure on initial reaction, spot $3,955.60 (+2%)</title>
-      <link>https://www.ismworld.org/supply-management-news-and-reports/reports/ism-pmi-reports/pmi/october/</link>
-      <description>[事實] 影響: XAUUSD/DXY/美債殖利率 | 重點: 美國10月ISM製造業PMI 55.5，高於市場預期約54.5-54.7（各家預期不一）與前值54.5，連續第10個月擴張；新訂單55.5、生產59.0（2021年11月以來最高）、就業52.4；物價支付指數75.2，低於前值77.9與預期約77（ISM/FXStreet）；Kitco稱數據公布後黃金反彈遇賣壓，現貨$3,955.60（+2%）；數據強勁可能強化12月升息預期（推測，CME FedWatch約72%） | 發布: 2026-11-02 23:00 (Asia/Taipei，ISM) | 抓取: 2026-11-03 00:10 (Asia/Taipei)</description>
-      <pubDate>Mon, 02 Nov 2026 23:00:00 +0800</pubDate>
-      <guid isPermaLink="false">aitrade-intel-202611022300-ism-mfg-oct</guid>
-    </item>
-    <item>
-      <title>US open FX/rates snapshot ~22:10-22:23 Taipei (Yahoo): DXY 101.64 (prev 101.88), US 10Y 4.906% (prev 4.929%), EUR/USD 1.1218 (prev 1.1166), USD/JPY 157.81 (prev 157.52); CNBC 2Y 4.598% (+2bp), 30Y 5.273%; ING: Democratic sweep ~68% in prediction markets, cautious on USD upside before midterms</title>
-      <link>https://www.fxstreet.com/news/experts-agree-us-midterms-and-ai-jitters-might-damage-confidence-in-the-us-dollar-202611021232</link>
-      <description>[事實] 影響: DXY/EUR/USD/USD/JPY/XAUUSD | 重點: 美盤前美元走軟、長端殖利率小降：DXY 101.64（前收101.88）、美10年期4.906%（前4.929%）、EUR/USD 1.1218、USD/JPY 157.81（Yahoo）；CNBC稱2年期升至4.598%、30年期5.273%，殖利率曲線趨平；ING稱預測市場民主黨橫掃約68%、期中選舉前不宜追美元（機構觀點）；MUFG稱共和黨大敗恐壓抑美元（觀點） | 發布: 2026-11-02 20:32 (Asia/Taipei，FXStreet文章) / Yahoo報價22:08-22:23 | 抓取: 2026-11-02 22:30 (Asia/Taipei)</description>
-      <pubDate>Mon, 02 Nov 2026 22:20:00 +0800</pubDate>
-      <guid isPermaLink="false">aitrade-intel-202611022220-usopen-fx-rates</guid>
-    </item>
-    <item>
-      <title>Gold jumps ~$35 into US open: COMEX Dec gold $3,954.8 at 22:13 Taipei (day high $3,961, low $3,889), 15-min bar 21:15-21:30 Taipei from ~$3,919 to ~$3,953 (Yahoo); Kitco spot ~$3,945.70 (+1.80%), silver ~$50.94 (+3.66%); gold-api spot $3,941.90 at 22:23 Taipei; exact trigger of spike UNKNOWN</title>
-      <link>https://www.kitco.com/news/article/2026-11-02/gold-silver-rebound-iran-diplomacy-sends-oil-lower-easing-fed-tightening</link>
-      <description>[事實] 影響: XAUUSD | 重點: 金價美盤前急拉，COMEX 12月期金22:13報$3,954.8（日高$3,961、日低$3,889），21:15至21:30一根15分K從約$3,919拉到約$3,953（Yahoo）；Kitco現貨約$3,945.70（+1.80%）、白銀約$50.94（+3.66%），gold-api現貨22:23報$3,941.90；Kitco歸因油價重挫、美債殖利率走低、美元轉弱及逢低買盤（媒體解讀），21:15這波急拉的確切觸發消息UNKNOWN；Kitco另稱12月升息機率仍約75% | 發布: 2026-11-02 22:13 (Asia/Taipei，Yahoo報價時間；Kitco文章確切時間UNKNOWN) | 抓取: 2026-11-02 22:30 (Asia/Taipei)</description>
-      <pubDate>Mon, 02 Nov 2026 22:13:00 +0800</pubDate>
-      <guid isPermaLink="false">aitrade-intel-202611022213-gold-spike-us-open</guid>
-    </item>
-    <item>
-      <title>Oil dives to session low: CNBC Brent -6.07% to $106.54, WTI -6.2% to $97.65 at 21:55 Taipei after Rubio says Trump prefers diplomatic resolution; Kitco: Iran says it could reopen Hormuz and resume nuclear talks within two days (vs earlier seven-day timetable) if US lifts naval blockade and eases oil sanctions, Washington has not accepted</title>
-      <link>https://www.cnbc.com/2026/11/02/oil-prices-fall-as-iran-us-pursue-diplomacy.html</link>
-      <description>[事實] 影響: XAUUSD/USD/CAD/USD/JPY | 重點: 原油跌幅擴大至日低，CNBC稱台北21:55 Brent跌6.07%至$106.54、WTI跌6.2%至$97.65（Reuters 20:50台北另報Brent $108.66、WTI $99.83），起因為Rubio稱Trump偏好外交解決；Kitco報導伊朗稱若美方解除港口封鎖、放寬石油制裁，可在兩天內重開荷莫茲並恢復核談（原提七天時程），華府尚未接受；伊朗條件能否落地屬[推測]，PVM分析師對持久停火存疑 | 發布: 2026-11-02 21:55 (Asia/Taipei，CNBC報價時間) | 抓取: 2026-11-02 22:30 (Asia/Taipei)</description>
-      <pubDate>Mon, 02 Nov 2026 21:55:00 +0800</pubDate>
-      <guid isPermaLink="false">aitrade-intel-202611022155-oil-dives-hormuz-two-day</guid>
     </item>
   </channel>
 </rss>
