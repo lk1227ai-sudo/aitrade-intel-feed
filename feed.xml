@@ -5,7 +5,28 @@
     <link>https://lk7221ai-bit.github.io/aitrade-intel-feed/</link>
     <description>公開資訊彙整，非交易建議</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 03 Nov 2026 20:10:00 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 20:55:00 +0800</lastBuildDate>
+    <item>
+      <title>Next 24h (Taipei) update: US JOLTS Sep + Factory Orders Sep 23:00 Tue (JOLTS consensus 7.10M finviz vs 7.15M ForexFactory, prior 7.079M; factory orders +1.2% vs prior +0.1%); US midterm results from Wed morning; NZ Q3 jobs 05:45 Wed (consensus +0.4%, UR 5.5%); BoJ minutes 07:50; EZ Oct HICP flash 18:00 (4.0% vs 3.8%); US ADP Oct 21:15 (67K-69K, prior 90K); US trade balance + Treasury refunding 21:30; ISM Services 23:00 (54.8)</title>
+      <link>https://www.bls.gov/schedule/2026/11_sched_list.htm</link>
+      <description>[事實] 影響: XAUUSD/DXY/EUR/USD/NZD/USD/USD/JPY | 重點: 今晚23:00美國JOLTS與工廠訂單、週三ADP、退款公告與ISM服務業為未來24小時主要數據（時間由美東換算，美國已回標準時間）；各家預期值不一致（JOLTS 7.10M對7.15M、ADP 67K對69K，先前TD為75K），實際值尚未公布＝UNKNOWN；另週四20:00 BoE會議ForexFactory預期升息至4.00% | 發布: 2026-11-03 20:55 (Asia/Taipei，BLS/finviz/ForexFactory彙整) | 抓取: 2026-11-03 20:55 (Asia/Taipei)</description>
+      <pubDate>Tue, 03 Nov 2026 20:55:00 +0800</pubDate>
+      <guid isPermaLink="false">aitrade-intel-202611032055-next24h-jolts-adp-ism</guid>
+    </item>
+    <item>
+      <title>Gold extends losses into US pre-market: Dec futures opened $3,960.50 (-0.2%), slipped to $3,910.60 at 7:20 a.m. ET, $3,923.80 (-1.15%) at 7:26 a.m. ET (Yahoo); one week -1.8%, one month -5.8%; Yahoo links pressure to higher oil and Dec Fed hike risk</title>
+      <link>https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-tuesday-november-3-2026-gold-prices-open-below-4000-for-the-second-straight-day-123207114.html</link>
+      <description>[事實] 影響: XAUUSD | 重點: 金價期貨連兩日開在$4,000之下，美盤前在$3,910-3,924一帶（Yahoo報價）；Yahoo認為中東緊張推高油價、提高Fed 12月升息機率而壓抑金價（觀點）；Swiftedge顯示亞洲時段跌1.04%、倫敦區間$3,898-3,914 | 發布: 2026-11-03 20:32 (Asia/Taipei，Yahoo Finance) | 抓取: 2026-11-03 20:55 (Asia/Taipei)</description>
+      <pubDate>Tue, 03 Nov 2026 20:32:00 +0800</pubDate>
+      <guid isPermaLink="false">aitrade-intel-202611032032-us-premarket-gold</guid>
+    </item>
+    <item>
+      <title>Rumor: Tucker Carlson claims Netanyahu presses Trump to strike Iran's underground Pickax Mountain site with a nuclear weapon, decision possibly by Nov 7; White House official rejects the claim as uninformed, Trump earlier said 'no' to post-midterm strike plans (X news summary)</title>
+      <link>https://x.com/i/trending/2117592154922996143</link>
+      <description>[推測] 影響: XAUUSD/原油/USD/JPY/USD/CHF | 重點: 屬單一評論者未證實說法，白宮官員否認、川普稱選後無攻擊計畫；X上另有「美伊戰爭已開始」的假消息流傳，請勿當作事實；對市場實際影響 UNKNOWN | 發布: 2026-11-03 20:24 (Asia/Taipei，X新聞摘要) | 抓取: 2026-11-03 20:55 (Asia/Taipei)</description>
+      <pubDate>Tue, 03 Nov 2026 20:24:00 +0800</pubDate>
+      <guid isPermaLink="false">aitrade-intel-202611032024-carlson-iran-strike-rumor</guid>
+    </item>
     <item>
       <title>European session snapshot ~19:12-20:04 Taipei: spot gold ~$3,904-3,909 (-0.9% to -1.1%; FXStreet $3,909 at 19:12, CNBC/Reuters $3,904.69, exa $3,903.78 at 20:04 Taipei), Dec futures $3,914.70 (-1.4%); DXY ~101.81; CME FedWatch 75% chance of Dec Fed hike; Brent ~$106.9, WTI ~$98.2; USD/CHF 0.8164, EUR/CHF 0.9137 (lowest since June) after Swiss CPI</title>
       <link>https://www.fxstreet.com/news/gold-struggles-near-3-900-as-traders-assess-middle-east-developments-us-election-risks-202611031112</link>
@@ -194,27 +215,6 @@
       <description>[事實] 影響: USD/JPY/DXY | 重點: 日本財務大臣片山皋月稱若匯市失序或過度投機將採取行動，並與美方密切協調，美國期中選舉後框架不變；美元/日圓未受影響，exa台北20:03報157.95（+0.26%）；MUFG稱200日均線約158.50為關鍵，干預風險使160難破，但若民主黨橫掃國會可能壓低美元/日圓；KFH列支撐157.40/157.00、阻力158.00/158.50；價位為機構觀點 | 發布: 2026-11-02 早盤 (Asia/Taipei，確切時間UNKNOWN) / 報價 20:03 | 抓取: 2026-11-02 20:05 (Asia/Taipei)</description>
       <pubDate>Mon, 02 Nov 2026 20:03:00 +0800</pubDate>
       <guid isPermaLink="false">aitrade-intel-202611022003-katayama-usdjpy</guid>
-    </item>
-    <item>
-      <title>London session: gold holds ~$3,894-3,909 range (Swiftedge XAU perp $3,907.35 at 19:50 Taipei, London low $3,893.99, day high $3,921.45 in Asia); Goldreporter spot $3,903.29 (+0.8%) at 15:30 Taipei, silver back above $50, US 10Y 4.920%</title>
-      <link>https://swiftedge.uk/gold/2026-11-02</link>
-      <description>[事實] 影響: XAUUSD | 重點: 倫敦盤黃金窄幅整理：Swiftedge永續合約台北19:50報3,907.35，倫敦時段區間3,893.99-3,908.75，全日高點3,921.45出現在亞洲盤（台北13:40）；Goldreporter台北15:30現貨3,903.29（+0.8%）、白銀50.25重回50上方、美10年期4.920%、布蘭特114.18；注意Swiftedge為永續合約價，非LBMA定盤價；今晚23:00 ISM製造業為下一個數據事件 | 發布: 2026-11-02 15:30-19:50 (Asia/Taipei) | 抓取: 2026-11-02 20:05 (Asia/Taipei)</description>
-      <pubDate>Mon, 02 Nov 2026 19:50:00 +0800</pubDate>
-      <guid isPermaLink="false">aitrade-intel-202611021950-gold-london</guid>
-    </item>
-    <item>
-      <title>Iran FM spokesman Baghaei rejects moving 60% enriched uranium stockpile abroad, demands end of US naval blockade and sanctions relief first; oil falls 2-3% on Doha talks hopes (Brent below $114, WTI near/below $100); Goldman lifts Dec Brent forecast to $105 (X news summaries, unverified)</title>
-      <link>https://x.com/i/trending/2117216971066675532</link>
-      <description>[推測] 影響: XAUUSD/油價/USD/JPY/DXY | 重點: 依X新聞摘要（未經獨立查證）：伊朗外交部發言人Baghaei在德黑蘭記者會拒絕把60%濃縮鈾移出境外，要求美方先結束海上封鎖並解除制裁，稱有草案在流傳、訊息持續交換；此說法與先前斡旋方草案「濃縮鈾移至第三國」相矛盾；油價因杜哈談判期待下跌2-3%，布蘭特跌破114、WTI約100下方（各摘要數字不一）；Goldman 11/1報告上調12月布蘭特預測至105（原90）；另有摘要稱波灣國家擔憂期中選舉後美以再度空襲伊朗 | 發布: 2026-11-02 16:34-19:54 (Asia/Taipei，X摘要更新時間) | 抓取: 2026-11-02 20:05 (Asia/Taipei)</description>
-      <pubDate>Mon, 02 Nov 2026 19:31:00 +0800</pubDate>
-      <guid isPermaLink="false">aitrade-intel-202611021931-iran-uranium-oil</guid>
-    </item>
-    <item>
-      <title>Eurozone HCOB final October manufacturing PMI 52.7 vs 52.4 flash/consensus, prior 52.9 (2-month low); input cost inflation 5-month high, supplier delays worsen; France and Italy contract (S&amp;P Global/FXStreet); one broker headline shows 53.3, conflicts with official 52.7</title>
-      <link>https://www.fxstreet.com/news/eurozone-hcob-manufacturing-pmi-above-forecasts-524-in-october-actual-527-202611020900</link>
-      <description>[事實] 影響: EUR/USD/DXY | 重點: 歐元區10月製造業PMI終值52.7，高於初值/共識52.4，前值52.9（兩個月低點）；產出分項52.8為四個月低，投入成本通膨升至五個月高、供應商交貨延遲惡化，法國與義大利轉為收縮；S&amp;P Global官方稿為52.7，Octa轉載標題寫53.3與官方不符，以官方為準 | 發布: 2026-11-02 17:00 (Asia/Taipei) | 抓取: 2026-11-02 20:05 (Asia/Taipei)</description>
-      <pubDate>Mon, 02 Nov 2026 17:00:00 +0800</pubDate>
-      <guid isPermaLink="false">aitrade-intel-202611021700-ez-pmi</guid>
     </item>
   </channel>
 </rss>
