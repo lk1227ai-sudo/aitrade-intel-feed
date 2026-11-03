@@ -5,7 +5,14 @@
     <link>https://lk7221ai-bit.github.io/aitrade-intel-feed/</link>
     <description>公開資訊彙整，非交易建議</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 03 Nov 2026 20:55:00 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 22:22:00 +0800</lastBuildDate>
+    <item>
+      <title>Gold rebounds in US hours: spot ~$3,953-3,962 (+0.1% to +0.4%) after session low $3,895.56, a ~$67 recovery (USAGOLD $3,962.72; FXStreet ~$3,954; Invezz $3,953); silver $50.32 (-0.69%), gold/silver ratio 78.75; US 10Y 4.929%, 2Y 4.604%, 30Y 5.296% (CNBC); Invezz says WGC halved its investment demand forecast (details UNKNOWN)</title>
+      <link>https://www.usagold.com/daily-precious-metals-market-report-november-3-2026/</link>
+      <description>[事實] 影響: XAUUSD/XAGUSD/DXY | 重點: 金價從歐盤跌破$3,900後於美盤回升至$3,950-3,960區間，收復當日跌幅；美債殖利率同步小升（10年期約4.93%），各來源報價時間不同略有差異；「$3,900以下有買盤」屬USAGOLD觀點；WGC下修投資需求預測的具體數字未取得＝UNKNOWN | 發布: 2026-11-03 時間UNKNOWN (USAGOLD/FXStreet/Invezz/CNBC，以抓取時間作pubDate) | 抓取: 2026-11-03 22:22 (Asia/Taipei)</description>
+      <pubDate>Tue, 03 Nov 2026 22:22:00 +0800</pubDate>
+      <guid isPermaLink="false">aitrade-intel-202611032222-us-hours-gold-rebound</guid>
+    </item>
     <item>
       <title>Next 24h (Taipei) update: US JOLTS Sep + Factory Orders Sep 23:00 Tue (JOLTS consensus 7.10M finviz vs 7.15M ForexFactory, prior 7.079M; factory orders +1.2% vs prior +0.1%); US midterm results from Wed morning; NZ Q3 jobs 05:45 Wed (consensus +0.4%, UR 5.5%); BoJ minutes 07:50; EZ Oct HICP flash 18:00 (4.0% vs 3.8%); US ADP Oct 21:15 (67K-69K, prior 90K); US trade balance + Treasury refunding 21:30; ISM Services 23:00 (54.8)</title>
       <link>https://www.bls.gov/schedule/2026/11_sched_list.htm</link>
@@ -208,13 +215,6 @@
       <description>[事實] 影響: XAUUSD/DXY | 重點: 美盤前黃金維持反彈：COMEX 12月期金台北20:21報3,914.80（+0.39%），日內區間3,889.00-3,928.10，52週低點3,879.30（10/30）；Reuters/CNBC現貨報3,900.14（+0.7%）；Investing.com稱台北17:09美元指數跌0.4%至101.45、白銀50.41；各來源現貨報價略有差異 | 發布: 2026-11-02 17:09-20:21 (Asia/Taipei) | 抓取: 2026-11-02 20:58 (Asia/Taipei)</description>
       <pubDate>Mon, 02 Nov 2026 20:21:00 +0800</pubDate>
       <guid isPermaLink="false">aitrade-intel-202611022021-gold-preus-snapshot</guid>
-    </item>
-    <item>
-      <title>Japan FinMin Katayama: will act on disorderly or excessively speculative FX moves, coordinating with US; USD/JPY shrugs it off, 157.95 at 20:03 Taipei (exa, +0.26%); MUFG flags 200-day MA ~158.50 as key level, 160 hard to break</title>
-      <link>https://www.japantimes.co.jp/business/2026/11/02/markets/katayama-ready-market-election/</link>
-      <description>[事實] 影響: USD/JPY/DXY | 重點: 日本財務大臣片山皋月稱若匯市失序或過度投機將採取行動，並與美方密切協調，美國期中選舉後框架不變；美元/日圓未受影響，exa台北20:03報157.95（+0.26%）；MUFG稱200日均線約158.50為關鍵，干預風險使160難破，但若民主黨橫掃國會可能壓低美元/日圓；KFH列支撐157.40/157.00、阻力158.00/158.50；價位為機構觀點 | 發布: 2026-11-02 早盤 (Asia/Taipei，確切時間UNKNOWN) / 報價 20:03 | 抓取: 2026-11-02 20:05 (Asia/Taipei)</description>
-      <pubDate>Mon, 02 Nov 2026 20:03:00 +0800</pubDate>
-      <guid isPermaLink="false">aitrade-intel-202611022003-katayama-usdjpy</guid>
     </item>
   </channel>
 </rss>
