@@ -5,7 +5,35 @@
     <link>https://lk7221ai-bit.github.io/aitrade-intel-feed/</link>
     <description>公開資訊彙整，非交易建議</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 03 Nov 2026 12:10:00 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 16:10:00 +0800</lastBuildDate>
+    <item>
+      <title>Afternoon snapshot ~14:05-16:03 Taipei: spot gold slides toward $3,906-3,929 (fxpremiere $3,928.7 at 14:05, gold-pricex $3,913.10 at 15:53, exa $3,906.63 at 16:03 Taipei), prior-close references conflict ($3,969.6 vs $3,949.0 vs $3,902.20); DXY 101.742 flat, US 10Y 4.894%, silver $49.28 (-2.8%)</title>
+      <link>https://www.fxpremiere.com/xauusd-gold-price-today-3928-dollar-flat-november-3-2026/</link>
+      <description>[事實] 影響: XAUUSD/DXY/EUR/USD | 重點: 金價回吐週一反彈、午後跌向$3,906-3,929，fxpremiere列支撐為日低$3,926.5與20日低$3,879.3、壓力$3,969.6-3,974.5與20日均線$4,092.76（觀點）；Reuters稱金價因油價回落與期中選舉前被當作流動性資產賣出（觀點）；各來源前收基準不同，日跌幅介於+0.1%至-1.0%，以哪個為準 UNKNOWN | 發布: 2026-11-03 14:05-16:03 (Asia/Taipei，多來源報價) | 抓取: 2026-11-03 16:10 (Asia/Taipei)</description>
+      <pubDate>Tue, 03 Nov 2026 16:03:00 +0800</pubDate>
+      <guid isPermaLink="false">aitrade-intel-202611031603-afternoon-gold-snapshot</guid>
+    </item>
+    <item>
+      <title>Swiss CPI Oct +1.5% y/y vs 1.3% forecast (prior 1.0%), +0.2% m/m to 101.7 points; rise driven by heating oil, petrol and diesel (FSO)</title>
+      <link>https://www.bfs.admin.ch/en/newnsb/UA8hylpLYO6i</link>
+      <description>[事實] 影響: USD/CHF/EUR/CHF/XAUUSD | 重點: 瑞士10月CPI年增1.5%高於預期1.3%（預期值來自forexfundamentals），為近一年多最高，主因燃料價格上漲；仍低於SNB 2%上限，對SNB政策影響 UNKNOWN | 發布: 2026-11-03 15:30 (Asia/Taipei，瑞士聯邦統計局) | 抓取: 2026-11-03 16:10 (Asia/Taipei)</description>
+      <pubDate>Tue, 03 Nov 2026 15:30:00 +0800</pubDate>
+      <guid isPermaLink="false">aitrade-intel-202611031530-swiss-cpi-oct</guid>
+    </item>
+    <item>
+      <title>Oil rebounds in Asia after Qeshm strike reports: Brent +1.75% to $106.60, WTI +1.7% to $98.10 (CNBC, ~14:40 Taipei); ING says large risk premium still baked in, strong peace-talk progress would mean more downside; Goldman Dec Brent forecast $105, $140 peak in 2027 upside scenario (Reuters via Moneycontrol)</title>
+      <link>https://www.cnbc.com/2026/11/03/oil-prices-climb-after-us-reportedly-strikes-irans-qeshm-island.html</link>
+      <description>[事實] 影響: XAUUSD/原油/USD/CAD/USD/JPY | 重點: 週一暴跌7.6%後油價週二反彈約1-1.75%，美軍格什姆島打擊與談判並行；Vance稱對談判解決「感覺很好」；ING與Goldman看法屬機構觀點；談判是否有實質突破 UNKNOWN | 發布: 2026-11-03 14:41 (Asia/Taipei，CNBC) | 抓取: 2026-11-03 16:10 (Asia/Taipei)</description>
+      <pubDate>Tue, 03 Nov 2026 14:41:00 +0800</pubDate>
+      <guid isPermaLink="false">aitrade-intel-202611031441-oil-rebound-qeshm</guid>
+    </item>
+    <item>
+      <title>RBA's Bullock offers no forward guidance after hike to 4.85%: 'probably good to wait' for data, does not know next move; inflation 'largely baked in' for next year, headline seen peaking 4.5% in Dec quarter; growth must stay subdued and unemployment rise further, but economy not 'cracking'</title>
+      <link>https://investinglive.com/central-banks/rba-s-bullock-offers-no-guidance-says-it-is-probably-good-to-wait-for-data-after-hike/</link>
+      <description>[事實] 影響: AUD/USD/AUD/JPY | 重點: Bullock記者會未給前瞻指引、表示宜先觀察數據，investinglive解讀為可能暫停升息（觀點）；投票支持按兵不動的三位委員認為下行風險較大；Guardian稱澳股收高 | 發布: 2026-11-03 12:44 (Asia/Taipei，investinglive) | 抓取: 2026-11-03 16:10 (Asia/Taipei)</description>
+      <pubDate>Tue, 03 Nov 2026 12:44:00 +0800</pubDate>
+      <guid isPermaLink="false">aitrade-intel-202611031244-bullock-presser</guid>
+    </item>
     <item>
       <title>Asia midday snapshot ~11:53-12:03 Taipei: COMEX Dec gold $3,935.8 (Yahoo, prev settle ref $3,969.6), spot XAUUSD $3,926.01 (+0.61% vs $3,902.20 prior close, exa 12:02 Taipei), Asia spot high $3,964.62 / low $3,928.66 (AlQANAAS); DXY 101.77, AUD/USD 0.6988, USD/JPY 157.84, EUR/USD 1.1194</title>
       <link>https://exa.ai/library/markets/commodity/gold</link>
@@ -187,34 +215,6 @@
       <description>[推測] 影響: XAUUSD/油價/USD/JPY | 重點: 依X新聞摘要（未經獨立查證）：美財長Bessent稱荷莫茲航運量已回到衝突前水準（不含伊朗石油）；CENTCOM週日反駁伊朗外長，稱伊朗數月來殺害逾20名海員；卡達譴責10/30其LNG油輪Al Mayeda遇襲起火、25名船員安全；伊方稱格什姆島外遇襲漁民均已尋獲生還，修正先前「2人失蹤」說法；與先前IRGC油輪起火說法互相矛盾 | 發布: 2026-11-01 11:17-11-02 15:54 (Asia/Taipei，X摘要更新時間) | 抓取: 2026-11-02 16:25 (Asia/Taipei)</description>
       <pubDate>Mon, 02 Nov 2026 15:54:00 +0800</pubDate>
       <guid isPermaLink="false">aitrade-intel-202611021554-hormuz-claims</guid>
-    </item>
-    <item>
-      <title>Next 24h (Taipei): US ISM Manufacturing Oct 23:00 (consensus conflict 54.5 Bloomberg median vs 54.6 vs 54.7 TD/DJ, prior 54.5; prices paid prior 77.9); Fed Goolsbee Q&amp;A 00:15 Tue, no prepared speech; RBA decision Tue 11:30 (~78-86% priced 25bp hike to 4.85%), presser 12:30; US midterms Tue</title>
-      <link>https://www.newsquawk.com/headlines/preview-rba-rate-decision-scheduled-for-tuesday-3rd-november-2026-at-0330gmt-2230est-on-monday</link>
-      <description>[事實] 影響: XAUUSD/DXY/AUD/USD/USD/JPY | 重點: 美國已改冬令時間，數據台北時間晚1小時：今晚23:00美國10月ISM製造業（共識54.5/54.6/54.7來源不一，前值54.5；物價分項前值77.9，GGMA稱若再近78支持12月升息定價）；週二00:15 Fed Goolsbee座談（非今年票委）；週二11:30台北RBA決議，市場約78-86%定價升25bp至4.85%，12:30記者會並發布SMP；週二美國期中選舉；以上為行事曆，實際值UNKNOWN | 發布: 2026-11-02 15:15 (Asia/Taipei，Newsquawk RBA預覽) | 抓取: 2026-11-02 16:25 (Asia/Taipei)</description>
-      <pubDate>Mon, 02 Nov 2026 15:15:00 +0800</pubDate>
-      <guid isPermaLink="false">aitrade-intel-202611021515-next24h</guid>
-    </item>
-    <item>
-      <title>Source conflict on Friday gold close and Kitco weekly survey: Bloomberg/OCBC $3,875 (-3.7%) vs exa prior close $3,873.01 vs Tuoi Tre $3,876.4 vs Stockbiz $3,880.97; Kitco survey 10 of 16 Wall St analysts expect lower gold this week, Chandler sees $3,750-3,850 range if lows extend</title>
-      <link>https://nexacurrent.com/minerals/gold-rebounds-near-3-900-as-rate-fears-cool-38423abc.html</link>
-      <description>[推測] 影響: XAUUSD | 重點: 上週五黃金收盤各來源不一：OCBC引Bloomberg 3,875（-3.7%）、exa前收3,873.01、Tuoi Tre 3,876.4、Stockbiz 3,880.97（與本feed先前1trader/Babypips/FXPremiere數字亦不同）；Kitco週調查16位華爾街分析師中10位看跌、5位持平、1位看漲，散戶184人中98人看漲；Bannockburn的Chandler稱若續創低可能在3,750-3,850區間；屬觀點非事實 | 發布: 2026-11-02 (Asia/Taipei，確切時間UNKNOWN) | 抓取: 2026-11-02 16:25 (Asia/Taipei)</description>
-      <pubDate>Mon, 02 Nov 2026 12:00:00 +0800</pubDate>
-      <guid isPermaLink="false">aitrade-intel-202611021200-gold-conflict</guid>
-    </item>
-    <item>
-      <title>Monday Asia FX/rates snapshot (Saxo): USD/JPY 157.73, AUD/USD 0.7029, EUR/USD 1.1159, GBP/USD 1.3387; US 10Y back up ~1.5bp to 4.95%, 2Y 4.60%, 30Y 5.33%; Friday close DXY 101.88 (-0.2%), Brent $117.64, WTI $104.12 (Bloomberg via OCBC); Fed Dec hike ~73% priced (Westpac)</title>
-      <link>https://www.home.saxo/en-hk/content/articles/macro/asia-market-quick-take-02-november-2026-02112026</link>
-      <description>[事實] 影響: DXY/USD/JPY/EUR/USD/GBP/USD/AUD/USD/XAUUSD | 重點: 週一亞洲早盤：美元/日圓157.73、澳元0.7029、歐元1.1159、英鎊1.3387；美10年期殖利率回升約1.5bp至4.95%、2年4.60%、30年5.33%；上週五收盤DXY 101.88、布蘭特117.64、WTI 104.12；Fed 12月升息機率約73%（Westpac），另有來源稱約80%（Stockbiz），存在差異；Saxo稱週三美財政部季度再融資公告可能大改發債指引 | 發布: 2026-11-02 早盤 (Asia/Taipei，確切時間UNKNOWN) | 抓取: 2026-11-02 16:25 (Asia/Taipei)</description>
-      <pubDate>Mon, 02 Nov 2026 09:00:00 +0800</pubDate>
-      <guid isPermaLink="false">aitrade-intel-202611020900-asia-snapshot</guid>
-    </item>
-    <item>
-      <title>US-Iran: third day of indirect Qatar-mediated talks in Doha (Sun Nov 1); Araghchi says two-day plan to reopen Hormuz still under discussion, no final conclusion; Tehran awaits US response; Trump says no new attacks before Nov 3 midterms but talks "not very reliable", does not rule out action after; UAE Gargash "braced for the worst"</title>
-      <link>https://www.channelnewsasia.com/world/iran-qatari-mediators-hold-third-day-talks-end-us-iran-war-6511511</link>
-      <description>[事實] 影響: XAUUSD/油價/USD/JPY/DXY | 重點: 美伊經卡達在杜哈的間接談判11/1進入第三天，伊朗外長稱「兩天內重開荷莫茲」方案仍在談、無結論，伊朗等美方回覆；伊方條件含解除新制裁、恢復石油豁免、美軍減少駐軍；JPost引消息稱核問題無進展；川普稱期中選舉前不再攻擊但談判「不可靠」，不排除選後行動；Guardian稱卡達在談釋放逾60億美元伊朗資產；結果UNKNOWN，選後升級風險為各方報導焦點 | 發布: 2026-11-01 19:27-次日02:25 (Asia/Taipei，各報導時間) | 抓取: 2026-11-02 16:25 (Asia/Taipei)</description>
-      <pubDate>Mon, 02 Nov 2026 02:25:00 +0800</pubDate>
-      <guid isPermaLink="false">aitrade-intel-202611020225-us-iran-doha</guid>
     </item>
   </channel>
 </rss>
