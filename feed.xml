@@ -5,7 +5,28 @@
     <link>https://lk7221ai-bit.github.io/aitrade-intel-feed/</link>
     <description>公開資訊彙整，非交易建議</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 03 Nov 2026 08:15:00 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 12:10:00 +0800</lastBuildDate>
+    <item>
+      <title>Asia midday snapshot ~11:53-12:03 Taipei: COMEX Dec gold $3,935.8 (Yahoo, prev settle ref $3,969.6), spot XAUUSD $3,926.01 (+0.61% vs $3,902.20 prior close, exa 12:02 Taipei), Asia spot high $3,964.62 / low $3,928.66 (AlQANAAS); DXY 101.77, AUD/USD 0.6988, USD/JPY 157.84, EUR/USD 1.1194</title>
+      <link>https://exa.ai/library/markets/commodity/gold</link>
+      <description>[事實] 影響: XAUUSD/DXY/AUD/USD/USD/JPY/EUR/USD | 重點: 亞洲午盤金價自早盤約$3,955-3,965回落至約$3,926-3,936，現貨日內低點$3,928.66附近（AlQANAAS 05:35更新時資料；exa 12:02報$3,926.01），各來源現貨與期貨報價不同、前收基準也不一（exa $3,902.20 vs AlQANAAS $3,946.74）；DXY 101.77持平、USD/JPY 157.84窄幅；回落具體觸發因素 UNKNOWN | 發布: 2026-11-03 12:03 (Asia/Taipei，Yahoo/exa報價) | 抓取: 2026-11-03 12:10 (Asia/Taipei)</description>
+      <pubDate>Tue, 03 Nov 2026 12:03:00 +0800</pubDate>
+      <guid isPermaLink="false">aitrade-intel-202611031203-asia-midday-snapshot</guid>
+    </item>
+    <item>
+      <title>RBA hikes cash rate 25bp to 4.85% (18-year high, 5th hike of 2026) in split 6-3 vote (3 preferred hold at 4.60%); staff inflation forecasts revised materially higher, not back to top of 2-3% band until late 2027; AUD/USD dips ~0.3% to 0.6976 (ABC), ~0.6988 at 12:01 Taipei (Yahoo)</title>
+      <link>https://www.rba.gov.au/media-releases/2026/mr-26-30.html</link>
+      <description>[事實] 影響: AUD/USD/XAUUSD | 重點: RBA如預期升息至4.85%（生效11/4），但6比3分裂投票、聲明稱經濟放緩、房價大跌、失業率上升，ABC稱澳元初步下跌顯示市場解讀為偏鴿（觀點）；聲明點名中東衝突推升油價與AI投資推升物價；Bullock記者會台北12:30，下次決議12/8；與早前市場預期一致（約85%定價） | 發布: 2026-11-03 11:30 (Asia/Taipei，RBA官方) | 抓取: 2026-11-03 12:10 (Asia/Taipei)</description>
+      <pubDate>Tue, 03 Nov 2026 11:30:00 +0800</pubDate>
+      <guid isPermaLink="false">aitrade-intel-202611031130-rba-hike-485</guid>
+    </item>
+    <item>
+      <title>US officials confirm Qeshm strike: US jet destroyed IRGC SAM launcher on Qeshm Island after missile fired at US aircraft (Axios), AP calls them 'limited defensive' strikes; WSJ says part of quiet series of limited US strikes in recent weeks; Axios: CIA's Ratcliffe, Bessent, Rubio favor 'no war, no deal' status quo vs Vance/Witkoff pushing for deal</title>
+      <link>https://www.iranintl.com/en/liveblog/202610312594</link>
+      <description>[事實] 影響: XAUUSD/原油/USD/JPY | 重點: 先前伊朗媒體報導的格什姆島爆炸，現有美方官員（經Axios/AP/WSJ轉述，匿名來源）證實為美軍「有限防禦性」打擊，同時談判仍在進行（卡達調解人赴德黑蘭）；白宮內部路線分歧屬媒體引述消息（傳言/觀點），美方官方正式聲明 UNKNOWN | 發布: 2026-11-03 約07:00-10:00 (Asia/Taipei，Iran International/Al Jazeera直播，確切時間 UNKNOWN) | 抓取: 2026-11-03 12:10 (Asia/Taipei)</description>
+      <pubDate>Tue, 03 Nov 2026 10:00:00 +0800</pubDate>
+      <guid isPermaLink="false">aitrade-intel-202611031000-us-confirms-qeshm-strike</guid>
+    </item>
     <item>
       <title>Asia open snapshot ~07:55-08:05 Taipei (Yahoo, Tokyo closed for Culture Day): COMEX Dec gold $3,956.8 (Asia 07:00-07:55 range $3,952.8-$3,959.9), silver $50.68; DXY 101.80; EUR/USD 1.1196, USD/JPY 157.91, GBP/USD 1.3410, AUD/USD 0.7002; Brent $104.37, WTI $96.34; US 10Y last 4.894% (cash market closed)</title>
       <link>https://www.traderswebfx.jp/news/article/1218572</link>
@@ -194,27 +215,6 @@
       <description>[事實] 影響: XAUUSD/油價/USD/JPY/DXY | 重點: 美伊經卡達在杜哈的間接談判11/1進入第三天，伊朗外長稱「兩天內重開荷莫茲」方案仍在談、無結論，伊朗等美方回覆；伊方條件含解除新制裁、恢復石油豁免、美軍減少駐軍；JPost引消息稱核問題無進展；川普稱期中選舉前不再攻擊但談判「不可靠」，不排除選後行動；Guardian稱卡達在談釋放逾60億美元伊朗資產；結果UNKNOWN，選後升級風險為各方報導焦點 | 發布: 2026-11-01 19:27-次日02:25 (Asia/Taipei，各報導時間) | 抓取: 2026-11-02 16:25 (Asia/Taipei)</description>
       <pubDate>Mon, 02 Nov 2026 02:25:00 +0800</pubDate>
       <guid isPermaLink="false">aitrade-intel-202611020225-us-iran-doha</guid>
-    </item>
-    <item>
-      <title>Source conflict on weekly wrap: spot gold Friday close ~$3,876 (1trader) vs ~$3,880 with low ~$3,871 (Babypips) vs $3,898.9 (FXPremiere); DXY ~101.96 all agree; NFP Oct consensus 56K &amp; 4.2% unemployment (1trader) vs 40K TE / 70-80K prediction markets cited earlier</title>
-      <link>https://www.fxpremiere.com/gold-weekly-outlook-xauusd-near-20-day-low-october-31-2026/</link>
-      <description>[事實] 影響: XAUUSD/DXY | 重點: 各週報對金價週五收盤數字不一（約$3,876、$3,880、$3,898.9，差約$23，可能因報價源與收盤時點不同），使用時須確認報價源；三家皆稱週跌約2.7%-3%、DXY約101.96、10年期約4.93%；10月非農預期來源分歧：1trader稱56K、失業率4.2%，先前FXIFY稱TE 40K、預測市場70-80K，正式共識UNKNOWN | 發布: 2026-10-31 時間UNKNOWN (各週報) | 抓取: 2026-10-31 20:15 (Asia/Taipei)</description>
-      <pubDate>Sat, 31 Oct 2026 20:15:00 +0800</pubDate>
-      <guid isPermaLink="false">aitrade-intel-202610312015-wrap-conflict</guid>
-    </item>
-    <item>
-      <title>Iran tension signals (Iranian media via X summaries): Supreme Leader Mojtaba Khamenei orders forces to respond to any threat with no geographic limits, targets include all US-Israeli assets; 'enemy' drone reportedly hit two fishing boats 14nm south of Qeshm Island, 2 injured, 2 missing</title>
-      <link>https://x.com/i/trending/2116478074183204930</link>
-      <description>[推測] 影響: XAUUSD/油價/USD/JPY | 重點: 依X新聞摘要（引伊朗媒體），伊朗最高領袖10/31對軍方下令以「無地理限制」回應威脅，指揮官稱荷莫茲海峽戰備高；伊朗媒體另稱格什姆島南方14海里有無人機攻擊兩艘漁船，2傷2失蹤，指控美軍未獲證實；與卡達調停的和談進展訊號互相矛盾；週末休市，週一開盤反應UNKNOWN | 發布: 2026-10-31 約19:40 (Asia/Taipei，X摘要更新時間) | 抓取: 2026-10-31 20:15 (Asia/Taipei)</description>
-      <pubDate>Sat, 31 Oct 2026 19:40:00 +0800</pubDate>
-      <guid isPermaLink="false">aitrade-intel-202610311940-iran-tension</guid>
-    </item>
-    <item>
-      <title>Unconfirmed: Al-Araby Al-Jadeed says 'breakthrough' in Qatar/Pakistan-mediated US-Iran talks, US delegation to join Iran for direct talks in Doha Sat; preliminary steps on nuclear, Hormuz shipping, financial incentives, China/Russia as guarantors; no official confirmation from Washington, Tehran or Doha</title>
-      <link>https://www.iranintl.com/en/202610312019</link>
-      <description>[推測] 影響: XAUUSD/油價/USD/JPY/DXY | 重點: 卡達媒體Al-Araby Al-Jadeed引述調停消息稱美伊間接談判有突破、美方代表團將赴杜哈直接談判，華府、德黑蘭、杜哈皆未證實；Axios稱卡達在德黑蘭談逾12小時後週六移師杜哈續談，美方官員稱雙方仍卡在核讓步先後與解除封鎖先後；另有報導稱美國通知海灣國家準備下週可能恢復戰事（ynet），訊號矛盾；若成真可能影響油價與避險需求，方向與幅度UNKNOWN | 發布: 2026-10-31 15:44 (Asia/Taipei，Iran International) | 抓取: 2026-10-31 20:15 (Asia/Taipei)</description>
-      <pubDate>Sat, 31 Oct 2026 15:44:00 +0800</pubDate>
-      <guid isPermaLink="false">aitrade-intel-202610311544-doha-direct</guid>
     </item>
   </channel>
 </rss>
