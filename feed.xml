@@ -5,7 +5,21 @@
     <link>https://lk7221ai-bit.github.io/aitrade-intel-feed/</link>
     <description>公開資訊彙整，非交易建議</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 03 Nov 2026 22:22:00 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 00:05:00 +0800</lastBuildDate>
+    <item>
+      <title>US factory orders Sep +1.8% m/m to $677.2B vs +1.2% consensus, Aug revised up to +0.3% from +0.1%; ex-transportation +1.3%, civilian aircraft +28.3%, core capital goods orders revised to +0.6% (Census/Reuters)</title>
+      <link>https://www.census.gov/manufacturing/m3/current/index.html</link>
+      <description>[事實] 影響: XAUUSD/DXY/美債殖利率 | 重點: 9月工廠訂單+1.8%高於預期，連同ISM製造業與JOLTS顯示美國數據偏強；對金價與美元的實際影響未單獨量化＝UNKNOWN | 發布: 2026-11-03 23:00 (Asia/Taipei, Census 10:00 ET) | 抓取: 2026-11-04 00:05 (Asia/Taipei)</description>
+      <pubDate>Tue, 03 Nov 2026 23:01:00 +0800</pubDate>
+      <guid isPermaLink="false">aitrade-intel-202611032301-us-factory-orders-sep</guid>
+    </item>
+    <item>
+      <title>US JOLTS Sep job openings 7.523M vs ~7.10-7.15M consensus (Reuters 7.100M, Dow Jones 7.125M), Aug revised up to 7.190M from 7.079M; openings rate 4.5% (prior 4.3%), hires 5.402M, quits 3.365M, layoffs 1.641M (BLS); Kitco: spot gold $3,938.10 (-0.20%) after release; CNBC: US 10Y 4.935%, 2Y 4.608%</title>
+      <link>https://www.bls.gov/news.release/jolts.nr0.htm</link>
+      <description>[事實] 影響: XAUUSD/DXY/美債殖利率/USDJPY | 重點: 9月職缺7.523M大幅高於預期且8月上修，勞動需求偏強，Kitco稱可能增加Fed升息空間（觀點）；公布後現貨金約$3,938（-0.2%），美債10年期約4.935% | 發布: 2026-11-03 23:00 (Asia/Taipei, BLS 10:00 ET) | 抓取: 2026-11-04 00:05 (Asia/Taipei)</description>
+      <pubDate>Tue, 03 Nov 2026 23:00:00 +0800</pubDate>
+      <guid isPermaLink="false">aitrade-intel-202611032300-us-jolts-sep</guid>
+    </item>
     <item>
       <title>Gold rebounds in US hours: spot ~$3,953-3,962 (+0.1% to +0.4%) after session low $3,895.56, a ~$67 recovery (USAGOLD $3,962.72; FXStreet ~$3,954; Invezz $3,953); silver $50.32 (-0.69%), gold/silver ratio 78.75; US 10Y 4.929%, 2Y 4.604%, 30Y 5.296% (CNBC); Invezz says WGC halved its investment demand forecast (details UNKNOWN)</title>
       <link>https://www.usagold.com/daily-precious-metals-market-report-november-3-2026/</link>
@@ -201,20 +215,6 @@
       <description>[事實] 影響: XAUUSD/USD/CAD/USD/JPY | 重點: 原油跌幅擴大至日低，CNBC稱台北21:55 Brent跌6.07%至$106.54、WTI跌6.2%至$97.65（Reuters 20:50台北另報Brent $108.66、WTI $99.83），起因為Rubio稱Trump偏好外交解決；Kitco報導伊朗稱若美方解除港口封鎖、放寬石油制裁，可在兩天內重開荷莫茲並恢復核談（原提七天時程），華府尚未接受；伊朗條件能否落地屬[推測]，PVM分析師對持久停火存疑 | 發布: 2026-11-02 21:55 (Asia/Taipei，CNBC報價時間) | 抓取: 2026-11-02 22:30 (Asia/Taipei)</description>
       <pubDate>Mon, 02 Nov 2026 21:55:00 +0800</pubDate>
       <guid isPermaLink="false">aitrade-intel-202611022155-oil-dives-hormuz-two-day</guid>
-    </item>
-    <item>
-      <title>PBoC switches main policy rate to overnight reverse repo at 1.25% (first operation Nov 2): 541bn yuan injected, net drain 515bn yuan as 1tn overnight + 56bn 7-day repos matured; analysts say floor of rate corridor effectively lowered ~15bp (Xinhua/Reuters/Caixin)</title>
-      <link>https://english.news.cn/20261102/c14a8c1cd78246c59cb2ea6765cb645f/c.html</link>
-      <description>[事實] 影響: USD/CNH/AUD/USD | 重點: 中國人民銀行11/2起以隔夜逆回購利率取代7天期為主要政策利率，首次操作以固定利率1.25%、數量招標投放5410億元；當日1兆元隔夜與560億元7天期逆回購到期，公開市場淨回籠5150億元（中國金融信息網）；Reuters引分析師稱此舉實質把利率框架下限降低約15bp、非傳統降息，可望壓低債券殖利率（分析師觀點） | 發布: 2026-11-02 (Asia/Taipei，確切時間UNKNOWN) | 抓取: 2026-11-02 20:58 (Asia/Taipei)</description>
-      <pubDate>Mon, 02 Nov 2026 20:30:00 +0800</pubDate>
-      <guid isPermaLink="false">aitrade-intel-202611022030-pboc-overnight-anchor</guid>
-    </item>
-    <item>
-      <title>Pre-US open gold snapshot: COMEX Dec gold $3,914.80 (+0.39%) at 20:21 Taipei, day range $3,889.00-$3,928.10 (WSJ); spot $3,900.14 (+0.7%) per CNBC/Reuters; DXY 101.45 (-0.4%) at 17:09 Taipei (Investing.com); 52-week low $3,879.30 set Oct 30</title>
-      <link>https://www.wsj.com/market-data/quotes/futures/GC00/contracts</link>
-      <description>[事實] 影響: XAUUSD/DXY | 重點: 美盤前黃金維持反彈：COMEX 12月期金台北20:21報3,914.80（+0.39%），日內區間3,889.00-3,928.10，52週低點3,879.30（10/30）；Reuters/CNBC現貨報3,900.14（+0.7%）；Investing.com稱台北17:09美元指數跌0.4%至101.45、白銀50.41；各來源現貨報價略有差異 | 發布: 2026-11-02 17:09-20:21 (Asia/Taipei) | 抓取: 2026-11-02 20:58 (Asia/Taipei)</description>
-      <pubDate>Mon, 02 Nov 2026 20:21:00 +0800</pubDate>
-      <guid isPermaLink="false">aitrade-intel-202611022021-gold-preus-snapshot</guid>
     </item>
   </channel>
 </rss>
