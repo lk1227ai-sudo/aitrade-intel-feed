@@ -5,7 +5,21 @@
     <link>https://lk7221ai-bit.github.io/aitrade-intel-feed/</link>
     <description>公開資訊彙整，非交易建議</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 04 Nov 2026 20:52:00 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 22:24:00 +0800</lastBuildDate>
+    <item>
+      <title>US Sep trade deficit $105.0B vs $107.9B Bloomberg consensus, Aug revised $105.7B; exports +1.9% to $321.5B (capital goods record $73.3B), imports +1.2% to $426.6B (Census/BEA); Treasury Nov refunding $125B unchanged: 3Y $58B (Nov 9), 10Y $42B (Nov 10), 30Y $25B (Nov 12), ~$28B new cash; coupon sizes kept 'for the next several quarters' vs 'at least the next several quarters' in Aug (Treasury)</title>
+      <link>https://home.treasury.gov/news/press-releases/sb0678</link>
+      <description>[事實] 影響: 美債殖利率/DXY/XAUUSD | 重點: 9月貿易逆差1,050億美元略優於預期；財政部季度再融資規模維持1,250億美元不變、未增發，措辭由「至少未來數季」改為「未來數季」維持票券規模（市場是否解讀為未來可能增發屬推測，UNKNOWN）；下週3/10/30年期標售（台北11/10、11/11、11/13凌晨2:00） | 發布: 2026-11-04 21:30 (Asia/Taipei, Census/Treasury 8:30 ET) | 抓取: 2026-11-04 22:24 (Asia/Taipei)</description>
+      <pubDate>Wed, 04 Nov 2026 21:30:00 +0800</pubDate>
+      <guid isPermaLink="false">aitrade-intel-202611042130-trade-refunding</guid>
+    </item>
+    <item>
+      <title>US ADP Oct private payrolls +86K vs consensus 69K (Reuters) / 75K (Dow Jones) / 67K (Kitco); Sep revised down to +86K from +90K; base pay +3.2% y/y, gross pay +4.7%, job-changers +4.8%; trade/transport/utilities +39K, prof/business services -27K (3rd straight drop) (ADP); spot gold held ~$4,037.70 (+2%) after release (Kitco); BLS Oct NFP due Fri Nov 6, Reuters poll +65K, unemployment 4.2%</title>
+      <link>https://mediacenter.adp.com/2026-11-04-ADP-National-Employment-Report-Private-Sector-Employment-Increased-by-86,000-Jobs-in-October</link>
+      <description>[事實] 影響: XAUUSD/DXY/EURUSD/USDJPY/美債殖利率 | 重點: 10月ADP民間就業+8.6萬，高於各家預估（6.7萬~7.5萬，來源間預估不一），9月下修至+8.6萬；黃金公布後仍守在4,000美元上方（Kitco）；Kitco稱9月為9萬未反映下修，與ADP/Reuters矛盾，以ADP為準；更正本feed 19:21的非農日期矛盾：CNBC/Reuters/聯合新聞均指BLS非農於週五11/6（台北週五21:30）公布 | 發布: 2026-11-04 21:15 (Asia/Taipei, ADP 8:15 ET) | 抓取: 2026-11-04 22:24 (Asia/Taipei)</description>
+      <pubDate>Wed, 04 Nov 2026 21:15:00 +0800</pubDate>
+      <guid isPermaLink="false">aitrade-intel-202611042115-adp-oct-86k</guid>
+    </item>
     <item>
       <title>Iran's Ghalibaf says US voters 'said NO TO WAR', warns 'our NO comes with a Nightmare' if ignored; Mojtaba Khamenei says no change in US hostility expected; BBC Verify found no evidence for IRGC claim that four tankers were destroyed by mines; IRGC also claims another US MQ-9 drone downed; Trump: war ends 'when I say it ends' (BBC)</title>
       <link>https://www.bbc.com/news/articles/c6d934npl9y8o</link>
@@ -201,20 +215,6 @@
       <description>[事實] 影響: XAUUSD/DXY/EUR/USD | 重點: 金價回吐週一反彈、午後跌向$3,906-3,929，fxpremiere列支撐為日低$3,926.5與20日低$3,879.3、壓力$3,969.6-3,974.5與20日均線$4,092.76（觀點）；Reuters稱金價因油價回落與期中選舉前被當作流動性資產賣出（觀點）；各來源前收基準不同，日跌幅介於+0.1%至-1.0%，以哪個為準 UNKNOWN | 發布: 2026-11-03 14:05-16:03 (Asia/Taipei，多來源報價) | 抓取: 2026-11-03 16:10 (Asia/Taipei)</description>
       <pubDate>Tue, 03 Nov 2026 16:03:00 +0800</pubDate>
       <guid isPermaLink="false">aitrade-intel-202611031603-afternoon-gold-snapshot</guid>
-    </item>
-    <item>
-      <title>Swiss CPI Oct +1.5% y/y vs 1.3% forecast (prior 1.0%), +0.2% m/m to 101.7 points; rise driven by heating oil, petrol and diesel (FSO)</title>
-      <link>https://www.bfs.admin.ch/en/newnsb/UA8hylpLYO6i</link>
-      <description>[事實] 影響: USD/CHF/EUR/CHF/XAUUSD | 重點: 瑞士10月CPI年增1.5%高於預期1.3%（預期值來自forexfundamentals），為近一年多最高，主因燃料價格上漲；仍低於SNB 2%上限，對SNB政策影響 UNKNOWN | 發布: 2026-11-03 15:30 (Asia/Taipei，瑞士聯邦統計局) | 抓取: 2026-11-03 16:10 (Asia/Taipei)</description>
-      <pubDate>Tue, 03 Nov 2026 15:30:00 +0800</pubDate>
-      <guid isPermaLink="false">aitrade-intel-202611031530-swiss-cpi-oct</guid>
-    </item>
-    <item>
-      <title>PBoC to raise FX deposit reserve requirement ratio by 2pp to 6% from 4%, effective Nov 15 (first hike since Dec 2021), to slow yuan's rally; ~$24B FX liquidity withdrawn (Reuters calc); onshore yuan weakens up to 0.37% to 6.6728 per dollar, set for biggest one-day drop since May 15</title>
-      <link>https://english.www.gov.cn/news/202611/03/content_WS6ae98bb1c6d00ca5f9a0e103.html</link>
-      <description>[事實] 影響: USD/CNH/AUD/USD/DXY | 重點: 人行上調外匯存準率以抑制人民幣升值，人民幣今年升逾4.5%（Caixin）；ANZ認為主要是象徵意義、不足以扭轉升值趨勢（觀點）；對黃金影響 UNKNOWN | 發布: 2026-11-03 15:22 (Asia/Taipei，新華社/中國政府網) | 抓取: 2026-11-03 20:10 (Asia/Taipei)</description>
-      <pubDate>Tue, 03 Nov 2026 15:22:00 +0800</pubDate>
-      <guid isPermaLink="false">aitrade-intel-202611031522-pboc-fx-rrr-hike</guid>
     </item>
   </channel>
 </rss>
