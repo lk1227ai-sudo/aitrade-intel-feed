@@ -5,7 +5,21 @@
     <link>https://lk7221ai-bit.github.io/aitrade-intel-feed/</link>
     <description>公開資訊彙整，非交易建議</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 04 Nov 2026 20:10:00 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 20:52:00 +0800</lastBuildDate>
+    <item>
+      <title>Iran's Ghalibaf says US voters 'said NO TO WAR', warns 'our NO comes with a Nightmare' if ignored; Mojtaba Khamenei says no change in US hostility expected; BBC Verify found no evidence for IRGC claim that four tankers were destroyed by mines; IRGC also claims another US MQ-9 drone downed; Trump: war ends 'when I say it ends' (BBC)</title>
+      <link>https://www.bbc.com/news/articles/c6d934npl9y8o</link>
+      <description>[事實] 影響: XAUUSD/USDJPY/USDCHF/油價 | 重點: 伊朗談判代表回應美國期中選舉並強硬警告；BBC查證未找到「四艘油輪被毀」證據，與本feed 14:30所列IRGC說法矛盾（IRGC說法仍屬未證實）；美伊間接談判仍停滯，美方是否於選後動武UNKNOWN | 發布: 約2026-11-04 20:25 (Asia/Taipei, BBC頁面顯示「25分鐘前」推估) | 抓取: 2026-11-04 20:52 (Asia/Taipei)</description>
+      <pubDate>Wed, 04 Nov 2026 20:25:00 +0800</pubDate>
+      <guid isPermaLink="false">aitrade-intel-202611042025-iran-ghalibaf-bbc-verify</guid>
+    </item>
+    <item>
+      <title>ING FX daily (FXStreet 19:21 Taipei): US 2Y yields reclaimed most of 8-9bp overnight drop, USD/CHF and USD/JPY reversed about half of early-Asia 1% fall; DXY overnight low 101.25 seen as key support; EUR/USD correcting off 1.1260 spike; Reuters/Yahoo: 10Y 4.92% (-3bp), EUR/USD 1.133, GBP/USD 1.348, USD/CHF 0.8163, USD/JPY 158.12; sterling 7-week high $1.3495 (Guardian). Correction: Treasury refunding is 21:30 Taipei (8:30 ET), not 20:30</title>
+      <link>https://www.fxstreet.com/analysis/fx-daily-blue-wave-price-action-a-preview-of-whats-to-come-202611041121</link>
+      <description>[推測] 影響: DXY/EURUSD/GBPUSD/USDJPY/USDCHF/XAUUSD | 重點: ING認為美元走弱可能是2027年議題、不宜追空，DXY 101.25為支撐（觀點）；MUFG稱市場反應小於選舉結果規模（觀點）；EUR/USD報價來源間差異大（1.1230~1.133），以各自時點為準；更正：美財政部季度再融資公告為台北21:30（Treasury官網8:30 ET），本feed 19:14則誤寫20:30；ING稱非農為「明天」而MUFG稱「週五」，日期矛盾，實際日期UNKNOWN | 發布: 2026-11-04 19:21 (Asia/Taipei, FXStreet 11:21 GMT) | 抓取: 2026-11-04 20:52 (Asia/Taipei)</description>
+      <pubDate>Wed, 04 Nov 2026 19:21:00 +0800</pubDate>
+      <guid isPermaLink="false">aitrade-intel-202611041921-ing-fx-refunding-correction</guid>
+    </item>
     <item>
       <title>XAUUSD technicals and FX (FXStreet 19:14 Taipei): gold ~$4,041 (+3%), resistance 20-day SMA ~$4,074, upper Bollinger ~$4,253, RSI 46; DXY ~101.40 (-0.44%, near 5-week low); Saxo: gold reclaimed $3,970, Aug downtrend line ~$4,035; SocGen still sees Dec Fed 25bp hike as high probability; US Treasury quarterly refunding 20:30 Taipei</title>
       <link>https://www.fxstreet.com/news/gold-reclaims-4-000-as-democrats-congress-win-rattles-us-dollar-202611041114</link>
@@ -201,20 +215,6 @@
       <description>[事實] 影響: USD/CNH/AUD/USD/DXY | 重點: 人行上調外匯存準率以抑制人民幣升值，人民幣今年升逾4.5%（Caixin）；ANZ認為主要是象徵意義、不足以扭轉升值趨勢（觀點）；對黃金影響 UNKNOWN | 發布: 2026-11-03 15:22 (Asia/Taipei，新華社/中國政府網) | 抓取: 2026-11-03 20:10 (Asia/Taipei)</description>
       <pubDate>Tue, 03 Nov 2026 15:22:00 +0800</pubDate>
       <guid isPermaLink="false">aitrade-intel-202611031522-pboc-fx-rrr-hike</guid>
-    </item>
-    <item>
-      <title>Oil rebounds in Asia after Qeshm strike reports: Brent +1.75% to $106.60, WTI +1.7% to $98.10 (CNBC, ~14:40 Taipei); ING says large risk premium still baked in, strong peace-talk progress would mean more downside; Goldman Dec Brent forecast $105, $140 peak in 2027 upside scenario (Reuters via Moneycontrol)</title>
-      <link>https://www.cnbc.com/2026/11/03/oil-prices-climb-after-us-reportedly-strikes-irans-qeshm-island.html</link>
-      <description>[事實] 影響: XAUUSD/原油/USD/CAD/USD/JPY | 重點: 週一暴跌7.6%後油價週二反彈約1-1.75%，美軍格什姆島打擊與談判並行；Vance稱對談判解決「感覺很好」；ING與Goldman看法屬機構觀點；談判是否有實質突破 UNKNOWN | 發布: 2026-11-03 14:41 (Asia/Taipei，CNBC) | 抓取: 2026-11-03 16:10 (Asia/Taipei)</description>
-      <pubDate>Tue, 03 Nov 2026 14:41:00 +0800</pubDate>
-      <guid isPermaLink="false">aitrade-intel-202611031441-oil-rebound-qeshm</guid>
-    </item>
-    <item>
-      <title>RBA's Bullock offers no forward guidance after hike to 4.85%: 'probably good to wait' for data, does not know next move; inflation 'largely baked in' for next year, headline seen peaking 4.5% in Dec quarter; growth must stay subdued and unemployment rise further, but economy not 'cracking'</title>
-      <link>https://investinglive.com/central-banks/rba-s-bullock-offers-no-guidance-says-it-is-probably-good-to-wait-for-data-after-hike/</link>
-      <description>[事實] 影響: AUD/USD/AUD/JPY | 重點: Bullock記者會未給前瞻指引、表示宜先觀察數據，investinglive解讀為可能暫停升息（觀點）；投票支持按兵不動的三位委員認為下行風險較大；Guardian稱澳股收高 | 發布: 2026-11-03 12:44 (Asia/Taipei，investinglive) | 抓取: 2026-11-03 16:10 (Asia/Taipei)</description>
-      <pubDate>Tue, 03 Nov 2026 12:44:00 +0800</pubDate>
-      <guid isPermaLink="false">aitrade-intel-202611031244-bullock-presser</guid>
     </item>
   </channel>
 </rss>
