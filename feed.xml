@@ -5,20 +5,34 @@
     <link>https://lk7221ai-bit.github.io/aitrade-intel-feed/</link>
     <description>公開資訊彙整，非交易建議</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 04 Nov 2026 08:12:00 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 12:10:00 +0800</lastBuildDate>
+    <item>
+      <title>Market reaction to blue-wave signals ~11:50-12:09 Taipei: DXY -0.37% to 101.34 (one-month low), EUR/USD 1.1249 (+0.5%), GBP/USD 1.3464, USD/JPY 157.63 (-0.7%); US 10Y -6bp to 4.906% (lowest since early Sep per MarketScreener); S&amp;P futures -1.2%, Nasdaq futures &gt;-2%, Nikkei -3%; spot gold $3,948.12 (+0.66%, exa 12:09 Taipei) vs $3,934.75 at 08:24 Taipei (Reuters)</title>
+      <link>https://uk.marketscreener.com/news/stocks-wilt-dollar-slides-as-early-midterm-results-point-to-blue-sweep-ce785fdede8cf321</link>
+      <description>[事實] 影響: XAUUSD/DXY/EURUSD/USDJPY/GBPUSD/美債殖利率 | 重點: 期中選舉偏民主黨的結果引發美元走弱、美債上漲、美股期貨重挫，金價午盤升至約$3,948；Saxo稱市場在消化財政刺激預期下降，並認為初期拋售未必持續（觀點）；USDJPY各來源報價時點不同（FXStreet早盤158.4附近 vs Reuters 157.63） | 發布: 2026-11-04 11:50 (Asia/Taipei, Reuters) | 抓取: 2026-11-04 12:10 (Asia/Taipei)</description>
+      <pubDate>Wed, 04 Nov 2026 12:09:00 +0800</pubDate>
+      <guid isPermaLink="false">aitrade-intel-202611041209-blue-wave-market-reaction</guid>
+    </item>
+    <item>
+      <title>Breaking: Democrats win US House (NBC/CBS projections; NBC sees ~248 seats); Senate not yet called, Democrats net +3 flips incl. NC (Cooper) and SC upset, GA held, DDHQ calls TX for Talarico, MI toss-up; Kalshi ~86% / Polymarket ~88% Senate odds for Democrats (Bloomberg, earlier in Asia)</title>
+      <link>https://www.nbcnews.com/politics/2026-election/democrats-house-control-midterm-election-wins-trump-check-rcna603397</link>
+      <description>[事實] 影響: XAUUSD/DXY/USDJPY/EURUSD/美債殖利率 | 重點: NBC與CBS預測民主黨拿下眾院，川普第二任期首次失去國會全面控制；參院仍未判定（是否「藍色橫掃」UNKNOWN），預測市場機率屬市場觀點；取代本feed 07:30開票中項目 | 發布: 2026-11-04 約11:00-11:50 (Asia/Taipei, NBC/CBS/Reuters；精確判定時間UNKNOWN) | 抓取: 2026-11-04 12:10 (Asia/Taipei)</description>
+      <pubDate>Wed, 04 Nov 2026 11:50:00 +0800</pubDate>
+      <guid isPermaLink="false">aitrade-intel-202611041150-dems-win-house</guid>
+    </item>
+    <item>
+      <title>China RatingDog services PMI Oct 50.8 vs 51.6 prior (3-month low), composite 52.0 vs 52.4; new export business up 6th month, input costs fastest in 5 months while selling prices cut 2nd month (S&amp;P Global/RatingDog)</title>
+      <link>https://www.fxstreet.com/news/chinas-ratingdog-services-pmi-eases-to-508-in-october-202611040148</link>
+      <description>[事實] 影響: AUDUSD/USDCNH/XAUUSD | 重點: 中國10月RatingDog服務業PMI降至50.8（三個月低）、綜合PMI 52.0，仍在擴張區但動能放緩，投入成本升而售價降；市場預期值UNKNOWN | 發布: 2026-11-04 09:45 (Asia/Taipei, S&amp;P Global) | 抓取: 2026-11-04 12:10 (Asia/Taipei)</description>
+      <pubDate>Wed, 04 Nov 2026 09:45:00 +0800</pubDate>
+      <guid isPermaLink="false">aitrade-intel-202611040945-china-services-pmi</guid>
+    </item>
     <item>
       <title>Next 24h (Taipei) update: midterm House/Senate calls through Wed; correction: BoJ Sep meeting minutes due Thu Nov 5 07:50 Taipei (BoJ calendar), not Wed; Qatar 36h US-Iran feedback window; EZ Oct HICP flash 18:00; US ADP Oct 21:15; US trade balance + Treasury refunding 21:30; ISM Services 23:00; BoE/Norges/Riksbank decisions later this week</title>
       <link>https://www.boj.or.jp/en/about/calendar/</link>
       <description>[事實] 影響: XAUUSD/DXY/EURUSD/USDJPY/GBPUSD | 重點: 更正本feed先前項目：日銀9月會議紀要依日銀官方行事曆為11/5（週四）07:50台北時間發布；今日焦點為選舉判定、美伊回覆、歐元區HICP、ADP/ISM服務業與財政部再融資細節 | 發布: 2026-11-04 08:12 (Asia/Taipei, 本feed彙整) | 抓取: 2026-11-04 08:12 (Asia/Taipei)</description>
       <pubDate>Wed, 04 Nov 2026 08:12:00 +0800</pubDate>
       <guid isPermaLink="false">aitrade-intel-202611040812-next24h</guid>
-    </item>
-    <item>
-      <title>US midterms: polls closing, early results only; Guardian/Economist trackers show 0 of 35 Senate and 0 of 435 House races called at retrieval; pre-vote forecasts favor Democrats (DDHQ House 84% / Senate 64%; Focaldata 99% / 67%; X summaries of Kalshi/Polymarket House ~93%, Senate ~74%); Trump told FT no immediate plan to strike Iran</title>
-      <link>https://www.theguardian.com/us-news/ng-interactive/2026/nov/03/midterm-elections-full-results-senate-house-governor-races</link>
-      <description>[推測] 影響: XAUUSD/DXY/USDJPY/美債殖利率 | 重點: 期中選舉開票中、主要院別尚未判定（結果UNKNOWN）；各模型與預測市場偏向民主黨奪回眾院、參院較接近；分析對選舉結果的匯市方向看法分歧（StoneX稱民主黨大勝可能壓低殖利率與USDJPY，Traders Web則稱分裂國會或藍色浪潮皆可能偏美元多），屬觀點 | 發布: 2026-11-04 07:00 前後 (Asia/Taipei, 開票追蹤) | 抓取: 2026-11-04 08:12 (Asia/Taipei)</description>
-      <pubDate>Wed, 04 Nov 2026 07:30:00 +0800</pubDate>
-      <guid isPermaLink="false">aitrade-intel-202611040730-midterms-counting</guid>
     </item>
     <item>
       <title>Asia open snapshot Wed: spot gold dipped as low as $3,893.31 (-1.4%) before recovering to ~$3,924 (RTHK 06:23 HKT); COMEX Dec gold settled $3,940.40 (-$29.20, -0.74%, Minkabu); Tuesday US 10Y 4.948% (+5.4bp), 2Y 4.614%, 30Y 5.321%, DXY 101.83, USD/JPY 158.66 (Reuters), NY high 158.77; Japan FinMin Katayama warned of action on disorderly post-election moves</title>
@@ -201,20 +215,6 @@
       <description>[事實] 影響: XAUUSD/原油/USD/JPY/DXY/美債殖利率 | 重點: 路透報導川普被問是否考慮期中選舉後攻擊伊朗時回答「no」，與先前多次暗示選後動武的說法出現轉變；Axios訪問稱「不急」決定；Vance稱有進展但未設期限、要求可驗證不重建核計畫；路透引官員稱卡達調停人週一晚飛往德黑蘭與Araghchi討論草案；Pezeshkian稱最高領袖授予政府談判「若干權限」；但川普週六仍稱可能需打擊Pickaxe Mountain等一兩處目標、以色列駐聯合國大使否認施壓（訊號互有矛盾），最終協議與否UNKNOWN | 發布: 2026-11-03 04:57 (Asia/Taipei，Reuters 11/2 15:57 ET) | 抓取: 2026-11-03 08:15 (Asia/Taipei)</description>
       <pubDate>Tue, 03 Nov 2026 04:57:00 +0800</pubDate>
       <guid isPermaLink="false">aitrade-intel-202611030457-trump-no-strike</guid>
-    </item>
-    <item>
-      <title>US close snapshot ~03:20-04:10 Taipei: COMEX gold settles +1.83% at $3,956.90 (Dow Jones Data Talk); Yahoo Dec gold $3,955.2 (day $3,889.0-$3,980.8), DXY 101.72 (prev 101.88), US 10Y 4.892% (prev 4.929%), EUR/USD 1.1197, USD/JPY 157.89, GBP/USD 1.3413, AUD/USD 0.7002</title>
-      <link>https://goldseek.com/article/comex-gold-settles-183-higher-395690</link>
-      <description>[事實] 影響: XAUUSD/DXY/美債殖利率/EUR/USD/USD/JPY/AUD/USD | 重點: 美盤收盤COMEX金結算價$3,956.90（+1.83%），盤中高$3,980.8仍未站上$4,000；Yahoo報價DXY 101.72、美10年期4.892%（日內4.869-4.921%）、EUR/USD 1.1197、USD/JPY 157.89、AUD/USD 0.7002（RBA決議前）；路透稱現貨金14日RSI由30以下回升至約37，CME FedWatch 12月升息機率77%（前週80%） | 發布: 2026-11-03 04:01 (Asia/Taipei，Yahoo報價；結算價文章確切時間UNKNOWN) | 抓取: 2026-11-03 04:20 (Asia/Taipei)</description>
-      <pubDate>Tue, 03 Nov 2026 04:01:00 +0800</pubDate>
-      <guid isPermaLink="false">aitrade-intel-202611030401-us-close-snapshot</guid>
-    </item>
-    <item>
-      <title>US Treasury Q4 borrowing estimate $618B (-$10B vs August, but +$24B excluding higher opening cash balance); Jan-Mar 2027 estimate $800B; refunding details Wed Nov 4 8:30am ET (21:30 Taipei)</title>
-      <link>https://home.treasury.gov/news/press-releases/sb0675</link>
-      <description>[事實] 影響: 美債殖利率/DXY/XAUUSD | 重點: 美財政部估10-12月私人持有淨可交易借款$6,180億（年底現金餘額假設$8,500億），較8月估計少$100億主因期初現金較高，剔除後實際多$240億；2027年1-3月估$8,000億（假設3月底現金$1兆）；7-9月實際借款$7,420億；季度再融資發行細節於台北時間週三21:30公布，對長端殖利率影響屬後續觀察（推測） | 發布: 2026-11-03 約04:00-05:00 (Asia/Taipei，財政部11/2發布，確切時間UNKNOWN) | 抓取: 2026-11-03 08:15 (Asia/Taipei)</description>
-      <pubDate>Tue, 03 Nov 2026 04:00:00 +0800</pubDate>
-      <guid isPermaLink="false">aitrade-intel-202611030400-treasury-borrowing</guid>
     </item>
   </channel>
 </rss>
