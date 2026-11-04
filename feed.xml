@@ -5,7 +5,35 @@
     <link>https://lk7221ai-bit.github.io/aitrade-intel-feed/</link>
     <description>公開資訊彙整，非交易建議</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 04 Nov 2026 16:15:00 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 20:10:00 +0800</lastBuildDate>
+    <item>
+      <title>XAUUSD technicals and FX (FXStreet 19:14 Taipei): gold ~$4,041 (+3%), resistance 20-day SMA ~$4,074, upper Bollinger ~$4,253, RSI 46; DXY ~101.40 (-0.44%, near 5-week low); Saxo: gold reclaimed $3,970, Aug downtrend line ~$4,035; SocGen still sees Dec Fed 25bp hike as high probability; US Treasury quarterly refunding 20:30 Taipei</title>
+      <link>https://www.fxstreet.com/news/gold-reclaims-4-000-as-democrats-congress-win-rattles-us-dollar-202611041114</link>
+      <description>[推測] 影響: XAUUSD/DXY/USDCHF/美債殖利率 | 重點: 技術位與機構看法屬分析觀點；Saxo所指下降趨勢線約$4,035已被短暫上破，能否守住UNKNOWN；ING稱再融資公告若引發債市波動可能衝擊USDCHF（觀點）；接下來ADP 21:15、ISM服務業23:00 | 發布: 2026-11-04 19:14 (Asia/Taipei, FXStreet 11:14 GMT) | 抓取: 2026-11-04 20:10 (Asia/Taipei)</description>
+      <pubDate>Wed, 04 Nov 2026 19:14:00 +0800</pubDate>
+      <guid isPermaLink="false">aitrade-intel-202611041914-gold-levels-refunding</guid>
+    </item>
+    <item>
+      <title>Gold +3% on blue-wave dollar slide: spot $4,041.77 (+2.9%) at 18:50 Taipei, Dec futures $4,051.70 (Reuters); $4,044.90 (+2.97%) at 17:32 Taipei (CNBC); exa $4,040.40 (+2.59%) at 20:04 Taipei; silver ~$51.90 (+4.3%); on track for biggest daily gain since Aug 19; CME FedWatch Dec Fed hike odds 82%</title>
+      <link>https://www.streetinsider.com/Reuters/Gold+jumps+more+than+2%25+on+softer+dollar+after+Democratic+midterm+sweep/27284030.html</link>
+      <description>[事實] 影響: XAUUSD/XAGUSD/DXY | 重點: 民主黨全面掌控國會引發財政疑慮與美元走弱，金價擴大漲幅至約$4,040；Capital Economics認為Fed仍鷹派、上漲空間有限（觀點）；FedWatch升息機率82%高於本feed稍早79%，與金價上漲方向矛盾；各來源報價時點不同 | 發布: 2026-11-04 18:50 (Asia/Taipei, Reuters 10:50 GMT) | 抓取: 2026-11-04 20:10 (Asia/Taipei)</description>
+      <pubDate>Wed, 04 Nov 2026 18:50:00 +0800</pubDate>
+      <guid isPermaLink="false">aitrade-intel-202611041850-gold-up-3pct</guid>
+    </item>
+    <item>
+      <title>Eurozone Oct flash HICP 4.0% y/y (in line, highest since Sep 2023) vs 3.8% prior, +0.4% m/m; core 2.5% (in line, unchanged), core m/m +0.3%; energy 20.8% y/y (prior 18.9%), services 3.3%, food 1.6%; Italy 5.6%, Belgium 5.2%, France 3.8% (Eurostat)</title>
+      <link>https://ec.europa.eu/eurostat/en/web/products-euro-indicators/w/2-04112026-ap</link>
+      <description>[事實] 影響: EURUSD/EURGBP/XAUUSD | 重點: 歐元區10月通膨升至4.0%符合預期，主因能源，核心持平2.5%；CNBC稱公布前市場定價ECB 12月升息機率71.8%，公布後變化UNKNOWN；Nagel先前稱12月升息很可能必要（觀點） | 發布: 2026-11-04 18:00 (Asia/Taipei, Eurostat) | 抓取: 2026-11-04 20:10 (Asia/Taipei)</description>
+      <pubDate>Wed, 04 Nov 2026 18:00:00 +0800</pubDate>
+      <guid isPermaLink="false">aitrade-intel-202611041800-ez-hicp-oct</guid>
+    </item>
+    <item>
+      <title>Riksbank hikes policy rate 25bp to 2.00% (first hike since Sep 2023, as expected), effective Nov 11; says further hikes likely in coming year if outlook holds; cites Middle East supply disruptions and energy-driven global inflation (Riksbank)</title>
+      <link>https://www.riksbank.se/en-gb/press-and-published/notices-and-press-releases/press-releases/2026/policy-rate-raised-to-2-per-cent/</link>
+      <description>[事實] 影響: EURSEK/USDSEK | 重點: 瑞典央行如預期升息至2%並暗示2027年可能續升；Saxo稱EURSEK會前在200日均線約10.95附近（觀點/技術位）；BoE與Norges週四決議 | 發布: 2026-11-04 16:30 (Asia/Taipei, Riksbank) | 抓取: 2026-11-04 20:10 (Asia/Taipei)</description>
+      <pubDate>Wed, 04 Nov 2026 16:30:00 +0800</pubDate>
+      <guid isPermaLink="false">aitrade-intel-202611041630-riksbank-hike</guid>
+    </item>
     <item>
       <title>Gold breaks above $4,000: spot +2.4% to $4,022 (Guardian/Reuters ~15:43 Taipei), $4,032.85 (+2.82%, exa 16:10 Taipei); OANDA session range $3,919.90-$4,029.31 (AlQANAAS); DXY -0.35% after -0.6% at worst; US 2Y 4.598% (-1.6bp), 10Y 4.929% (-2bp); Deutsche Bank: Fed hikes priced by Jun 2027 down 3.3bp to 55bp</title>
       <link>https://www.theguardian.com/business/live/2026/nov/04/dollar-falls-while-gold-us-treasury-bonds-rally-markets-react-democrats-midterm-election-victory-marks-spencer-latest-live-updates</link>
@@ -187,34 +215,6 @@
       <description>[事實] 影響: AUD/USD/AUD/JPY | 重點: Bullock記者會未給前瞻指引、表示宜先觀察數據，investinglive解讀為可能暫停升息（觀點）；投票支持按兵不動的三位委員認為下行風險較大；Guardian稱澳股收高 | 發布: 2026-11-03 12:44 (Asia/Taipei，investinglive) | 抓取: 2026-11-03 16:10 (Asia/Taipei)</description>
       <pubDate>Tue, 03 Nov 2026 12:44:00 +0800</pubDate>
       <guid isPermaLink="false">aitrade-intel-202611031244-bullock-presser</guid>
-    </item>
-    <item>
-      <title>Asia midday snapshot ~11:53-12:03 Taipei: COMEX Dec gold $3,935.8 (Yahoo, prev settle ref $3,969.6), spot XAUUSD $3,926.01 (+0.61% vs $3,902.20 prior close, exa 12:02 Taipei), Asia spot high $3,964.62 / low $3,928.66 (AlQANAAS); DXY 101.77, AUD/USD 0.6988, USD/JPY 157.84, EUR/USD 1.1194</title>
-      <link>https://exa.ai/library/markets/commodity/gold</link>
-      <description>[事實] 影響: XAUUSD/DXY/AUD/USD/USD/JPY/EUR/USD | 重點: 亞洲午盤金價自早盤約$3,955-3,965回落至約$3,926-3,936，現貨日內低點$3,928.66附近（AlQANAAS 05:35更新時資料；exa 12:02報$3,926.01），各來源現貨與期貨報價不同、前收基準也不一（exa $3,902.20 vs AlQANAAS $3,946.74）；DXY 101.77持平、USD/JPY 157.84窄幅；回落具體觸發因素 UNKNOWN | 發布: 2026-11-03 12:03 (Asia/Taipei，Yahoo/exa報價) | 抓取: 2026-11-03 12:10 (Asia/Taipei)</description>
-      <pubDate>Tue, 03 Nov 2026 12:03:00 +0800</pubDate>
-      <guid isPermaLink="false">aitrade-intel-202611031203-asia-midday-snapshot</guid>
-    </item>
-    <item>
-      <title>RBA hikes cash rate 25bp to 4.85% (18-year high, 5th hike of 2026) in split 6-3 vote (3 preferred hold at 4.60%); staff inflation forecasts revised materially higher, not back to top of 2-3% band until late 2027; AUD/USD dips ~0.3% to 0.6976 (ABC), ~0.6988 at 12:01 Taipei (Yahoo)</title>
-      <link>https://www.rba.gov.au/media-releases/2026/mr-26-30.html</link>
-      <description>[事實] 影響: AUD/USD/XAUUSD | 重點: RBA如預期升息至4.85%（生效11/4），但6比3分裂投票、聲明稱經濟放緩、房價大跌、失業率上升，ABC稱澳元初步下跌顯示市場解讀為偏鴿（觀點）；聲明點名中東衝突推升油價與AI投資推升物價；Bullock記者會台北12:30，下次決議12/8；與早前市場預期一致（約85%定價） | 發布: 2026-11-03 11:30 (Asia/Taipei，RBA官方) | 抓取: 2026-11-03 12:10 (Asia/Taipei)</description>
-      <pubDate>Tue, 03 Nov 2026 11:30:00 +0800</pubDate>
-      <guid isPermaLink="false">aitrade-intel-202611031130-rba-hike-485</guid>
-    </item>
-    <item>
-      <title>US officials confirm Qeshm strike: US jet destroyed IRGC SAM launcher on Qeshm Island after missile fired at US aircraft (Axios), AP calls them 'limited defensive' strikes; WSJ says part of quiet series of limited US strikes in recent weeks; Axios: CIA's Ratcliffe, Bessent, Rubio favor 'no war, no deal' status quo vs Vance/Witkoff pushing for deal</title>
-      <link>https://www.iranintl.com/en/liveblog/202610312594</link>
-      <description>[事實] 影響: XAUUSD/原油/USD/JPY | 重點: 先前伊朗媒體報導的格什姆島爆炸，現有美方官員（經Axios/AP/WSJ轉述，匿名來源）證實為美軍「有限防禦性」打擊，同時談判仍在進行（卡達調解人赴德黑蘭）；白宮內部路線分歧屬媒體引述消息（傳言/觀點），美方官方正式聲明 UNKNOWN | 發布: 2026-11-03 約07:00-10:00 (Asia/Taipei，Iran International/Al Jazeera直播，確切時間 UNKNOWN) | 抓取: 2026-11-03 12:10 (Asia/Taipei)</description>
-      <pubDate>Tue, 03 Nov 2026 10:00:00 +0800</pubDate>
-      <guid isPermaLink="false">aitrade-intel-202611031000-us-confirms-qeshm-strike</guid>
-    </item>
-    <item>
-      <title>Asia open snapshot ~07:55-08:05 Taipei (Yahoo, Tokyo closed for Culture Day): COMEX Dec gold $3,956.8 (Asia 07:00-07:55 range $3,952.8-$3,959.9), silver $50.68; DXY 101.80; EUR/USD 1.1196, USD/JPY 157.91, GBP/USD 1.3410, AUD/USD 0.7002; Brent $104.37, WTI $96.34; US 10Y last 4.894% (cash market closed)</title>
-      <link>https://www.traderswebfx.jp/news/article/1218572</link>
-      <description>[事實] 影響: XAUUSD/DXY/EUR/USD/USD/JPY/GBP/USD/AUD/USD/原油 | 重點: 亞洲早盤清淡（日本文化之日休市），COMEX 12月金$3,956.8、07:00後區間僅$3,952.8-$3,959.9，美盤高點$3,980.8與$4,000仍為上方參考、越南媒體分析稱下一關$3,970-4,000（觀點）；東方財富現貨金$3,946.63（+1.83%），現貨與期貨報價來源不同；DXY 101.80、USD/JPY 157.91、AUD/USD 0.7002（RBA前）；Traders Web列USD/JPY日線一目雲上緣158.44、轉換線157.22，eFXdata列支撐157.40-45/157.00、阻力158.00-10/158.50-60；油價亞洲盤未見反彈，Brent $104.37 | 發布: 2026-11-03 08:00 (Asia/Taipei，Traders Web；Yahoo報價07:55-08:05) | 抓取: 2026-11-03 08:15 (Asia/Taipei)</description>
-      <pubDate>Tue, 03 Nov 2026 08:00:00 +0800</pubDate>
-      <guid isPermaLink="false">aitrade-intel-202611030800-asia-open-snapshot</guid>
     </item>
   </channel>
 </rss>
