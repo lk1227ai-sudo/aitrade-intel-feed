@@ -5,13 +5,34 @@
     <link>https://lk7221ai-bit.github.io/aitrade-intel-feed/</link>
     <description>公開資訊彙整，非交易建議</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 04 Nov 2026 04:15:00 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 08:12:00 +0800</lastBuildDate>
     <item>
-      <title>Next 24h (Taipei) update: US midterm first polls close ~07:00 Wed, results through the day (X prediction-market summaries: Dem House ~94%, full sweep ~70-76%, unverified); NZ Q3 jobs 05:45; BoJ minutes 07:50; Qatar 36h US-Iran feedback window; EZ Oct HICP flash 18:00; US ADP Oct 21:15; US trade balance + Treasury refunding 21:30; ISM Services 23:00</title>
-      <link>https://www.newsquawk.com/headlines/crude-wrap-wti-z6-settles-usd-037-lower-at-9609bbl</link>
-      <description>[事實] 影響: XAUUSD/DXY/EURUSD/NZDUSD/USDJPY | 重點: 未來24小時焦點為美國期中選舉開票、美伊回覆期限、歐元區HICP、ADP/ISM服務業與財政部再融資細節；預測市場機率來自X帖子彙整屬[推測]；各數據市場預期見本feed 11/03 20:55項 | 發布: 2026-11-04 04:15 (Asia/Taipei, 本feed彙整) | 抓取: 2026-11-04 04:10 (Asia/Taipei)</description>
-      <pubDate>Wed, 04 Nov 2026 04:15:00 +0800</pubDate>
-      <guid isPermaLink="false">aitrade-intel-202611040415-next24h</guid>
+      <title>Next 24h (Taipei) update: midterm House/Senate calls through Wed; correction: BoJ Sep meeting minutes due Thu Nov 5 07:50 Taipei (BoJ calendar), not Wed; Qatar 36h US-Iran feedback window; EZ Oct HICP flash 18:00; US ADP Oct 21:15; US trade balance + Treasury refunding 21:30; ISM Services 23:00; BoE/Norges/Riksbank decisions later this week</title>
+      <link>https://www.boj.or.jp/en/about/calendar/</link>
+      <description>[事實] 影響: XAUUSD/DXY/EURUSD/USDJPY/GBPUSD | 重點: 更正本feed先前項目：日銀9月會議紀要依日銀官方行事曆為11/5（週四）07:50台北時間發布；今日焦點為選舉判定、美伊回覆、歐元區HICP、ADP/ISM服務業與財政部再融資細節 | 發布: 2026-11-04 08:12 (Asia/Taipei, 本feed彙整) | 抓取: 2026-11-04 08:12 (Asia/Taipei)</description>
+      <pubDate>Wed, 04 Nov 2026 08:12:00 +0800</pubDate>
+      <guid isPermaLink="false">aitrade-intel-202611040812-next24h</guid>
+    </item>
+    <item>
+      <title>US midterms: polls closing, early results only; Guardian/Economist trackers show 0 of 35 Senate and 0 of 435 House races called at retrieval; pre-vote forecasts favor Democrats (DDHQ House 84% / Senate 64%; Focaldata 99% / 67%; X summaries of Kalshi/Polymarket House ~93%, Senate ~74%); Trump told FT no immediate plan to strike Iran</title>
+      <link>https://www.theguardian.com/us-news/ng-interactive/2026/nov/03/midterm-elections-full-results-senate-house-governor-races</link>
+      <description>[推測] 影響: XAUUSD/DXY/USDJPY/美債殖利率 | 重點: 期中選舉開票中、主要院別尚未判定（結果UNKNOWN）；各模型與預測市場偏向民主黨奪回眾院、參院較接近；分析對選舉結果的匯市方向看法分歧（StoneX稱民主黨大勝可能壓低殖利率與USDJPY，Traders Web則稱分裂國會或藍色浪潮皆可能偏美元多），屬觀點 | 發布: 2026-11-04 07:00 前後 (Asia/Taipei, 開票追蹤) | 抓取: 2026-11-04 08:12 (Asia/Taipei)</description>
+      <pubDate>Wed, 04 Nov 2026 07:30:00 +0800</pubDate>
+      <guid isPermaLink="false">aitrade-intel-202611040730-midterms-counting</guid>
+    </item>
+    <item>
+      <title>Asia open snapshot Wed: spot gold dipped as low as $3,893.31 (-1.4%) before recovering to ~$3,924 (RTHK 06:23 HKT); COMEX Dec gold settled $3,940.40 (-$29.20, -0.74%, Minkabu); Tuesday US 10Y 4.948% (+5.4bp), 2Y 4.614%, 30Y 5.321%, DXY 101.83, USD/JPY 158.66 (Reuters), NY high 158.77; Japan FinMin Katayama warned of action on disorderly post-election moves</title>
+      <link>https://news.rthk.hk/rthk/ch/component/k2/1876465-20261104.htm</link>
+      <description>[事實] 影響: XAUUSD/USDJPY/DXY/美債殖利率 | 重點: 金價盤中一度失守3,900後收復，美債殖利率與美元走高壓抑金價；USDJPY升破200日線158.63逼近159，日本財務大臣警告選後若匯市失序將出手（干預時點UNKNOWN）；注意COMEX「12月合約」結算$3,940.40與本feed先前「前月11月合約」$3,927.90為不同合約 | 發布: 2026-11-04 06:23 (Asia/Taipei, RTHK) | 抓取: 2026-11-04 08:12 (Asia/Taipei)</description>
+      <pubDate>Wed, 04 Nov 2026 06:23:00 +0800</pubDate>
+      <guid isPermaLink="false">aitrade-intel-202611040623-asia-open-gold-usdjpy</guid>
+    </item>
+    <item>
+      <title>NZ Q3 jobs miss: unemployment 5.7% (highest since 2015) vs 5.5% consensus and RBNZ forecast, prior 5.6%; employment -0.1% q/q vs +0.4% expected; participation 70.4% vs 70.7%; private LCI +0.4% q/q (Reuters) vs +0.5% (Westpac) figures differ; NZD/USD at session low just below 0.5600 (FXStreet)</title>
+      <link>https://www.rnz.co.nz/news/business/2330819/new-jobless-figures-unemployment-rate-rises-to-5-point-7-percent</link>
+      <description>[事實] 影響: NZDUSD/AUDNZD | 重點: 紐西蘭Q3失業率升至5.7%、就業意外萎縮0.1%，均差於市場與RBNZ預期，削弱RBNZ升息理由，紐元跌至0.5600附近；私部門LCI季增數字Reuters稱0.4%、Westpac稱0.5%，來源不一 | 發布: 2026-11-04 05:45 (Asia/Taipei, Stats NZ) | 抓取: 2026-11-04 08:12 (Asia/Taipei)</description>
+      <pubDate>Wed, 04 Nov 2026 05:45:00 +0800</pubDate>
+      <guid isPermaLink="false">aitrade-intel-202611040545-nz-q3-jobs</guid>
     </item>
     <item>
       <title>Oil settles off lows: WTI Dec -$0.37 to $96.09, Brent -$1.17 to $103.60 after lows $93.59/$100.80 on reports US approved Qatari draft MoU (Al-Araby, unconfirmed); Iran SNSC's Rezaei says US response 'not convincing', Hormuz reopens only if Iran's seven conditions are fully met; Qatar expects US/Iran feedback within 36 hours (Newsquawk/CNBC)</title>
@@ -194,27 +215,6 @@
       <description>[事實] 影響: 美債殖利率/DXY/XAUUSD | 重點: 美財政部估10-12月私人持有淨可交易借款$6,180億（年底現金餘額假設$8,500億），較8月估計少$100億主因期初現金較高，剔除後實際多$240億；2027年1-3月估$8,000億（假設3月底現金$1兆）；7-9月實際借款$7,420億；季度再融資發行細節於台北時間週三21:30公布，對長端殖利率影響屬後續觀察（推測） | 發布: 2026-11-03 約04:00-05:00 (Asia/Taipei，財政部11/2發布，確切時間UNKNOWN) | 抓取: 2026-11-03 08:15 (Asia/Taipei)</description>
       <pubDate>Tue, 03 Nov 2026 04:00:00 +0800</pubDate>
       <guid isPermaLink="false">aitrade-intel-202611030400-treasury-borrowing</guid>
-    </item>
-    <item>
-      <title>Oil settles sharply lower on US-Iran diplomacy hopes: Brent -7.6% to $104.77, WTI -7.3% to $96.46 (CNBC); ANSA shows WTI $96.36 / Brent $104.85, World Oil Monitor $96.24 / $104.57 (settle figures differ by source); seven OPEC+ producers keep December output targets unchanged</title>
-      <link>https://www.cnbc.com/2026/11/02/oil-prices-fall-as-iran-us-pursue-diplomacy.html</link>
-      <description>[事實] 影響: XAUUSD/USD/CAD/USD/JPY/美債殖利率 | 重點: 油價收跌逾7%，Brent收$104.77、WTI收$96.46（CNBC），為10月初以來首度跌破$105；各來源收盤數字略有差異（ANSA: WTI $96.36、Brent $104.85；World Oil Monitor: $96.24/$104.57）；OPEC+七國週日同意12月產量目標不變（Anadolu）；油價回落減輕通膨擔憂、支撐金價為分析師觀點 | 發布: 2026-11-03 03:47 (Asia/Taipei，ANSA收盤報導) | 抓取: 2026-11-03 04:20 (Asia/Taipei)</description>
-      <pubDate>Tue, 03 Nov 2026 03:47:00 +0800</pubDate>
-      <guid isPermaLink="false">aitrade-intel-202611030347-oil-settle</guid>
-    </item>
-    <item>
-      <title>US-Iran status Mon: Iranian negotiators left Doha Sunday, draft proposal circulated for feedback, follow-up meeting possible (Reuters, unnamed official); Baghaei says 'ball is in the US court'; Fars source says no breakthrough; Trump says Iran wants a deal but has repeatedly hinted at strikes after Nov 3 midterms; Axios: Netanyahu pushing to resume strikes</title>
-      <link>https://kfgo.com/2026/11/02/iranians-have-left-doha-talks-draft-proposal-for-us-deal-being-circulated-official-says/</link>
-      <description>[事實] 影響: XAUUSD/原油/USD/JPY/DXY | 重點: 路透引匿名官員稱伊朗代表團週日離開多哈、草案已傳閱徵詢意見、可能再開會；伊朗外交部稱「球在美方」，需先解除海上封鎖；Fars消息源稱無突破（立場分歧）；川普稱伊朗想達成協議，但多次暗示期中選舉後可能動武；Axios稱內塔尼亞胡力主恢復攻擊（傳言/報導，未經官方證實）；美方是否接受仍UNKNOWN | 發布: 2026-11-02 (美國時間週一，確切時間UNKNOWN) | 抓取: 2026-11-03 04:20 (Asia/Taipei)</description>
-      <pubDate>Tue, 03 Nov 2026 03:30:00 +0800</pubDate>
-      <guid isPermaLink="false">aitrade-intel-202611030330-us-iran-status</guid>
-    </item>
-    <item>
-      <title>Next 24h (Taipei): US midterm elections Tue (results from Wed morning Taipei); RBA decision 11:30 Tue (25bp hike to 4.85% widely priced, per earlier reports), presser 12:30; EZ HICP flash and US ADP/ISM Services on Wed; Fed Goolsbee on CNBC: Fed should have '100% commitment' to returning inflation to target</title>
-      <link>https://www.brecorder.com/news/40447067/gold-rises-over-2-from-one-year-low-on-softer-oil-prices-us-midterms-in-focus</link>
-      <description>[事實] 影響: XAUUSD/DXY/AUD/USD/EUR/USD | 重點: 未來24小時焦點為美國11/3期中選舉（台北時間週三上午起陸續開票）與RBA週二11:30決議（先前報導市場約78-86%定價升息25bp至4.85%）；Julius Baer認為選舉結果不足以改變美國赤字格局（觀點）；Goolsbee週一受訪稱應「100%承諾」讓通膨回到目標（CNBC Squawk Box，原文細節UNKNOWN）；週三有歐元區HICP快報、美國ADP與ISM服務業 | 發布: 2026-11-03 00:24 (Asia/Taipei，Business Recorder更新時間) | 抓取: 2026-11-03 04:20 (Asia/Taipei)</description>
-      <pubDate>Tue, 03 Nov 2026 03:00:00 +0800</pubDate>
-      <guid isPermaLink="false">aitrade-intel-202611030300-next24h</guid>
     </item>
   </channel>
 </rss>
