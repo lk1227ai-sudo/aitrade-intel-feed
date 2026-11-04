@@ -5,7 +5,14 @@
     <link>https://lk7221ai-bit.github.io/aitrade-intel-feed/</link>
     <description>公開資訊彙整，非交易建議</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 04 Nov 2026 22:24:00 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 00:05:00 +0800</lastBuildDate>
+    <item>
+      <title>US ISM Services PMI Oct 54.5 vs 54.8 consensus, Sep 54.9 (3-month low, 28th month of expansion); business activity 53.8 (from 56.5), new orders 55.9 (from 59.8), employment 51.4 (from 50.1), prices paid 73.0 (from 74.0), supplier deliveries 56.7, new export orders 55.2 (ISM); spot gold $4,036.02 (+2.7%) at 23:02 Taipei (CNBC)</title>
+      <link>https://www.prnewswire.com/news-releases/services-pmi-at-54-5-october-2026-ism-services-pmi-report-302928112.html</link>
+      <description>[事實] 影響: XAUUSD/DXY/美債殖利率/EURUSD/USDJPY | 重點: 10月ISM服務業PMI 54.5，低於預期54.8與前值54.9，新訂單與商業活動明顯放緩，但就業分項升至51.4、物價分項73.0仍高（ISM稱關稅與燃料成本壓力尚未完全轉嫁）；黃金公布後仍在4,036美元附近（CNBC 23:02台北）；對12月Fed升息預期的影響UNKNOWN | 發布: 2026-11-04 23:00 (Asia/Taipei, ISM 10:00 ET) | 抓取: 2026-11-05 00:05 (Asia/Taipei)</description>
+      <pubDate>Wed, 04 Nov 2026 23:00:00 +0800</pubDate>
+      <guid isPermaLink="false">aitrade-intel-202611042300-ism-services-oct-545</guid>
+    </item>
     <item>
       <title>US Sep trade deficit $105.0B vs $107.9B Bloomberg consensus, Aug revised $105.7B; exports +1.9% to $321.5B (capital goods record $73.3B), imports +1.2% to $426.6B (Census/BEA); Treasury Nov refunding $125B unchanged: 3Y $58B (Nov 9), 10Y $42B (Nov 10), 30Y $25B (Nov 12), ~$28B new cash; coupon sizes kept 'for the next several quarters' vs 'at least the next several quarters' in Aug (Treasury)</title>
       <link>https://home.treasury.gov/news/press-releases/sb0678</link>
@@ -208,13 +215,6 @@
       <description>[推測] 影響: XAUUSD/原油/USD/JPY/USD/CAD | 重點: 目前只有伊朗革命衛隊單方說法（經Tasnim、Reuters轉述），船名、船旗、損害與美方回應皆 UNKNOWN，屬未獨立證實的消息；伊朗議長Ghalibaf稱已給美方「強硬回應」、防止戰爭的責任在華府（X新聞摘要）；荷莫茲航運風險再升溫，對油價與金價的實際影響待確認 | 發布: 2026-11-03 18:49 (Asia/Taipei，Reuters/Devdiscourse；MEE 19:10) | 抓取: 2026-11-03 20:10 (Asia/Taipei)</description>
       <pubDate>Tue, 03 Nov 2026 18:49:00 +0800</pubDate>
       <guid isPermaLink="false">aitrade-intel-202611031849-irgc-tankers-mines-hormuz</guid>
-    </item>
-    <item>
-      <title>Afternoon snapshot ~14:05-16:03 Taipei: spot gold slides toward $3,906-3,929 (fxpremiere $3,928.7 at 14:05, gold-pricex $3,913.10 at 15:53, exa $3,906.63 at 16:03 Taipei), prior-close references conflict ($3,969.6 vs $3,949.0 vs $3,902.20); DXY 101.742 flat, US 10Y 4.894%, silver $49.28 (-2.8%)</title>
-      <link>https://www.fxpremiere.com/xauusd-gold-price-today-3928-dollar-flat-november-3-2026/</link>
-      <description>[事實] 影響: XAUUSD/DXY/EUR/USD | 重點: 金價回吐週一反彈、午後跌向$3,906-3,929，fxpremiere列支撐為日低$3,926.5與20日低$3,879.3、壓力$3,969.6-3,974.5與20日均線$4,092.76（觀點）；Reuters稱金價因油價回落與期中選舉前被當作流動性資產賣出（觀點）；各來源前收基準不同，日跌幅介於+0.1%至-1.0%，以哪個為準 UNKNOWN | 發布: 2026-11-03 14:05-16:03 (Asia/Taipei，多來源報價) | 抓取: 2026-11-03 16:10 (Asia/Taipei)</description>
-      <pubDate>Tue, 03 Nov 2026 16:03:00 +0800</pubDate>
-      <guid isPermaLink="false">aitrade-intel-202611031603-afternoon-gold-snapshot</guid>
     </item>
   </channel>
 </rss>
