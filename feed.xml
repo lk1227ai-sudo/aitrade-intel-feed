@@ -5,7 +5,14 @@
     <link>https://lk7221ai-bit.github.io/aitrade-intel-feed/</link>
     <description>公開資訊彙整，非交易建議</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 05 Nov 2026 20:08:00 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 20:52:00 +0800</lastBuildDate>
+    <item>
+      <title>Post-BoE reaction (Reuters): GBP/USD $1.3477 vs $1.34534 before decision, EUR/GBP 83.25p (GBP firmer), UK 2Y gilt ~+2bp to 4.76%, FTSE +0.7%; Pound Sterling Live: GBP/USD high 1.3475, GBP/EUR 1.1988 to 1.2010; Bailey presser: Middle East conflict in ninth month, energy pushed inflation up in every G7 economy; spot gold $4,118.90 (+1.31%) at 20:52 Taipei (exa). Note: FXStreet wrote 'unanimous' vote, official BoE text says 8-1</title>
+      <link>https://live.euronext.com/en/financial-news/bank-england-delivers-first-rate-hike-three-years-gilt-yields-rise</link>
+      <description>[事實] 影響: GBPUSD/EURGBP/XAUUSD | 重點: 英央升息後英鎊小升，GBP/USD約1.3477（決議前1.3453）、EUR/GBP 83.25便士，英2年債約+2bp至4.76%；Bailey記者會稱中東衝突進入第九個月、能源推升G7通膨；現貨金20:52約4,118.9（+1.31%），較日內高點4,147回落；來源矛盾：FXStreet稱投票一致，英央官方為8比1；市場將8-1解讀偏鷹屬推測 | 發布: UNKNOWN（英央20:00決議後，路透稿） | 抓取: 2026-11-05 20:52 (Asia/Taipei)</description>
+      <pubDate>Thu, 05 Nov 2026 20:52:00 +0800</pubDate>
+      <guid isPermaLink="false">aitrade-intel-202611052052-post-boe-gbp-13477-gilt2y-476</guid>
+    </item>
     <item>
       <title>Next 24h (Taipei) refresh ~20:08: BoE Bailey presser 20:30; US initial/continuing jobless claims + Q3 prelim productivity/ULC 21:30 Thu (actuals not out at retrieval); BLS Oct NFP + unemployment Fri Nov 6 21:30 (Reuters poll +65K, UR 4.2%); Norges Bank (hold 4.50%), BoE (hike to 4.00%) and Eurozone PPI already released</title>
       <link>https://www.bls.gov/schedule/news_release/empsit.htm</link>
@@ -208,13 +215,6 @@
       <description>[事實] 影響: XAUUSD/DXY/美債殖利率 | 重點: 民主黨全面掌控國會後美元走弱、美債走強，現貨金重回$4,000上方，單日漲約2.4-2.8%；IG稱金銀受避險買盤支撐（觀點）；Fed升息定價小幅降溫；午盤10Y曾見4.906%後回升，各來源報價時點不同 | 發布: 2026-11-04 15:43 (Asia/Taipei, Guardian) | 抓取: 2026-11-04 16:15 (Asia/Taipei)</description>
       <pubDate>Wed, 04 Nov 2026 15:43:00 +0800</pubDate>
       <guid isPermaLink="false">aitrade-intel-202611041543-gold-above-4000</guid>
-    </item>
-    <item>
-      <title>Europe open FX (FXStreet 15:37 Taipei): DXY near 101.50; EUR/USD hit 2-week high above 1.1250 then ~1.1230; GBP/USD 6th straight gain above 1.3450 (highest since mid-Sep) ahead of expected BoE 25bp hike Thu; USD/JPY rebounded to just above 158.00 (-0.4%); NZD/USD ~0.5600 (+0.4%); Trump says Iran war 'partly to blame' for losses (WSJ)</title>
-      <link>https://www.fxstreet.com/news/forex-today-us-dollar-under-pressure-as-democrats-take-control-of-congress-202611040737</link>
-      <description>[事實] 影響: EURUSD/GBPUSD/USDJPY/NZDUSD/DXY | 重點: 美元全面走弱、瑞郎與日圓領漲，但USDJPY已從亞洲低點回升至158上方；DXY低點報價有矛盾（FXStreet分析101.73 vs MarketScreener 101.34）；Commerzbank認為美元弱勢可能延續（觀點） | 發布: 2026-11-04 15:37 (Asia/Taipei, FXStreet) | 抓取: 2026-11-04 16:15 (Asia/Taipei)</description>
-      <pubDate>Wed, 04 Nov 2026 15:37:00 +0800</pubDate>
-      <guid isPermaLink="false">aitrade-intel-202611041537-europe-open-fx</guid>
     </item>
   </channel>
 </rss>
