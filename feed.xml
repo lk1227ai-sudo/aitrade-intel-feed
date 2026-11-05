@@ -5,7 +5,28 @@
     <link>https://lk7221ai-bit.github.io/aitrade-intel-feed/</link>
     <description>公開資訊彙整，非交易建議</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 05 Nov 2026 08:23:00 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 12:10:00 +0800</lastBuildDate>
+    <item>
+      <title>Gold hits two-week high: spot +1.9% to $4,134.83 at 0316 GMT (11:16 Taipei), highest since Oct 22; Dec futures +1.8% to $4,144.20; US 10Y ~4.87% in early Tokyo; CME FedWatch Dec hike odds 82%; silver $53.12 (+1.7%); XS.com: holding above $4,000 key, possible recovery toward $4,200 then $4,400 (opinion); Citi 0-3m target $4,500 (Reuters)</title>
+      <link>https://ae.marketscreener.com/news/gold-hits-a-two-week-high-as-dollar-treasury-yields-ease-after-us-midterm-elections-ce785fdcd889f224</link>
+      <description>[事實] 影響: XAUUSD/DXY/美債殖利率 | 重點: 路透報導現貨金台北11:16漲1.9%至4,134.83美元，創10/22以來兩週高，12月期金4,144.20；美10年債東京早盤約4.87%，CME FedWatch 12月升息機率82%；XS.com稱守住4,000可望回升至4,200/4,400、花旗0-3個月目標4,500屬機構觀點（推測），非本feed建議 | 發布: 2026-11-05 11:47 (Asia/Taipei) | 抓取: 2026-11-05 12:10 (Asia/Taipei)</description>
+      <pubDate>Thu, 05 Nov 2026 11:47:00 +0800</pubDate>
+      <guid isPermaLink="false">aitrade-intel-202611051147-gold-two-week-high-4134</guid>
+    </item>
+    <item>
+      <title>Asia FX (Reuters ~10:43 Taipei): DXY -0.06% to 101.41 after -0.36% Wed; EUR/USD 1.1241, USD/JPY 158.25, AUD/USD 0.701, NZD/USD 0.5627; CME FedWatch Dec hike 81.2% (from 77.4%); NAB: Dem sweep lowers odds of renewed US strikes on Iran (opinion). Later quotes 12:09 Taipei (GMO Click): USD/JPY 157.90 (day low 157.856), EUR/USD 1.1257, GBP/USD 1.3489, AUD/USD 0.7017, NZD/USD 0.5649, USD/CHF 0.8140</title>
+      <link>https://www.brecorder.com/news/40447521/dollar-edges-lower-as-us-election-outcome-cheers-global-markets</link>
+      <description>[事實] 影響: DXY/USDJPY/EURUSD/GBPUSD/AUDUSD/NZDUSD | 重點: 亞盤美元續弱，美元指數約101.41；日銀紀要偏鷹後美元兌日圓午前跌破158至約157.90（日低157.856），歐元升至約1.1257、英鎊約1.3489貼近7週高；CME 12月升息機率路透81.2%與另篇82%接近；NAB稱民主黨大勝降低美再度攻擊伊朗機率屬觀點（推測） | 發布: 2026-11-05 10:43 (Asia/Taipei，報價更新至12:09) | 抓取: 2026-11-05 12:10 (Asia/Taipei)</description>
+      <pubDate>Thu, 05 Nov 2026 10:43:00 +0800</pubDate>
+      <guid isPermaLink="false">aitrade-intel-202611051043-asia-fx-dxy-usdjpy-below-158</guid>
+    </item>
+    <item>
+      <title>Australia Sep goods trade surplus A$2,826m vs ~A$940m consensus (Investing; MT5 calendar A$1,084m), Aug revised to A$184m from A$495m; exports +2.3% m/m, imports -3.3% led by non-monetary gold imports -A$1.10bn (-34.7%) (ABS, released 11:30 AEDT)</title>
+      <link>https://www.abs.gov.au/statistics/economy/international-trade/international-trade-goods/latest-release</link>
+      <description>[事實] 影響: AUDUSD/XAUUSD | 重點: 澳洲9月商品貿易順差28.26億澳元，遠高於約9.4億預期（各日曆預期不一），8月下修至1.84億；出口+2.3%、進口-3.3%，主因非貨幣黃金進口減少11億澳元（-34.7%） | 發布: 2026-11-05 08:30 (Asia/Taipei) | 抓取: 2026-11-05 12:10 (Asia/Taipei)</description>
+      <pubDate>Thu, 05 Nov 2026 08:30:00 +0800</pubDate>
+      <guid isPermaLink="false">aitrade-intel-202611050830-australia-sep-trade-surplus</guid>
+    </item>
     <item>
       <title>Next 24h (Taipei) update after BoJ minutes: Norges Bank policy decision 17:00 (Oslo 10:00; presser 10:30); BoE rate decision + Monetary Policy Report 20:00 (Bailey ~20:30; calendars show prior 3.75%, some forecasts 4.00%/+25bp); US initial jobless claims + Q3 prelim productivity/ULC 21:30 (for-ex/svmuu cite claims ~196-197K vs prior 194K, productivity ~3.1% q/q vs 1.4% — unverified vs BLS); BLS Oct NFP Fri Nov 6 21:30 (Reuters poll +65K, UR 4.2%)</title>
       <link>https://www.norges-bank.no/en/news-events/calendar/policy-rate-decisions/26-11-05/</link>
@@ -75,6 +96,13 @@
       <description>[事實] 影響: XAUUSD/DXY/美債殖利率/USDJPY | 重點: 三位Fed官員（Logan、Musalem、Barkin）均傾向再升息，Logan主張至少再升兩碼，與市場因國會改選而下修升息預期形成矛盾；Logan講話確切日期UNKNOWN（報導稱為本次維持利率後首輪發言），12月升息機率最新數字UNKNOWN | 發布: 2026-11-04 22:27 (Asia/Taipei) | 抓取: 2026-11-05 04:10 (Asia/Taipei)</description>
       <pubDate>Wed, 04 Nov 2026 22:27:00 +0800</pubDate>
       <guid isPermaLink="false">aitrade-intel-202611042227-fed-logan-musalem-barkin-hikes</guid>
+    </item>
+    <item>
+      <title>Iran lawmaker Hayat-Moghaddam (ISNA): ships from India, China, Iraq and Qatar exempted from Hormuz transit restrictions and 'pass freely'; Iran collects transit fees from Indian and Chinese vessels, Qatari ships free; strait still severely restricted with IRGC screening (Hindustan Times/PTI); exemption not independently confirmed</title>
+      <link>https://www.hindustantimes.com/india-news/iran-exempts-ships-from-india-china-iraq-qatar-from-hormuz-strait-restrictions-us-war-oil-prices-101793784043931.html</link>
+      <description>[推測] 影響: XAUUSD/原油/USDJPY/DXY | 重點: 伊朗國會國安委員會副主席稱印度、中國、伊拉克、卡達船隻免受荷莫茲海峽通行限制；屬伊方官員說法，美方或航運數據未獨立證實，海峽整體仍受嚴格管制 | 發布: 2026-11-04 22:05 (Asia/Taipei) | 抓取: 2026-11-05 12:10 (Asia/Taipei)</description>
+      <pubDate>Wed, 04 Nov 2026 22:05:00 +0800</pubDate>
+      <guid isPermaLink="false">aitrade-intel-202611042205-iran-hormuz-exemptions-four-countries</guid>
     </item>
     <item>
       <title>US Sep trade deficit $105.0B vs $107.9B Bloomberg consensus, Aug revised $105.7B; exports +1.9% to $321.5B (capital goods record $73.3B), imports +1.2% to $426.6B (Census/BEA); Treasury Nov refunding $125B unchanged: 3Y $58B (Nov 9), 10Y $42B (Nov 10), 30Y $25B (Nov 12), ~$28B new cash; coupon sizes kept 'for the next several quarters' vs 'at least the next several quarters' in Aug (Treasury)</title>
@@ -187,34 +215,6 @@
       <description>[事實] 影響: XAUUSD/USDJPY/DXY/美債殖利率 | 重點: 金價盤中一度失守3,900後收復，美債殖利率與美元走高壓抑金價；USDJPY升破200日線158.63逼近159，日本財務大臣警告選後若匯市失序將出手（干預時點UNKNOWN）；注意COMEX「12月合約」結算$3,940.40與本feed先前「前月11月合約」$3,927.90為不同合約 | 發布: 2026-11-04 06:23 (Asia/Taipei, RTHK) | 抓取: 2026-11-04 08:12 (Asia/Taipei)</description>
       <pubDate>Wed, 04 Nov 2026 06:23:00 +0800</pubDate>
       <guid isPermaLink="false">aitrade-intel-202611040623-asia-open-gold-usdjpy</guid>
-    </item>
-    <item>
-      <title>NZ Q3 jobs miss: unemployment 5.7% (highest since 2015) vs 5.5% consensus and RBNZ forecast, prior 5.6%; employment -0.1% q/q vs +0.4% expected; participation 70.4% vs 70.7%; private LCI +0.4% q/q (Reuters) vs +0.5% (Westpac) figures differ; NZD/USD at session low just below 0.5600 (FXStreet)</title>
-      <link>https://www.rnz.co.nz/news/business/2330819/new-jobless-figures-unemployment-rate-rises-to-5-point-7-percent</link>
-      <description>[事實] 影響: NZDUSD/AUDNZD | 重點: 紐西蘭Q3失業率升至5.7%、就業意外萎縮0.1%，均差於市場與RBNZ預期，削弱RBNZ升息理由，紐元跌至0.5600附近；私部門LCI季增數字Reuters稱0.4%、Westpac稱0.5%，來源不一 | 發布: 2026-11-04 05:45 (Asia/Taipei, Stats NZ) | 抓取: 2026-11-04 08:12 (Asia/Taipei)</description>
-      <pubDate>Wed, 04 Nov 2026 05:45:00 +0800</pubDate>
-      <guid isPermaLink="false">aitrade-intel-202611040545-nz-q3-jobs</guid>
-    </item>
-    <item>
-      <title>Oil settles off lows: WTI Dec -$0.37 to $96.09, Brent -$1.17 to $103.60 after lows $93.59/$100.80 on reports US approved Qatari draft MoU (Al-Araby, unconfirmed); Iran SNSC's Rezaei says US response 'not convincing', Hormuz reopens only if Iran's seven conditions are fully met; Qatar expects US/Iran feedback within 36 hours (Newsquawk/CNBC)</title>
-      <link>https://www.newsquawk.com/headlines/crude-wrap-wti-z6-settles-usd-037-lower-at-9609bbl</link>
-      <description>[事實] 影響: XAUUSD/USDCAD/USDJPY/DXY | 重點: 美伊協議傳聞一度壓低油價，但伊朗Rezaei公開設七條件、協議未獲證實，油價收離低點；「美方已批准MoU草案」屬未證實報導 | 發布: 2026-11-04 03:58 (Asia/Taipei, Newsquawk 19:58 UTC) | 抓取: 2026-11-04 04:10 (Asia/Taipei)</description>
-      <pubDate>Wed, 04 Nov 2026 03:58:00 +0800</pubDate>
-      <guid isPermaLink="false">aitrade-intel-202611040358-oil-settle-rezaei-seven-conditions</guid>
-    </item>
-    <item>
-      <title>NYT: Israel shared intelligence with US and Gulf states that Iran is considering chemical weapons use (missile delivery or covert smuggling); US officials divided, some suspect Netanyahu pressure to resume major combat; Gulf officials called briefings 'unserious'; no evidence published (via Al Arabiya/Times of Israel)</title>
-      <link>https://english.alarabiya.net/News/middle-east/2026/11/03/israel-shares-intel-with-us-claiming-that-iran-is-preparing-to-use-chemical-weapons-nyt</link>
-      <description>[推測] 影響: XAUUSD/油價/避險貨幣(USDJPY,USDCHF) | 重點: 以色列情報稱伊朗考慮化武，美方與海灣國家多存疑、未公開證據；屬未證實情報主張，市場影響UNKNOWN | 發布: 2026-11-04 02:59 (Asia/Taipei, Al Arabiya 22:59 GST) | 抓取: 2026-11-04 04:10 (Asia/Taipei)</description>
-      <pubDate>Wed, 04 Nov 2026 02:59:00 +0800</pubDate>
-      <guid isPermaLink="false">aitrade-intel-202611040259-nyt-israel-iran-chemical-intel</guid>
-    </item>
-    <item>
-      <title>COMEX gold settles -0.73% ($29.00) at $3,927.90 (front-month Nov), down 4 of past 5 sessions, 2nd-lowest settle of 2026, +1.09% above Oct 30 year low $3,885.70, -26.15% from Jan 29 record $5,318.40 (Dow Jones Data Talk); FXStreet ~03:09 Taipei: XAUUSD $3,926 (-0.45%), US 10Y 4.954% (+4bp), DXY 101.78; Dec Fed hike odds 79% (FXStreet) vs 73% (CNBC) per CME FedWatch</title>
-      <link>https://www.morningstar.com/news/dow-jones/202611039458/comex-gold-settles-073-lower-at-392790-data-talk</link>
-      <description>[事實] 影響: XAUUSD/DXY/美債殖利率 | 重點: 11/3 COMEX金結算$3,927.90跌0.73%，距今年低點$3,885.70僅約1%；美債10年期升至約4.954%、DXY約101.78；來源矛盾：12月升息機率FXStreet稱79%、CNBC稱73%，另EL7稱GCUSD收$3,917.9 | 發布: 2026-11-04 02:49 (Asia/Taipei, Dow Jones) | 抓取: 2026-11-04 04:10 (Asia/Taipei)</description>
-      <pubDate>Wed, 04 Nov 2026 02:49:00 +0800</pubDate>
-      <guid isPermaLink="false">aitrade-intel-202611040249-comex-gold-settle-nov3</guid>
     </item>
   </channel>
 </rss>
