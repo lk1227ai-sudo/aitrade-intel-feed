@@ -5,13 +5,41 @@
     <link>https://lk7221ai-bit.github.io/aitrade-intel-feed/</link>
     <description>公開資訊彙整，非交易建議</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 05 Nov 2026 22:20:00 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 00:16:00 +0800</lastBuildDate>
     <item>
-      <title>Next 24h (Taipei) refresh ~22:20: Fri Nov 6 21:30 BLS Oct NFP + unemployment + AHE (Reuters poll +65K, UR 4.2%); UMich Nov prelim ~23:00 Fri; Fed speakers Fri incl Williams (early), Musalem, Bowman; claims+productivity already out (189k / prod +3.6% ULC -0.7%). CPI Tue Nov 10 21:30</title>
+      <title>Next 24h (Taipei) refresh ~00:15 Nov 6: Fri 17:30 ECB Money Markets fireside Philip Lane + NY Fed Williams (Frankfurt); Fri 21:30 BLS Oct NFP + UR + AHE (polls ~+63k to +65k, UR 4.2%, AHE ~0.3% m/m — sources differ slightly); ~23:00 UMich Nov prelim; Sat 01:15 Taipei (=Fri 12:15 ET) Fed VC Bowman supervision discussion Ole Miss. CPI Tue Nov 10 21:30</title>
       <link>https://www.bls.gov/schedule/news_release/empsit.htm</link>
-      <description>[事實] 影響: XAUUSD/DXY/美債殖利率/主要貨幣對 | 重點: 未來24小時焦點為週五21:30美10月非農與失業率、平均時薪（路透調查就業約+6.5萬、失業率4.2%），當晚約23:00密大消費者信心初值；今日初請與Q3生產力已公布；下週二11/10 CPI | 發布: 2026-11-05 22:20 (Asia/Taipei) | 抓取: 2026-11-05 22:20 (Asia/Taipei)</description>
-      <pubDate>Thu, 05 Nov 2026 22:20:00 +0800</pubDate>
-      <guid isPermaLink="false">aitrade-intel-202611052220-next24h-nfp-umich</guid>
+      <description>[事實] 影響: XAUUSD/DXY/美債殖利率/主要貨幣對 | 重點: 未來約24小時：今日17:30台北 Lane（ECB）與Williams（紐約聯儲）對談；21:30美10月非農/失業率/時薪（各源共識約就業+6.3萬至+6.5萬、失業率4.2%，略有差異）；約23:00密大信心初值；週六01:15台北（美東週五12:15）Bowman監理座談；下週二CPI | 發布: 2026-11-06 00:15 (Asia/Taipei) | 抓取: 2026-11-06 00:15 (Asia/Taipei)</description>
+      <pubDate>Fri, 06 Nov 2026 00:16:00 +0800</pubDate>
+      <guid isPermaLink="false">aitrade-intel-202611060016-next24h-nfp-williams-bowman</guid>
+    </item>
+    <item>
+      <title>Asia open quotes ~00:15 Taipei Nov 6 (TradingView): XAUUSD 4085.38 (+25.0 / +0.62%; H 4146.92 L 4057.83); DXY 101.569 (+0.08); EURUSD 1.1220; USDJPY 157.857; GBPUSD 1.3467; US10Y 4.831% (-5.9bp); US02Y 4.508% (-7.5bp). CONTRADICTION vs FXStreet ~23:23 Taipei snapshot (10Y 4.89% / DXY 101.60): yields and DXY eased again into Asia</title>
+      <link>https://www.tradingview.com/symbols/XAUUSD/</link>
+      <description>[事實] 影響: XAUUSD/DXY/EURUSD/USDJPY/GBPUSD/美債殖利率 | 重點: 約00:15台北 TradingView：金4085.38（日高4146.92/日低4057.83）、DXY 101.569、EURUSD 1.1220、USDJPY 157.857、GBPUSD 1.3467、美10年4.831%（約-5.9bp）、美2年4.508%（約-7.5bp）；與FXStreet約23:23所寫10年4.89%/DXY 101.60相比，亞盤前殖利率與美元再度回軟 | 發布: 2026-11-06 00:15 (Asia/Taipei，串流報價） | 抓取: 2026-11-06 00:15 (Asia/Taipei)</description>
+      <pubDate>Fri, 06 Nov 2026 00:15:00 +0800</pubDate>
+      <guid isPermaLink="false">aitrade-intel-202611060015-asia-open-xau-dxy-yields</guid>
+    </item>
+    <item>
+      <title>Overnight gold (Kitco charts ~00:05 Taipei / 11:05 ET Nov 5): spot bid $4,088.30 (+$29.10 / +0.72%), ask $4,090.30; day's range $4,057.50-$4,148.00 — off two-week high near $4,148 into late US/Asia handoff. TradingView XAUUSD ~4085 at 00:15 Taipei</title>
+      <link>https://www.kitco.com/charts/gold</link>
+      <description>[事實] 影響: XAUUSD | 重點: Kitco圖表約美東11:05（台北00:05）現貨bid 4,088.30（+0.72%），日區間4,057.50–4,148.00，自日高約4,148回落；TradingView約00:15報4085；對週五非農前區間屬事實價位，後續方向屬推測 | 發布: 約2026-11-06 00:05 (Asia/Taipei，Kitco 11:05 ET Nov 5) | 抓取: 2026-11-06 00:15 (Asia/Taipei)</description>
+      <pubDate>Fri, 06 Nov 2026 00:05:00 +0800</pubDate>
+      <guid isPermaLink="false">aitrade-intel-202611060005-kitco-gold-4088-range-4148</guid>
+    </item>
+    <item>
+      <title>Late US gold/FX wrap (FXStreet 15:23 GMT / 23:23 Taipei Nov 5): XAUUSD around $4,105 after intraday high $4,146; DXY around 101.60 from low 101.20; US 10Y to 4.89% from 4.83% low; CME FedWatch Dec hike odds ~79%; cites claims 189k vs ~196k forecast. Tech notes in article (21-day SMA ~$4,077 etc.) are analysis not prints</title>
+      <link>https://www.fxstreet.com/news/gold-extends-recovery-amid-post-election-volatility-us-jobs-data-in-focus-202611051101</link>
+      <description>[事實] 影響: XAUUSD/DXY/美債殖利率 | 重點: FXStreet約23:23台北：金約4,105（日高約4,146）、DXY約101.60（自101.20反彈）、美10年約4.89%（自4.83%低點回升）、CME FedWatch稱12月升息機率約79%；技術均線敘述屬分析/觀點。稍後亞盤前報價顯示殖利率與DXY再度回軟（見另則） | 發布: 2026-11-05 23:23 (Asia/Taipei，15:23 GMT) | 抓取: 2026-11-06 00:15 (Asia/Taipei)</description>
+      <pubDate>Thu, 05 Nov 2026 23:23:00 +0800</pubDate>
+      <guid isPermaLink="false">aitrade-intel-202611052323-fxstreet-gold-4105-dxy-1016</guid>
+    </item>
+    <item>
+      <title>Cleveland Fed President Hammack (official 2026-11-05, SNB Watchers Zurich): expects policy 'will need to move to a restrictive stance' to return inflation to 2% timely; prefers 'more frequent smaller adjustments'; inflation above goal nearly six years, pressures broad supply and demand; stressed Fed independence for dollar reserve status. Reuters ~08:51 ET noted she dissented for a hike at last week's hold</title>
+      <link>https://www.clevelandfed.org/collections/press-releases/2026/pr-20261105-cleveland-fed-president-hammack-speech</link>
+      <description>[事實] 影響: XAUUSD/DXY/美債殖利率/USD | 重點: 克里夫蘭聯儲總裁Hammack官方稿：預期政策需轉向限制性以把通膨及時拉回2%，偏好較頻繁的小幅調整；通膨高於目標近六年且供需壓力偏廣；並強調聯儲獨立對美元儲備地位重要。路透另稱其上週維持利率時曾主張升息（異議）屬報導事實；對12月路徑解讀屬推測 | 發布: 2026-11-05 21:51 (Asia/Taipei，路透約08:51 ET；官方頁日期11.05.2026) | 抓取: 2026-11-06 00:15 (Asia/Taipei)</description>
+      <pubDate>Thu, 05 Nov 2026 21:51:00 +0800</pubDate>
+      <guid isPermaLink="false">aitrade-intel-202611052151-cleveland-fed-hammack-restrictive</guid>
     </item>
     <item>
       <title>Post-claims gold (Kitco ~21:47 Taipei): spot XAUUSD $4,120.60 (+1.5%), holding above $4,100 but off session high ~$4,147; little immediate reaction to soft claims; Kitco: solid labor print keeps Dec Fed hike room open ahead of Fri NFP (Reuters poll +65k). exa quote $4,125.84 (+1.48%) at 22:20 Taipei, day range $4,061.39-$4,146.97</title>
@@ -40,6 +68,13 @@
       <description>[事實] 影響: GBPUSD/EURGBP/XAUUSD | 重點: 英央升息後英鎊小升，GBP/USD約1.3477（決議前1.3453）、EUR/GBP 83.25便士，英2年債約+2bp至4.76%；Bailey記者會稱中東衝突進入第九個月、能源推升G7通膨；現貨金20:52約4,118.9（+1.31%），較日內高點4,147回落；來源矛盾：FXStreet稱投票一致，英央官方為8比1；市場將8-1解讀偏鷹屬推測 | 發布: UNKNOWN（英央20:00決議後，路透稿） | 抓取: 2026-11-05 20:52 (Asia/Taipei)</description>
       <pubDate>Thu, 05 Nov 2026 20:52:00 +0800</pubDate>
       <guid isPermaLink="false">aitrade-intel-202611052052-post-boe-gbp-13477-gilt2y-476</guid>
+    </item>
+    <item>
+      <title>Challenger Gray Oct 2026 job-cut report (published Nov 5): announced cuts 43,994 (+2% vs Sep 43,281; -71% vs Oct 2025 153,074) — lowest October since 2023; YTD 617,189 (-44% y/y). Hiring plans Oct 444,692 (+57% y/y); seasonal plans YTD +26% (Amazon 300k, UPS 100k). Market/Economic Conditions top cut reason Oct (16,407); AI cited 1,265 in Oct</title>
+      <link>https://www.challengergray.com/blog/october-layoffs-at-three-year-low-seasonal-hiring-plans-up-26/</link>
+      <description>[事實] 影響: XAUUSD/DXY/美債殖利率/非農預期 | 重點: Challenger 10月企業宣布裁員43,994（較9月+2%、較2025年10月-71%），為2023年以來同期最低；年初至今61.7萬（-44%）；10月招聘計畫44.5萬（+57%），亞馬遜季節性30萬、UPS 10萬；10月裁員主因市場/經濟條件，AI當月僅1,265。對週五非農的含義屬推測 | 發布: 2026-11-05（Challenger頁面日期；確切鐘點UNKNOWN） | 抓取: 2026-11-06 00:15 (Asia/Taipei)</description>
+      <pubDate>Thu, 05 Nov 2026 20:30:00 +0800</pubDate>
+      <guid isPermaLink="false">aitrade-intel-202611052030-challenger-oct-43994-cuts</guid>
     </item>
     <item>
       <title>Gold near session highs into BoE: spot XAUUSD $4,129.41 (+1.57%) at 20:01 Taipei, session range $4,061.39-$4,146.97 (exa); CNBC: spot +1.7% to $4,130.27 after high $4,146.63 (last seen Oct 20), Dec futures $4,139.60; prior close ~$4,060-4,066 differs by source</title>
@@ -180,41 +215,6 @@
       <description>[事實] 影響: 美債殖利率/DXY/XAUUSD | 重點: 9月貿易逆差1,050億美元略優於預期；財政部季度再融資規模維持1,250億美元不變、未增發，措辭由「至少未來數季」改為「未來數季」維持票券規模（市場是否解讀為未來可能增發屬推測，UNKNOWN）；下週3/10/30年期標售（台北11/10、11/11、11/13凌晨2:00） | 發布: 2026-11-04 21:30 (Asia/Taipei, Census/Treasury 8:30 ET) | 抓取: 2026-11-04 22:24 (Asia/Taipei)</description>
       <pubDate>Wed, 04 Nov 2026 21:30:00 +0800</pubDate>
       <guid isPermaLink="false">aitrade-intel-202611042130-trade-refunding</guid>
-    </item>
-    <item>
-      <title>US ADP Oct private payrolls +86K vs consensus 69K (Reuters) / 75K (Dow Jones) / 67K (Kitco); Sep revised down to +86K from +90K; base pay +3.2% y/y, gross pay +4.7%, job-changers +4.8%; trade/transport/utilities +39K, prof/business services -27K (3rd straight drop) (ADP); spot gold held ~$4,037.70 (+2%) after release (Kitco); BLS Oct NFP due Fri Nov 6, Reuters poll +65K, unemployment 4.2%</title>
-      <link>https://mediacenter.adp.com/2026-11-04-ADP-National-Employment-Report-Private-Sector-Employment-Increased-by-86,000-Jobs-in-October</link>
-      <description>[事實] 影響: XAUUSD/DXY/EURUSD/USDJPY/美債殖利率 | 重點: 10月ADP民間就業+8.6萬，高於各家預估（6.7萬~7.5萬，來源間預估不一），9月下修至+8.6萬；黃金公布後仍守在4,000美元上方（Kitco）；Kitco稱9月為9萬未反映下修，與ADP/Reuters矛盾，以ADP為準；更正本feed 19:21的非農日期矛盾：CNBC/Reuters/聯合新聞均指BLS非農於週五11/6（台北週五21:30）公布 | 發布: 2026-11-04 21:15 (Asia/Taipei, ADP 8:15 ET) | 抓取: 2026-11-04 22:24 (Asia/Taipei)</description>
-      <pubDate>Wed, 04 Nov 2026 21:15:00 +0800</pubDate>
-      <guid isPermaLink="false">aitrade-intel-202611042115-adp-oct-86k</guid>
-    </item>
-    <item>
-      <title>Iran's Ghalibaf says US voters 'said NO TO WAR', warns 'our NO comes with a Nightmare' if ignored; Mojtaba Khamenei says no change in US hostility expected; BBC Verify found no evidence for IRGC claim that four tankers were destroyed by mines; IRGC also claims another US MQ-9 drone downed; Trump: war ends 'when I say it ends' (BBC)</title>
-      <link>https://www.bbc.com/news/articles/c6d934npl9y8o</link>
-      <description>[事實] 影響: XAUUSD/USDJPY/USDCHF/油價 | 重點: 伊朗談判代表回應美國期中選舉並強硬警告；BBC查證未找到「四艘油輪被毀」證據，與本feed 14:30所列IRGC說法矛盾（IRGC說法仍屬未證實）；美伊間接談判仍停滯，美方是否於選後動武UNKNOWN | 發布: 約2026-11-04 20:25 (Asia/Taipei, BBC頁面顯示「25分鐘前」推估) | 抓取: 2026-11-04 20:52 (Asia/Taipei)</description>
-      <pubDate>Wed, 04 Nov 2026 20:25:00 +0800</pubDate>
-      <guid isPermaLink="false">aitrade-intel-202611042025-iran-ghalibaf-bbc-verify</guid>
-    </item>
-    <item>
-      <title>ING FX daily (FXStreet 19:21 Taipei): US 2Y yields reclaimed most of 8-9bp overnight drop, USD/CHF and USD/JPY reversed about half of early-Asia 1% fall; DXY overnight low 101.25 seen as key support; EUR/USD correcting off 1.1260 spike; Reuters/Yahoo: 10Y 4.92% (-3bp), EUR/USD 1.133, GBP/USD 1.348, USD/CHF 0.8163, USD/JPY 158.12; sterling 7-week high $1.3495 (Guardian). Correction: Treasury refunding is 21:30 Taipei (8:30 ET), not 20:30</title>
-      <link>https://www.fxstreet.com/analysis/fx-daily-blue-wave-price-action-a-preview-of-whats-to-come-202611041121</link>
-      <description>[推測] 影響: DXY/EURUSD/GBPUSD/USDJPY/USDCHF/XAUUSD | 重點: ING認為美元走弱可能是2027年議題、不宜追空，DXY 101.25為支撐（觀點）；MUFG稱市場反應小於選舉結果規模（觀點）；EUR/USD報價來源間差異大（1.1230~1.133），以各自時點為準；更正：美財政部季度再融資公告為台北21:30（Treasury官網8:30 ET），本feed 19:14則誤寫20:30；ING稱非農為「明天」而MUFG稱「週五」，日期矛盾，實際日期UNKNOWN | 發布: 2026-11-04 19:21 (Asia/Taipei, FXStreet 11:21 GMT) | 抓取: 2026-11-04 20:52 (Asia/Taipei)</description>
-      <pubDate>Wed, 04 Nov 2026 19:21:00 +0800</pubDate>
-      <guid isPermaLink="false">aitrade-intel-202611041921-ing-fx-refunding-correction</guid>
-    </item>
-    <item>
-      <title>XAUUSD technicals and FX (FXStreet 19:14 Taipei): gold ~$4,041 (+3%), resistance 20-day SMA ~$4,074, upper Bollinger ~$4,253, RSI 46; DXY ~101.40 (-0.44%, near 5-week low); Saxo: gold reclaimed $3,970, Aug downtrend line ~$4,035; SocGen still sees Dec Fed 25bp hike as high probability; US Treasury quarterly refunding 20:30 Taipei</title>
-      <link>https://www.fxstreet.com/news/gold-reclaims-4-000-as-democrats-congress-win-rattles-us-dollar-202611041114</link>
-      <description>[推測] 影響: XAUUSD/DXY/USDCHF/美債殖利率 | 重點: 技術位與機構看法屬分析觀點；Saxo所指下降趨勢線約$4,035已被短暫上破，能否守住UNKNOWN；ING稱再融資公告若引發債市波動可能衝擊USDCHF（觀點）；接下來ADP 21:15、ISM服務業23:00 | 發布: 2026-11-04 19:14 (Asia/Taipei, FXStreet 11:14 GMT) | 抓取: 2026-11-04 20:10 (Asia/Taipei)</description>
-      <pubDate>Wed, 04 Nov 2026 19:14:00 +0800</pubDate>
-      <guid isPermaLink="false">aitrade-intel-202611041914-gold-levels-refunding</guid>
-    </item>
-    <item>
-      <title>Gold +3% on blue-wave dollar slide: spot $4,041.77 (+2.9%) at 18:50 Taipei, Dec futures $4,051.70 (Reuters); $4,044.90 (+2.97%) at 17:32 Taipei (CNBC); exa $4,040.40 (+2.59%) at 20:04 Taipei; silver ~$51.90 (+4.3%); on track for biggest daily gain since Aug 19; CME FedWatch Dec Fed hike odds 82%</title>
-      <link>https://www.streetinsider.com/Reuters/Gold+jumps+more+than+2%25+on+softer+dollar+after+Democratic+midterm+sweep/27284030.html</link>
-      <description>[事實] 影響: XAUUSD/XAGUSD/DXY | 重點: 民主黨全面掌控國會引發財政疑慮與美元走弱，金價擴大漲幅至約$4,040；Capital Economics認為Fed仍鷹派、上漲空間有限（觀點）；FedWatch升息機率82%高於本feed稍早79%，與金價上漲方向矛盾；各來源報價時點不同 | 發布: 2026-11-04 18:50 (Asia/Taipei, Reuters 10:50 GMT) | 抓取: 2026-11-04 20:10 (Asia/Taipei)</description>
-      <pubDate>Wed, 04 Nov 2026 18:50:00 +0800</pubDate>
-      <guid isPermaLink="false">aitrade-intel-202611041850-gold-up-3pct</guid>
     </item>
   </channel>
 </rss>
