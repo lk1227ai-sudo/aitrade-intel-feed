@@ -5,13 +5,41 @@
     <link>https://lk7221ai-bit.github.io/aitrade-intel-feed/</link>
     <description>公開資訊彙整，非交易建議</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 05 Nov 2026 16:12:00 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 20:08:00 +0800</lastBuildDate>
     <item>
-      <title>Next 24h (Taipei) refresh ~16:12: Norges Bank policy decision due 17:00 (Oslo 10:00; presser 10:30; prior 4.50%, hold widely expected per calendars); BoE rate + Monetary Policy Report 20:00 (Bailey ~20:30; prior 3.75%, many calendars forecast 4.00%/+25bp); US initial/continuing claims + Q3 prelim productivity/ULC 21:30 (claims cons ~196-197K vs prior 194K — verify vs BLS); Eurozone Sep PPI was listed ~18:00 — confirm if published; BLS Oct NFP Fri Nov 6 21:30 (Reuters poll +65K, UR 4.2%). Norges/BoE/claims NOT released at retrieval.</title>
-      <link>https://www.norges-bank.no/en/news-events/calendar/policy-rate-decisions/26-11-05/</link>
-      <description>[事實] 影響: XAUUSD/GBPUSD/USDNOK/DXY | 重點: 未來24小時焦點：挪威央行17:00（官網仍顯示本日決策、政策利率頁仍為4.50%待更新）、英央20:00（多數日曆預期升至4.00%）、美初請失業金與初值生產力21:30、週五NFP；檢索時挪威／英央／美數據均尚未公布，實際值UNKNOWN | 發布: 2026-11-05 16:12 (Asia/Taipei) | 抓取: 2026-11-05 16:12 (Asia/Taipei)</description>
-      <pubDate>Thu, 05 Nov 2026 16:12:00 +0800</pubDate>
-      <guid isPermaLink="false">aitrade-intel-202611051612-next24h-norges-boe-claims-nfp</guid>
+      <title>Next 24h (Taipei) refresh ~20:08: BoE Bailey presser 20:30; US initial/continuing jobless claims + Q3 prelim productivity/ULC 21:30 Thu (actuals not out at retrieval); BLS Oct NFP + unemployment Fri Nov 6 21:30 (Reuters poll +65K, UR 4.2%); Norges Bank (hold 4.50%), BoE (hike to 4.00%) and Eurozone PPI already released</title>
+      <link>https://www.bls.gov/schedule/news_release/empsit.htm</link>
+      <description>[事實] 影響: XAUUSD/DXY/美債殖利率/GBPUSD | 重點: 未來24小時焦點：20:30英央總裁記者會、21:30美國初請失業金與Q3初值生產力／單位勞動成本、週五21:30美10月非農與失業率（路透調查+6.5萬、4.2%）；檢索時美國數據實際值UNKNOWN | 發布: 2026-11-05 20:08 (Asia/Taipei) | 抓取: 2026-11-05 20:08 (Asia/Taipei)</description>
+      <pubDate>Thu, 05 Nov 2026 20:08:00 +0800</pubDate>
+      <guid isPermaLink="false">aitrade-intel-202611052008-next24h-claims-nfp-bailey</guid>
+    </item>
+    <item>
+      <title>Gold near session highs into BoE: spot XAUUSD $4,129.41 (+1.57%) at 20:01 Taipei, session range $4,061.39-$4,146.97 (exa); CNBC: spot +1.7% to $4,130.27 after high $4,146.63 (last seen Oct 20), Dec futures $4,139.60; prior close ~$4,060-4,066 differs by source</title>
+      <link>https://www.cnbc.com/2026/11/05/gold-hits-two-week-high-as-dollar-yields-ease-after-us-midterms.html</link>
+      <description>[事實] 影響: XAUUSD | 重點: 英央決議前後現貨金約4,129–4,130美元、日內約+1.6%～+1.7%，日內高點約4,147（10/20以來最高）、低點約4,061；12月期金約4,139.6；各來源前收4,060–4,066不一 | 發布: 2026-11-05 20:01 (Asia/Taipei) | 抓取: 2026-11-05 20:08 (Asia/Taipei)</description>
+      <pubDate>Thu, 05 Nov 2026 20:01:00 +0800</pubDate>
+      <guid isPermaLink="false">aitrade-intel-202611052001-gold-4129-session-high-4147</guid>
+    </item>
+    <item>
+      <title>BREAKING: Bank of England raises Bank Rate 25bp to 4.00% (first hike since Aug 2023), MPC vote 8-1 (Mann wanted +50bp to 4.25%); CPI seen ~4.5% in 2027 Q1 and ~5% in 2027 Q2; 'not on a pre-set path'; Bailey sees argument for a further increase absent softer news; Taylor: 'one-for-now' insurance hike; next decision Dec 17 (BoE). GBP reaction UNKNOWN at retrieval</title>
+      <link>https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2026/november-2026</link>
+      <description>[事實] 影響: GBPUSD/EURGBP/XAUUSD/DXY | 重點: 英央升息25bp至4.00%（2023年8月以來首次），投票8比1、Mann主張升50bp；預估CPI 2027年Q1約4.5%、Q2約5%；聲明稱非預設路徑，Bailey認為若無緩和消息可再升一次，Taylor稱屬「一次性保險式」升息；事前多數預期7-2，8-1偏鷹（市場解讀屬推測）；檢索時英鎊即時反應UNKNOWN | 發布: 2026-11-05 20:00 (Asia/Taipei，倫敦12:00) | 抓取: 2026-11-05 20:08 (Asia/Taipei)</description>
+      <pubDate>Thu, 05 Nov 2026 20:00:00 +0800</pubDate>
+      <guid isPermaLink="false">aitrade-intel-202611052000-boe-hike-400-vote-8-1</guid>
+    </item>
+    <item>
+      <title>Eurozone Sep PPI +2.5% m/m (Aug revised +2.0%), +11.1% y/y (Aug 8.3%); energy +7.8% m/m, +30.8% y/y; ex-energy +0.1% m/m, +3.5% y/y; EU +2.6% m/m, +10.9% y/y (Eurostat)</title>
+      <link>https://ec.europa.eu/eurostat/en/web/products-euro-indicators/w/4-05112026-ap</link>
+      <description>[事實] 影響: EURUSD/DXY | 重點: 歐元區9月工業生產者物價月增2.5%、年增11.1%（8月分別2.0%、8.3%），主因能源月增7.8%、年增30.8%；扣除能源僅月增0.1%、年增3.5% | 發布: 2026-11-05 18:00 (Asia/Taipei，歐中11:00) | 抓取: 2026-11-05 20:08 (Asia/Taipei)</description>
+      <pubDate>Thu, 05 Nov 2026 18:00:00 +0800</pubDate>
+      <guid isPermaLink="false">aitrade-intel-202611051800-ez-ppi-sep-111yy</guid>
+    </item>
+    <item>
+      <title>Norges Bank holds policy rate at 4.50% (unanimous, as expected), effective Nov 6; Governor Wolden Bache: 'Inflation is too high... prepared to raise the policy rate if needed'; Sep CPI 3.4%, CPI-ATE 3.0%; krone stronger than assumed; next decision + MPR Dec 17 (Norges Bank)</title>
+      <link>https://www.norges-bank.no/en/topics/monetary-policy/Monetary-policy-meetings/2026/november-2026/</link>
+      <description>[事實] 影響: USDNOK/EURNOK | 重點: 挪威央行一致決議維持政策利率4.50%（符合預期），11/6生效；總裁稱通膨太高、必要時準備再升息；9月CPI 3.4%、CPI-ATE 3.0%，克朗強於假設；下次決議與貨幣政策報告12/17 | 發布: 2026-11-05 17:00 (Asia/Taipei，奧斯陸10:00) | 抓取: 2026-11-05 20:08 (Asia/Taipei)</description>
+      <pubDate>Thu, 05 Nov 2026 17:00:00 +0800</pubDate>
+      <guid isPermaLink="false">aitrade-intel-202611051700-norges-hold-450</guid>
     </item>
     <item>
       <title>Reuters Tokyo wrap: DXY -0.22% to 101.25 (lowest since Sep 30); US 10Y -4.5bp to 4.847% (lowest since Sep 10); EUR/USD 1.1261 (+0.29%), USD/JPY 157.95 (-0.27% USD), GBP/USD 1.349 (+0.12%, 7th up day, toward highest close since Sep 14); CME FedWatch Dec +25bp 80.7% (from 77.4%); AUD/USD 0.7009, NZD/USD 0.5641; BoE hike expected later Thu</title>
@@ -187,34 +215,6 @@
       <description>[事實] 影響: EURUSD/GBPUSD/USDJPY/NZDUSD/DXY | 重點: 美元全面走弱、瑞郎與日圓領漲，但USDJPY已從亞洲低點回升至158上方；DXY低點報價有矛盾（FXStreet分析101.73 vs MarketScreener 101.34）；Commerzbank認為美元弱勢可能延續（觀點） | 發布: 2026-11-04 15:37 (Asia/Taipei, FXStreet) | 抓取: 2026-11-04 16:15 (Asia/Taipei)</description>
       <pubDate>Wed, 04 Nov 2026 15:37:00 +0800</pubDate>
       <guid isPermaLink="false">aitrade-intel-202611041537-europe-open-fx</guid>
-    </item>
-    <item>
-      <title>Breaking: Democrats win both US Senate and House (AP calls; NPR/CBS); Democrats flipped 7 GOP Senate seats (NC, SC, OH, TX, KS, IA, ME) with no GOP pickups per AP, held GA and NH; CBS projection Dem 54 / GOP 43 seats so far; Trump says he accepts result, will work with Democrats but cites veto power</title>
-      <link>https://apnews.com/article/when-ap-calls-congress-control-9dae62cdd7d776a20a26eab6fbd9b12c</link>
-      <description>[事實] 影響: XAUUSD/DXY/USDJPY/EURUSD/美債殖利率 | 重點: 美聯社判定民主黨同時拿下參眾兩院，川普剩餘任期將面對分裂政府；Capital Economics認為參院無60席、川普有否決權，短期政策變化有限（觀點）；最終席次UNKNOWN；取代本feed 11:50眾院項目 | 發布: 2026-11-04 14:46 (Asia/Taipei, AP更新時間；判定精確時間UNKNOWN) | 抓取: 2026-11-04 16:15 (Asia/Taipei)</description>
-      <pubDate>Wed, 04 Nov 2026 14:46:00 +0800</pubDate>
-      <guid isPermaLink="false">aitrade-intel-202611041446-dems-win-congress</guid>
-    </item>
-    <item>
-      <title>Iran risk: NYT says CENTCOM plan ready to strike Iran as early as Wed evening after midterms; Trump to FT: no immediate plans, 'locked and loaded if we need to go, but there may be no reason for it'; IRGC claims four tankers destroyed by mines in Hormuz and two vessels halted (state TV via AFP/Gulf News); talks described as stalled</title>
-      <link>https://gulfnews.com/world/mena/middle-east-conflict-trump-says-us-locked-and-loaded-as-four-tankers-catch-fire-near-hormuz-1.500735100</link>
-      <description>[推測] 影響: XAUUSD/USOIL/USDJPY/USDCHF | 重點: 美軍打擊計畫屬媒體引述官員報導，是否執行UNKNOWN；川普公開說無立即計畫，兩者矛盾；IRGC油輪觸雷說法（由前日三艘增為四艘）未獲獨立證實 | 發布: UNKNOWN（2026-11-04 台北上午前後，各報導時間不一） | 抓取: 2026-11-04 16:15 (Asia/Taipei)</description>
-      <pubDate>Wed, 04 Nov 2026 14:30:00 +0800</pubDate>
-      <guid isPermaLink="false">aitrade-intel-202611041430-iran-strike-plan-report</guid>
-    </item>
-    <item>
-      <title>Market reaction to blue-wave signals ~11:50-12:09 Taipei: DXY -0.37% to 101.34 (one-month low), EUR/USD 1.1249 (+0.5%), GBP/USD 1.3464, USD/JPY 157.63 (-0.7%); US 10Y -6bp to 4.906% (lowest since early Sep per MarketScreener); S&amp;P futures -1.2%, Nasdaq futures &gt;-2%, Nikkei -3%; spot gold $3,948.12 (+0.66%, exa 12:09 Taipei) vs $3,934.75 at 08:24 Taipei (Reuters)</title>
-      <link>https://uk.marketscreener.com/news/stocks-wilt-dollar-slides-as-early-midterm-results-point-to-blue-sweep-ce785fdede8cf321</link>
-      <description>[事實] 影響: XAUUSD/DXY/EURUSD/USDJPY/GBPUSD/美債殖利率 | 重點: 期中選舉偏民主黨的結果引發美元走弱、美債上漲、美股期貨重挫，金價午盤升至約$3,948；Saxo稱市場在消化財政刺激預期下降，並認為初期拋售未必持續（觀點）；USDJPY各來源報價時點不同（FXStreet早盤158.4附近 vs Reuters 157.63） | 發布: 2026-11-04 11:50 (Asia/Taipei, Reuters) | 抓取: 2026-11-04 12:10 (Asia/Taipei)</description>
-      <pubDate>Wed, 04 Nov 2026 12:09:00 +0800</pubDate>
-      <guid isPermaLink="false">aitrade-intel-202611041209-blue-wave-market-reaction</guid>
-    </item>
-    <item>
-      <title>China RatingDog services PMI Oct 50.8 vs 51.6 prior (3-month low), composite 52.0 vs 52.4; new export business up 6th month, input costs fastest in 5 months while selling prices cut 2nd month (S&amp;P Global/RatingDog)</title>
-      <link>https://www.fxstreet.com/news/chinas-ratingdog-services-pmi-eases-to-508-in-october-202611040148</link>
-      <description>[事實] 影響: AUDUSD/USDCNH/XAUUSD | 重點: 中國10月RatingDog服務業PMI降至50.8（三個月低）、綜合PMI 52.0，仍在擴張區但動能放緩，投入成本升而售價降；市場預期值UNKNOWN | 發布: 2026-11-04 09:45 (Asia/Taipei, S&amp;P Global) | 抓取: 2026-11-04 12:10 (Asia/Taipei)</description>
-      <pubDate>Wed, 04 Nov 2026 09:45:00 +0800</pubDate>
-      <guid isPermaLink="false">aitrade-intel-202611040945-china-services-pmi</guid>
     </item>
   </channel>
 </rss>
