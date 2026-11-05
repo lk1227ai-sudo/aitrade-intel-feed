@@ -5,13 +5,34 @@
     <link>https://lk7221ai-bit.github.io/aitrade-intel-feed/</link>
     <description>公開資訊彙整，非交易建議</description>
     <language>zh-TW</language>
-    <lastBuildDate>Fri, 06 Nov 2026 00:16:00 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 04:13:00 +0800</lastBuildDate>
     <item>
-      <title>Next 24h (Taipei) refresh ~00:15 Nov 6: Fri 17:30 ECB Money Markets fireside Philip Lane + NY Fed Williams (Frankfurt); Fri 21:30 BLS Oct NFP + UR + AHE (polls ~+63k to +65k, UR 4.2%, AHE ~0.3% m/m — sources differ slightly); ~23:00 UMich Nov prelim; Sat 01:15 Taipei (=Fri 12:15 ET) Fed VC Bowman supervision discussion Ole Miss. CPI Tue Nov 10 21:30</title>
+      <title>Next 24h (Taipei) refresh ~04:10 Nov 6: Fri 17:30 ECB Money Markets Lane + NY Fed Williams (Frankfurt); Fri 21:30 BLS Oct NFP+UR+AHE (street ~+65k / UR 4.2% / AHE 0.3% — house forecasts 50k–120k diverge); ~23:00 UMich Nov prelim; Sat 01:15 Bowman Ole Miss; Dec Fed hike odds now ~62–68% vs earlier ~79%. CPI Tue Nov 10 21:30. No Lane/Williams or NFP actuals yet</title>
       <link>https://www.bls.gov/schedule/news_release/empsit.htm</link>
-      <description>[事實] 影響: XAUUSD/DXY/美債殖利率/主要貨幣對 | 重點: 未來約24小時：今日17:30台北 Lane（ECB）與Williams（紐約聯儲）對談；21:30美10月非農/失業率/時薪（各源共識約就業+6.3萬至+6.5萬、失業率4.2%，略有差異）；約23:00密大信心初值；週六01:15台北（美東週五12:15）Bowman監理座談；下週二CPI | 發布: 2026-11-06 00:15 (Asia/Taipei) | 抓取: 2026-11-06 00:15 (Asia/Taipei)</description>
-      <pubDate>Fri, 06 Nov 2026 00:16:00 +0800</pubDate>
-      <guid isPermaLink="false">aitrade-intel-202611060016-next24h-nfp-williams-bowman</guid>
+      <description>[事實] 影響: XAUUSD/DXY/美債殖利率/主要貨幣對 | 重點: 未來約24小時：今日17:30台北 Lane（ECB）與Williams（紐約聯儲）對談；21:30美10月非農／失業率／時薪（街估約+6.5萬但機構預估約5萬至12萬分歧）；約23:00密大信心初值；週六01:15 Bowman監理座談；12月升息市場定價約62–68%（較早前約79%下修）；下週二CPI；Lane/Williams與非農實際值尚未公布 | 發布: 2026-11-06 04:10 (Asia/Taipei) | 抓取: 2026-11-06 04:10 (Asia/Taipei)</description>
+      <pubDate>Fri, 06 Nov 2026 04:13:00 +0800</pubDate>
+      <guid isPermaLink="false">aitrade-intel-202611060413-next24h-nfp-fedwatch</guid>
+    </item>
+    <item>
+      <title>NFP Oct preview dispersion ahead of 21:30 Taipei: street cluster ~+65k / UR 4.2% / AHE ~0.3% m/m (~2.9% y/y) vs Moody's Analytics 50k, Goldman Sachs 75k, Vanguard ~120k, some houses ~55–59k — ACTUALS UNKNOWN (BLS schedule confirmed Nov 6 08:30 ET)</title>
+      <link>https://www.bls.gov/schedule/news_release/empsit.htm</link>
+      <description>[事實] 影響: XAUUSD/DXY/美債殖利率/主要貨幣對 | 重點: 美10月非農仍定今日台北21:30發布；主流共識多在約+6.5萬、失業率4.2%、時薪約月增0.3%，但公開預覽分歧明顯（穆迪約5萬、高盛約7.5萬、Vanguard約12萬、部分約5.5–5.9萬）；實際數字尚未公布＝UNKNOWN | 發布: 預覽流通於2026-11-06 21:30前；BLS時程已確認 | 抓取: 2026-11-06 04:10 (Asia/Taipei)</description>
+      <pubDate>Fri, 06 Nov 2026 04:12:00 +0800</pubDate>
+      <guid isPermaLink="false">aitrade-intel-202611060412-nfp-poll-dispersion</guid>
+    </item>
+    <item>
+      <title>CONTRADICTION: Dec 9 Fed hike odds eased to ~62–68% vs prior feed/FXStreet ~79% CME FedWatch — Frenzy futures ~62% hike / 38% hold (data through Nov 6); FinBoss ~65% in 4.00–4.25 / 35% hold 3.75–4.00 (as of Nov 5); Kalshi/Polymarket ~68% hike. Live official CME reprint this run = UNKNOWN</title>
+      <link>https://www.frenzycap.com/fedwatch</link>
+      <description>[事實] 影響: XAUUSD/DXY/美債殖利率/EURUSD/USDJPY/GBPUSD | 重點: 相對先前饋源與FXStreet約79%的12月升息定價，公開FedWatch類頁面顯示機率下修：Frenzy期貨隱含約62%升25bp／38%維持；FinBoss約65%落在4.00–4.25、35%維持；Kalshi/Polymarket約68%；官方CME即時百分比此輪未獨立核對＝UNKNOWN；路徑解讀屬推測 | 發布: Frenzy資料至2026-11-06；FinBoss截至2026-11-05 | 抓取: 2026-11-06 04:10 (Asia/Taipei)</description>
+      <pubDate>Fri, 06 Nov 2026 04:11:00 +0800</pubDate>
+      <guid isPermaLink="false">aitrade-intel-202611060411-fedwatch-dec-odds-62-68</guid>
+    </item>
+    <item>
+      <title>Asia early session ~04:10 Taipei Nov 6 (TradingView): XAUUSD 4104.93 (+19.55 / +0.48% vs 00:15 open 4085.38; day H 4146.92 L 4057.83, day +1.10%); US02Y 4.462% (−4.6bp vs 4.508); US10Y 4.831% unch; DXY 101.549 (−0.02); EURUSD 1.12237; USDJPY 157.794; GBPUSD 1.3455. Kitco homepage ~4,106.60 aligns. FXBus ~02:02 Taipei: spot briefly above $4,100 then ~$4,099.36</title>
+      <link>https://www.tradingview.com/symbols/XAUUSD/</link>
+      <description>[事實] 影響: XAUUSD/US02Y/US10Y/DXY/EURUSD/USDJPY/GBPUSD | 重點: 亞盤早段相對00:15開盤，現貨金約4104.93（約+0.48%，日高4146.92／日低4057.83），美2年期殖利率降至4.462%（再降約4.6個基點），10年持平4.831%；美元指數約101.549、主要貨幣對變動極小；Kitco首頁約4106.60；FXBus約02:02台北亦報現貨短暫站上4100 | 發布: 2026-11-06 04:10 (Asia/Taipei) | 抓取: 2026-11-06 04:10 (Asia/Taipei)</description>
+      <pubDate>Fri, 06 Nov 2026 04:10:00 +0800</pubDate>
+      <guid isPermaLink="false">aitrade-intel-202611060410-asia-early-xau-us02y</guid>
     </item>
     <item>
       <title>Asia open quotes ~00:15 Taipei Nov 6 (TradingView): XAUUSD 4085.38 (+25.0 / +0.62%; H 4146.92 L 4057.83); DXY 101.569 (+0.08); EURUSD 1.1220; USDJPY 157.857; GBPUSD 1.3467; US10Y 4.831% (-5.9bp); US02Y 4.508% (-7.5bp). CONTRADICTION vs FXStreet ~23:23 Taipei snapshot (10Y 4.89% / DXY 101.60): yields and DXY eased again into Asia</title>
@@ -195,27 +216,5 @@
       <pubDate>Wed, 04 Nov 2026 23:00:00 +0800</pubDate>
       <guid isPermaLink="false">aitrade-intel-202611042300-ism-services-oct-545</guid>
     </item>
-    <item>
-      <title>Fed hawks after Oct hold at 3.75%-4.00%: Dallas Fed Logan says FOMC needs 'at least two more 25-basis-point rate increases' then pause; St. Louis Fed Musalem (SOMC, Nov 4): 'Additional firming... will be necessary, and soon'; Richmond Fed Barkin: direction is higher, question is pace; futures trimmed but still favor a Dec 8-9 hike (report)</title>
-      <link>https://www.indiasnews.net/news/279406094/fed-officials-signal-more-rate-hikes-may-be-needed</link>
-      <description>[事實] 影響: XAUUSD/DXY/美債殖利率/USDJPY | 重點: 三位Fed官員（Logan、Musalem、Barkin）均傾向再升息，Logan主張至少再升兩碼，與市場因國會改選而下修升息預期形成矛盾；Logan講話確切日期UNKNOWN（報導稱為本次維持利率後首輪發言），12月升息機率最新數字UNKNOWN | 發布: 2026-11-04 22:27 (Asia/Taipei) | 抓取: 2026-11-05 04:10 (Asia/Taipei)</description>
-      <pubDate>Wed, 04 Nov 2026 22:27:00 +0800</pubDate>
-      <guid isPermaLink="false">aitrade-intel-202611042227-fed-logan-musalem-barkin-hikes</guid>
-    </item>
-    <item>
-      <title>Iran lawmaker Hayat-Moghaddam (ISNA): ships from India, China, Iraq and Qatar exempted from Hormuz transit restrictions and 'pass freely'; Iran collects transit fees from Indian and Chinese vessels, Qatari ships free; strait still severely restricted with IRGC screening (Hindustan Times/PTI); exemption not independently confirmed</title>
-      <link>https://www.hindustantimes.com/india-news/iran-exempts-ships-from-india-china-iraq-qatar-from-hormuz-strait-restrictions-us-war-oil-prices-101793784043931.html</link>
-      <description>[推測] 影響: XAUUSD/原油/USDJPY/DXY | 重點: 伊朗國會國安委員會副主席稱印度、中國、伊拉克、卡達船隻免受荷莫茲海峽通行限制；屬伊方官員說法，美方或航運數據未獨立證實，海峽整體仍受嚴格管制 | 發布: 2026-11-04 22:05 (Asia/Taipei) | 抓取: 2026-11-05 12:10 (Asia/Taipei)</description>
-      <pubDate>Wed, 04 Nov 2026 22:05:00 +0800</pubDate>
-      <guid isPermaLink="false">aitrade-intel-202611042205-iran-hormuz-exemptions-four-countries</guid>
-    </item>
-    <item>
-      <title>US Sep trade deficit $105.0B vs $107.9B Bloomberg consensus, Aug revised $105.7B; exports +1.9% to $321.5B (capital goods record $73.3B), imports +1.2% to $426.6B (Census/BEA); Treasury Nov refunding $125B unchanged: 3Y $58B (Nov 9), 10Y $42B (Nov 10), 30Y $25B (Nov 12), ~$28B new cash; coupon sizes kept 'for the next several quarters' vs 'at least the next several quarters' in Aug (Treasury)</title>
-      <link>https://home.treasury.gov/news/press-releases/sb0678</link>
-      <description>[事實] 影響: 美債殖利率/DXY/XAUUSD | 重點: 9月貿易逆差1,050億美元略優於預期；財政部季度再融資規模維持1,250億美元不變、未增發，措辭由「至少未來數季」改為「未來數季」維持票券規模（市場是否解讀為未來可能增發屬推測，UNKNOWN）；下週3/10/30年期標售（台北11/10、11/11、11/13凌晨2:00） | 發布: 2026-11-04 21:30 (Asia/Taipei, Census/Treasury 8:30 ET) | 抓取: 2026-11-04 22:24 (Asia/Taipei)</description>
-      <pubDate>Wed, 04 Nov 2026 21:30:00 +0800</pubDate>
-      <guid isPermaLink="false">aitrade-intel-202611042130-trade-refunding</guid>
-    </item>
   </channel>
 </rss>
-
