@@ -5,27 +5,34 @@
     <link>https://lk7221ai-bit.github.io/aitrade-intel-feed/</link>
     <description>公開資訊彙整，非交易建議</description>
     <language>zh-TW</language>
-    <lastBuildDate>Fri, 06 Nov 2026 12:13:00 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 16:13:00 +0800</lastBuildDate>
     <item>
-      <title>Next 24h (Taipei) refresh ~12:10 Nov 6: Fri 17:30 ECB Money Markets fireside Lane + NY Fed Williams (10:30 CET, official ECB programme — still ahead); Fri 21:30 BLS Oct NFP+UR+AHE (street ~+65k / UR 4.2% / AHE ~0.3% — ACTUALS UNKNOWN; BLS HTML still 403 to bots); ~23:00 UMich Nov prelim; Sat 01:15 Bowman. Dec Fed hike reprints now ~65–68% (vs 08:00 ~59–71%). CPI Tue Nov 10 21:30</title>
+      <title>Next 24h (Taipei) refresh ~16:12 Nov 6: Fri 17:30 ECB Money Markets fireside Lane + NY Fed Williams STILL AHEAD (~1.3h; 10:30 CET, official ECB programme); Fri 21:30 BLS Oct NFP+UR+AHE (street ~+65k / UR 4.2% / AHE ~0.3% — ACTUALS UNKNOWN; BLS HTML 403 to bots this run; TV calendar actuals null); ~23:00 UMich Nov prelim; Sat 01:15 Bowman. EZ Sep retail scheduled ~18:00 Taipei — actuals UNKNOWN at 16:12. Dec Fed hike Frenzy ~65%. CPI Tue Nov 10 21:30</title>
       <link>https://www.ecb.europa.eu/press/conferences/html/20261105-money-markets.en.html</link>
-      <description>[事實] 影響: XAUUSD/DXY/美債殖利率/EURUSD/GBPUSD/USDJPY | 重點: 未來約24小時：今日17:30台北（歐洲中部時間10:30）ECB貨幣市場研討會Lane與紐約聯儲Williams爐邊談話（官方議程仍確認、尚未舉行）；21:30美10月非農／失業率／時薪（街估約+6.5萬等，實際值仍UNKNOWN；BLS網頁對自動抓取仍403）；約23:00密大信心初值；週六01:15 Bowman；12月升息公開轉述約65–68%；下週二CPI | 發布: 2026-11-06 12:10 (Asia/Taipei)；ECB議程頁 | 抓取: 2026-11-06 12:10 (Asia/Taipei)</description>
-      <pubDate>Fri, 06 Nov 2026 12:13:00 +0800</pubDate>
-      <guid isPermaLink="false">aitrade-intel-202611061213-next24h-lane-nfp</guid>
+      <description>[事實] 影響: XAUUSD/DXY/美債殖利率/EURUSD/GBPUSD/USDJPY | 重點: 未來約24小時：約1.3小時後（17:30台北／CET 10:30）ECB貨幣市場研討會Lane與紐約聯儲Williams爐邊談話仍未開始；21:30美10月非農／失業率／時薪（街估約+6.5萬等，實值UNKNOWN；BLS頁此輪403；TV日曆實值空）；約23:00密大信心初值；週六01:15 Bowman；歐元區9月零售約18:00台北檔、實值仍UNKNOWN；Frenzy 12月升息約65%；下週二CPI | 發布: 2026-11-06 16:12 (Asia/Taipei) | 抓取: 2026-11-06 16:12 (Asia/Taipei)</description>
+      <pubDate>Fri, 06 Nov 2026 16:13:00 +0800</pubDate>
+      <guid isPermaLink="false">aitrade-intel-202611061613-next24h-lane-nfp</guid>
     </item>
     <item>
-      <title>COMEX Dec gold (CNBC @GC.1 / Yahoo GC=F ~12:00 Taipei): last ~4052–4053.2 (−61.5 / −1.50%); session H 4116.2 L 4049.6 open 4098.5 — aligns with TradingView GC1! 4053.4; spot ~4040 still soft into NFP</title>
-      <link>https://www.cnbc.com/quotes/@GC.1</link>
-      <description>[事實] 影響: XAUUSD | 重點: COMEX十二月金約4052–4053（約−61.5／−1.5%），時段高約4116.2／低約4049.6／開約4098.5，與TradingView GC1!約4053.4一致；現貨約4040仍偏弱，非農實際值仍UNKNOWN | 發布: CNBC報價時間戳約2026-11-05 23:00 ET；Yahoo抓取同時段 | 抓取: 2026-11-06 12:10 (Asia/Taipei)</description>
-      <pubDate>Fri, 06 Nov 2026 12:12:00 +0800</pubDate>
-      <guid isPermaLink="false">aitrade-intel-202611061212-comex-gc-4053</guid>
-    </item>
-    <item>
-      <title>CONTRADICTION refresh ~12:10 Taipei: Dec 9 Fed hike odds — Frenzy/CME-method futures ~68% hike / 32% hold (up from ~59/41 at 08:00); Kalshi ~65%; Polymarket ~66%; page notes ~4% futures-vs-Kalshi divergence. Range now ~65–68% vs prior ~59–71% reprints. Live official CME tool % this run = UNKNOWN</title>
+      <title>FedWatch refresh ~16:12 Taipei: Frenzy /ZQ futures Dec 9 hike_25 64.82% / hold 35.18% (UI ~65%/35%; vs midday ~67.6–68%); page notes ~4% futures-vs-Kalshi divergence. Soften vs 12:10 ~65–68% band upper end; still inside that band. Live official CME tool % this run = UNKNOWN. CNBC earlier Asia piece still cited CME FedWatch ~68% (quote stamp 0248 GMT — older)</title>
       <link>https://www.frenzycap.com/fedwatch</link>
-      <description>[事實] 影響: XAUUSD/DXY/美債殖利率/主要貨幣對 | 重點: 12月升息公開定價較08:00上修且收斂：Frenzy期貨隱含約68%升25bp／32%維持（較08:00約59／41上升）；Kalshi約65%、Polymarket約66%；頁面標示期貨與Kalshi約差4個百分點；整體公開轉述約65–68%（先前約59–71%較散）；官方CME工具頁此輪未讀到即時百分比＝UNKNOWN | 發布: Frenzy標示約2026-11-05 23:12 ET（台北約11-06 12:12） | 抓取: 2026-11-06 12:10 (Asia/Taipei)</description>
-      <pubDate>Fri, 06 Nov 2026 12:11:00 +0800</pubDate>
-      <guid isPermaLink="false">aitrade-intel-202611061211-fedwatch-dec-65-to-68</guid>
+      <description>[事實] 影響: XAUUSD/DXY/美債殖利率/主要貨幣對 | 重點: 台北約16:12 Frenzy期貨隱含12月9日升25bp約64.8%／維持約35.2%（介面約65%/35%），較12:10約67.6–68%略降，仍落在先前約65–68%區間內；頁面註期貨與Kalshi約差4%；官方CME工具即時%此輪UNKNOWN；CNBC較早亞洲稿仍引CME約68%（報價時戳0248 GMT偏舊） | 發布: Frenzy抓取2026-11-06 16:12 (Asia/Taipei) | 抓取: 2026-11-06 16:12 (Asia/Taipei)</description>
+      <pubDate>Fri, 06 Nov 2026 16:12:00 +0800</pubDate>
+      <guid isPermaLink="false">aitrade-intel-202611061612-fedwatch-dec-65</guid>
+    </item>
+    <item>
+      <title>BREAKING (Destatis PE26_389, 6 Nov 2026): Germany Sep industrial production +0.7% m/m sa/ca (vs ~0% street; Aug revised +1.0% from provisional +2.0%); +0.4% y/y calendar-adj; Q3 vs Q2 −0.4% (3m/3m). Auto +17.1% m/m, pharma +8.0%; construction −2.6%, machinery −6.5%; industry ex-energy/construction +1.7% m/m; energy −1.2%. TradingView calendar MoM actual 0.7 / fcst 0 / prev 1.0; its YoY SA print 0.55 vs Destatis calendar-adj +0.4% — source convention differs. EZ Sep retail sales actuals still UNKNOWN (TV calendar null at 16:12)</title>
+      <link>https://www.destatis.de/EN/Press/2026/11/PE26_389_421.html</link>
+      <description>[事實] 影響: EURUSD/XAUUSD/DXY | 重點: 德國聯邦統計局：9月工業產出季調／曆調月增+0.7%（街估約0%；8月上修為+1.0%，初值曾+2.0%）、年增曆調+0.4%；第三季較第二季三月比−0.4%。汽車+17.1%、製藥+8.0%；營建−2.6%、機械−6.5%；不含能源與營建工業+1.7%，能源−1.2%。TradingView日曆MoM實值0.7／預估0；其YoY SA 0.55與Destatis曆調年增+0.4%口徑不同。歐元區9月零售銷售實值此輪仍UNKNOWN | 發布: Destatis 2026-11-06（歐洲上午，約台北15:00前後） | 抓取: 2026-11-06 16:12 (Asia/Taipei)</description>
+      <pubDate>Fri, 06 Nov 2026 16:11:00 +0800</pubDate>
+      <guid isPermaLink="false">aitrade-intel-202611061611-de-ip-sep-07</guid>
+    </item>
+    <item>
+      <title>Europe afternoon ~16:10 Taipei Nov 6 (TradingView): XAUUSD 4054.325 (−33.95 / −0.83%; H 4107.085 L 4035.775 open 4087.84) vs midday 12:10 print ~4039.79 — rebound ~+$14; Kitco bid 4054.2; COMEX GC1! 4063.5 (−50 / −1.22%; H 4116.2 L 4044.5); Yahoo GC=F ~4064.4. DXY 101.88 (+0.31); US02Y 4.459%; US10Y 4.829%; EURUSD 1.11849; USDJPY 157.883; GBPUSD 1.3402. FXStreet early-Europe note (~07:31 GMT/15:31 Taipei) had gold ~$4,050 — ACTUALS for NFP still UNKNOWN</title>
+      <link>https://www.tradingview.com/symbols/XAUUSD/</link>
+      <description>[事實] 影響: XAUUSD/DXY/US02Y/US10Y/EURUSD/USDJPY/GBPUSD | 重點: 台北約16:10歐盤午後，現貨金約4054.3（較12:10約4039.8回升約14美元；日高約4107.1／日低約4035.8），Kitco bid約4054.2、COMEX約4063.5、Yahoo GC=F約4064.4；美元指數約101.88；美2年約4.459%、10年約4.829%；歐元美元約1.11849、美元日圓約157.883、鎊美約1.3402；FXStreet歐盤早段約15:31台北稿寫金價約4050。NFP實值仍UNKNOWN | 發布: 2026-11-06 16:10 (Asia/Taipei) | 抓取: 2026-11-06 16:12 (Asia/Taipei)</description>
+      <pubDate>Fri, 06 Nov 2026 16:10:00 +0800</pubDate>
+      <guid isPermaLink="false">aitrade-intel-202611061610-europe-xau-4054</guid>
     </item>
     <item>
       <title>Asia midday ~12:10 Taipei (TradingView): XAUUSD 4039.79 (−48.49 / −1.19%; H 4107.09 L 4037.47 open 4087.84) vs 08:00 print 4084.62 — further −~$45; Kitco bid ~4038.1 / ~4040.8; COMEX GC1! 4053.4 (−60.1 / −1.46%; H 4116.2 L 4049.6). DXY 101.775 (+0.21); US02Y 4.48%; US10Y 4.843%; EURUSD 1.11952; USDJPY 157.831; GBPUSD 1.3429</title>
@@ -208,13 +215,6 @@
       <description>[事實] 影響: USDJPY/XAUUSD/DXY | 重點: 東京早盤美元兌日圓在158.37附近小波動（對比紐約收158.43）；金價亞盤約4,063美元，承接周三現貨收4,059.92（+3.29%）與COMEX結算4,061.10；美元指數周三收101.50（-0.33%）。來源時間點不同，亞盤即時高低UNKNOWN | 發布: 2026-11-05 07:00 (Asia/Taipei, Zai 東京8時報價) | 抓取: 2026-11-05 08:23 (Asia/Taipei)</description>
       <pubDate>Thu, 05 Nov 2026 07:00:00 +0800</pubDate>
       <guid isPermaLink="false">aitrade-intel-202611050700-tokyo-usdjpy-gold-hold</guid>
-    </item>
-    <item>
-      <title>US afternoon snapshot 2:04pm NY (03:04 Taipei, Bloomberg): US 10Y 4.89% (-7bp), Bloomberg Dollar Spot -0.4% (biggest drop in two months), EUR/USD 1.1218 (+0.2%), GBP/USD 1.3461 (+0.3%), USD/JPY 158.43, spot gold $4,060.04 (+3.3%), WTI $88.07 (-8.3%), Bund 10Y 3.27% (-6bp), Gilt 10Y 5.13% (-13bp); S&amp;P 500 +1.8%, Dow +2.9%; Treasury guidance change may open door to cutting longest-dated issuance in 2027</title>
-      <link>https://www.swissinfo.ch/eng/stocks-and-bonds-rise%2C-dollar-falls-after-us-vote%3A-markets-wrap/92323391</link>
-      <description>[事實] 影響: XAUUSD/DXY/美債殖利率/EURUSD/GBPUSD/USDJPY | 重點: 美盤午後美10年債殖利率跌7bp至4.89%、美元指數（彭博）跌0.4%為兩個月最大跌幅，金價維持+3.3%於4,060美元；來源矛盾：稍早Reuters/Yahoo報EUR/USD 1.133，彭博午後報1.1218，前者疑有誤，以彭博為準；美股收盤值此時尚未確認UNKNOWN | 發布: 2026-11-05 03:04 (Asia/Taipei) | 抓取: 2026-11-05 04:10 (Asia/Taipei)</description>
-      <pubDate>Thu, 05 Nov 2026 03:04:00 +0800</pubDate>
-      <guid isPermaLink="false">aitrade-intel-202611050304-us-afternoon-snapshot-10y-489</guid>
     </item>
   </channel>
 </rss>
