@@ -5,13 +5,34 @@
     <link>https://lk1227ai-sudo.github.io/aitrade-intel-feed/</link>
     <description>公開資訊彙整，非交易建議</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 09 Nov 2026 22:25:00 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 00:10:00 +0800</lastBuildDate>
     <item>
-      <title>Next 24h (Taipei) from ~22:25 Mon Nov 9: Goolsbee 23:00 (Chicago); Atlanta Fed GDPNow 23:30 (prior 3.4%); NY Fed SCE Oct 1-yr infl exp Tue 00:00 (prior 3.9%); US 3Y note auction Tue 02:00 (prior 4.932%); China Oct trade Tue 11:00; Waller econ outlook Tue 17:00 (London); US Oct CPI Tue 21:30 (TV fcst headline MoM 0.3 / YoY 3.9; core MoM 0.2 / YoY 2.8; Sep was 0.6% m/m / 3.7% y/y per Kitco); Bowman Wed 04:30; Wed Veterans Day US bond market closed. Bowman 21:40 remarks content: UNKNOWN (no Fed text posted)</title>
+      <title>Next 24h (Taipei) from ~00:10 Tue Nov 10: Atlanta Fed GDPNow update still pending (last 3.4% on Nov 4; Nov 9 value UNKNOWN at 00:10); US 3Y note auction Tue 02:00; China Oct trade Tue 11:00; Waller Tue 17:00 (London); US Oct CPI Tue 21:30 (TV fcst headline MoM 0.3 / YoY 3.9; core MoM 0.2 / YoY 2.8; Sep 0.6% m/m / 3.7% y/y); Bowman per Investing calendar Tue 20:30 &amp; 23:30 Taipei (TZ conversion of Investing times UNCONFIRMED); Wed Veterans Day US bond market closed; PPI Fri</title>
       <link>https://www.investing.com/news/stock-market-news/fed-speakers-and-treasury-auctions-highlight-mondays-economic-calendar-93CH-5009018</link>
-      <description>[事實] 影響: XAUUSD/DXY/美債殖利率/主要貨幣對 | 重點: 23:00 Goolsbee、23:30亞特蘭大Fed GDPNow（前3.4%）；週二00:00紐約Fed一年通膨預期（前3.9%）、02:00美3年債標售、11:00中國10月貿易、17:00 Waller、21:30美10月CPI（TV街估月增0.3／年增3.9；核心0.2／2.8；9月為月增0.6、年增3.7）；週三04:30 Bowman；週三美債市休市。今晚21:40 Bowman談話內容＝UNKNOWN（Fed官網未貼稿） | 發布: 2026-11-09 22:25 (Asia/Taipei) | 抓取: 2026-11-09 22:25 (Asia/Taipei)</description>
-      <pubDate>Mon, 09 Nov 2026 22:25:00 +0800</pubDate>
-      <guid isPermaLink="false">aitrade-intel-202611092225-next24h-cpi-eve</guid>
+      <description>[事實] 影響: XAUUSD/DXY/美債殖利率/主要貨幣對 | 重點: 亞特蘭大Fed GDPNow 11/9更新值截至00:10尚未公布（UNKNOWN，前值3.4%）；週二02:00美3年債標售、11:00中國10月貿易、17:00 Waller、21:30美10月CPI（TV街估月增0.3／年增3.9；核心0.2／2.8）；Investing行事曆另列Bowman週二發言（台北時間換算UNKNOWN）；週三美債市休市；週五PPI | 發布: 2026-11-10 00:10 (Asia/Taipei) | 抓取: 2026-11-10 00:10 (Asia/Taipei)</description>
+      <pubDate>Tue, 10 Nov 2026 00:10:00 +0800</pubDate>
+      <guid isPermaLink="false">aitrade-intel-202611100010-next24h-cpi-day</guid>
+    </item>
+    <item>
+      <title>US afternoon ~00:10 Taipei Nov 10 (TradingView): OANDA XAUUSD 4125.09 (+54.5 / +1.34%; H 4134.14 L 4054.40); COMEX GC1! 4131.2 (+1.38%); DXY 101.911 (−0.36%; H 102.284 L 101.782); US02Y 4.564% (+5.2bp, day high 4.570); US10Y 4.876% (+1.7bp); EURUSD 1.11941; USDJPY 158.141; GBPUSD 1.34033; WTI CL1! 88.19 (−2.9%). Kitco 11:00 ET spot ~4121 (+1.23%)</title>
+      <link>https://www.tradingview.com/symbols/XAUUSD/</link>
+      <description>[事實] 影響: XAUUSD/DXY/US02Y/US10Y/EURUSD/USDJPY/GBPUSD | 重點: 現貨金約4125.09（+1.34%），較22:25約4129.6略回；美2年殖利率轉升至約4.564%（+5.2bp，貼近日高），10年約4.876%（+1.7bp），與22:25時10年下跌相反；美元指數約101.911，自日低101.782小幅回升；美元日圓約158.14；WTI跌幅收斂至約−2.9% | 發布: 2026-11-10 00:10 (Asia/Taipei) | 抓取: 2026-11-10 00:10 (Asia/Taipei)</description>
+      <pubDate>Tue, 10 Nov 2026 00:10:00 +0800</pubDate>
+      <guid isPermaLink="false">aitrade-intel-202611100010-xau-4125-us02y-456</guid>
+    </item>
+    <item>
+      <title>NY Fed SCE Oct 2026 (released Nov 9, 11:00 ET / 00:00 Taipei): median inflation expectations unchanged at 3.9% (1y), 3.3% (3y), 3.0% (5y). Mean prob. US unemployment higher in 1y +1.4pp to 45.3% (highest since Apr 2020); job-loss prob 13.9% (+0.4pp); job-finding 46.5% (highest since Nov 2025). Gas price exp −0.6pp to 4.2%; rent +0.9pp to 7.7%</title>
+      <link>https://www.newyorkfed.org/newsevents/news/research/2026/20261109</link>
+      <description>[事實] 影響: XAUUSD/DXY/美債殖利率 | 重點: 紐約Fed 10月消費者預期調查：一年、三年、五年通膨預期中位數持平於3.9%、3.3%、3.0%（未再升）；預期一年後失業率上升的機率升1.4個百分點至45.3%，為2020年4月以來最高；汽油價格預期降0.6至4.2%，房租預期升0.9至7.7% | 發布: 2026-11-10 00:00 (Asia/Taipei) | 抓取: 2026-11-10 00:10 (Asia/Taipei)</description>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 +0800</pubDate>
+      <guid isPermaLink="false">aitrade-intel-202611100000-nyfed-sce-oct-1y-39</guid>
+    </item>
+    <item>
+      <title>Chicago Fed Goolsbee (Leadership Greater Chicago Q&amp;A, Nov 9 ~23:00 Taipei; FXStreet/investingLive/Seeking Alpha): 'We've got to come to terms with... inflation side failure'; employment and growth 'pretty stable'; inflation kicking up in services beyond oil/tariffs; AI data-center buildout 'starting to look more like old-fashioned demand overheating'. investingLive: Dec hike priced ~84%</title>
+      <link>https://www.fxstreet.com/news/feds-goolsbee-warns-services-inflation-goes-beyond-tariff-pressure-202611091537</link>
+      <description>[事實] 影響: XAUUSD/DXY/US02Y/主要貨幣對 | 重點: 芝加哥Fed總裁Goolsbee稱Fed必須正視通膨目標的「失敗」，就業與成長大致穩定，服務業通膨回升且非僅油價或關稅所致，AI資料中心建設看似「傳統的需求過熱」；偏鷹。investingLive稱市場12月升息定價約84%（其他來源約80%–81%，數字不一） | 發布: 2026-11-09 23:30 (Asia/Taipei) | 抓取: 2026-11-10 00:10 (Asia/Taipei)</description>
+      <pubDate>Mon, 09 Nov 2026 23:30:00 +0800</pubDate>
+      <guid isPermaLink="false">aitrade-intel-202611092330-goolsbee-inflation-failure</guid>
     </item>
     <item>
       <title>US morning ~22:25 Taipei Nov 9 (TradingView): OANDA XAUUSD 4129.63 (+59.04 / +1.45%; H 4134.14 L 4054.40); COMEX GC1! 4129.1 (+1.33%; H 4143.3); DXY 101.819 (−0.45%; L 101.782); US02Y 4.522% (+1.0bp); US10Y 4.835% (−2.4bp); EURUSD 1.11983 (+0.56%); USDJPY 157.918 (−0.35%); GBPUSD 1.34193 (+0.58%); WTI CL1! 86.85 (−4.38%)</title>
@@ -194,27 +215,6 @@
       <description>[事實] 影響: XAUUSD/DXY | 重點: 初請公布後現貨金約4,120.6（Kitco）至4,125.8（exa），仍守4,100上方但低於日高約4,147；Kitco稱對數據反應有限，並指勞動數據仍讓Fed有空間考慮12月升息（屬觀點/推測）；週五非農為下一焦點 | 發布: 約2026-11-05 21:47 (Asia/Taipei，Kitco更新13:47) | 抓取: 2026-11-05 22:20 (Asia/Taipei)</description>
       <pubDate>Thu, 05 Nov 2026 21:47:00 +0800</pubDate>
       <guid isPermaLink="false">aitrade-intel-202611052147-gold-post-claims-4120</guid>
-    </item>
-    <item>
-      <title>BREAKING: US Q3 prelim nonfarm productivity +3.6% q/q annualized (output +3.7%, hours +0.1%); unit labor costs -0.7% (hourly comp +2.9%); y/y productivity +2.1%, ULC +2.4%; Q2 productivity revised to +2.1% from +1.4%; labor share 53.0% lowest since 1947 (BLS). Consensus conflict: Seeking Alpha +3.0% / FXStreet +2.5% for productivity; FXStreet ULC forecast +0.6%</title>
-      <link>https://www.bls.gov/news.release/prod2.htm</link>
-      <description>[事實] 影響: XAUUSD/DXY/美債殖利率 | 重點: 美國Q3初值非農生產力年化季增3.6%、單位勞動成本-0.7%；產出+3.7%、工時+0.1%；Q2生產力上修至+2.1%（原+1.4%）；勞動份額53.0%創1947年以來新低；預估矛盾：Seeking Alpha稱生產力共識+3.0%、FXStreet寫+2.5%，ULC FXStreet預期+0.6%對實際-0.7% | 發布: 2026-11-05 21:30 (Asia/Taipei，美東08:30) | 抓取: 2026-11-05 22:20 (Asia/Taipei)</description>
-      <pubDate>Thu, 05 Nov 2026 21:31:00 +0800</pubDate>
-      <guid isPermaLink="false">aitrade-intel-202611052131-bls-q3-prod-36-ulc-m07</guid>
-    </item>
-    <item>
-      <title>BREAKING: US initial jobless claims 189k (week ended Oct 31), -6k from prior revised 195k (was 194k); 4-wk avg 194.75k; continuing claims 1,718k (+23k from prior revised 1,695k); insured UR 1.1% unchanged (DOL). Kitco consensus 197k / FinancialJuice 196k / Investing.com 197k — sources differ on forecast. Spot gold ~$4,120.60 (+1.5%) after print (Kitco); exa ~$4,125.84 (+1.48%) at 22:20 Taipei</title>
-      <link>https://www.dol.gov/ui/data.pdf</link>
-      <description>[事實] 影響: XAUUSD/DXY/美債殖利率/EURUSD/USDJPY | 重點: 美國初請失業金18.9萬（10/31當週），較前週修正值19.5萬（原報19.4萬）減少6千，四週均值19.475萬；續請171.8萬（前週修正169.5萬）；預估來源不一（Kitco/Investing約19.7萬、FinancialJuice約19.6萬）；Kitco稱金價公布後約4,120.6（+1.5%），exa約22:20報4,125.84；對12月Fed路徑影響屬推測 | 發布: 2026-11-05 21:30 (Asia/Taipei，美東08:30) | 抓取: 2026-11-05 22:20 (Asia/Taipei)</description>
-      <pubDate>Thu, 05 Nov 2026 21:30:00 +0800</pubDate>
-      <guid isPermaLink="false">aitrade-intel-202611052130-claims-189k-cont-1718k</guid>
-    </item>
-    <item>
-      <title>Post-BoE reaction (Reuters): GBP/USD $1.3477 vs $1.34534 before decision, EUR/GBP 83.25p (GBP firmer), UK 2Y gilt ~+2bp to 4.76%, FTSE +0.7%; Pound Sterling Live: GBP/USD high 1.3475, GBP/EUR 1.1988 to 1.2010; Bailey presser: Middle East conflict in ninth month, energy pushed inflation up in every G7 economy; spot gold $4,118.90 (+1.31%) at 20:52 Taipei (exa). Note: FXStreet wrote 'unanimous' vote, official BoE text says 8-1</title>
-      <link>https://live.euronext.com/en/financial-news/bank-england-delivers-first-rate-hike-three-years-gilt-yields-rise</link>
-      <description>[事實] 影響: GBPUSD/EURGBP/XAUUSD | 重點: 英央升息後英鎊小升，GBP/USD約1.3477（決議前1.3453）、EUR/GBP 83.25便士，英2年債約+2bp至4.76%；Bailey記者會稱中東衝突進入第九個月、能源推升G7通膨；現貨金20:52約4,118.9（+1.31%），較日內高點4,147回落；來源矛盾：FXStreet稱投票一致，英央官方為8比1；市場將8-1解讀偏鷹屬推測 | 發布: UNKNOWN（英央20:00決議後，路透稿） | 抓取: 2026-11-05 20:52 (Asia/Taipei)</description>
-      <pubDate>Thu, 05 Nov 2026 20:52:00 +0800</pubDate>
-      <guid isPermaLink="false">aitrade-intel-202611052052-post-boe-gbp-13477-gilt2y-476</guid>
     </item>
   </channel>
 </rss>
