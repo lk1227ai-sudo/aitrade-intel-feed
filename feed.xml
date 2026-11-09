@@ -5,13 +5,41 @@
     <link>https://lk1227ai-sudo.github.io/aitrade-intel-feed/</link>
     <description>公開資訊彙整，非交易建議</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 10 Nov 2026 00:10:00 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 04:12:00 +0800</lastBuildDate>
     <item>
-      <title>Next 24h (Taipei) from ~00:10 Tue Nov 10: Atlanta Fed GDPNow update still pending (last 3.4% on Nov 4; Nov 9 value UNKNOWN at 00:10); US 3Y note auction Tue 02:00; China Oct trade Tue 11:00; Waller Tue 17:00 (London); US Oct CPI Tue 21:30 (TV fcst headline MoM 0.3 / YoY 3.9; core MoM 0.2 / YoY 2.8; Sep 0.6% m/m / 3.7% y/y); Bowman per Investing calendar Tue 20:30 &amp; 23:30 Taipei (TZ conversion of Investing times UNCONFIRMED); Wed Veterans Day US bond market closed; PPI Fri</title>
-      <link>https://www.investing.com/news/stock-market-news/fed-speakers-and-treasury-auctions-highlight-mondays-economic-calendar-93CH-5009018</link>
-      <description>[事實] 影響: XAUUSD/DXY/美債殖利率/主要貨幣對 | 重點: 亞特蘭大Fed GDPNow 11/9更新值截至00:10尚未公布（UNKNOWN，前值3.4%）；週二02:00美3年債標售、11:00中國10月貿易、17:00 Waller、21:30美10月CPI（TV街估月增0.3／年增3.9；核心0.2／2.8）；Investing行事曆另列Bowman週二發言（台北時間換算UNKNOWN）；週三美債市休市；週五PPI | 發布: 2026-11-10 00:10 (Asia/Taipei) | 抓取: 2026-11-10 00:10 (Asia/Taipei)</description>
-      <pubDate>Tue, 10 Nov 2026 00:10:00 +0800</pubDate>
-      <guid isPermaLink="false">aitrade-intel-202611100010-next24h-cpi-day</guid>
+      <title>Next 24h (Taipei) from ~04:12 Tue Nov 10: China Oct trade Tue 11:00; Waller Tue 17:00 (London); US Oct CPI Tue 21:30 — BLS will NOT publish 12-month headline/core rates (Oct 2025 data missing from shutdown), only m/m (consensus headline +0.3% / core +0.2%; FactSet headline 0.24%); Bowman per Investing calendar Tue (Taipei time UNCONFIRMED); US 10Y $42B auction Tue 13:00 ET = Wed 02:00 Taipei; Wed Veterans Day US bond market closed; 30Y auction Thu; PPI Fri</title>
+      <link>https://etf.net/news/october-cpi-without-yearly-comparison-2026-11-08</link>
+      <description>[事實] 影響: XAUUSD/DXY/美債殖利率/主要貨幣對 | 重點: 週二11:00中國10月貿易、17:00 Waller、21:30美10月CPI只公布月增率（街估整體+0.3%、核心+0.2%），BLS不公布年增率，先前流傳的年增3.9%預估無法對照；Bowman週二發言台北時間UNKNOWN；週三02:00美10年債標售420億美元；週三美債市休市 | 發布: 2026-11-10 04:12 (Asia/Taipei) | 抓取: 2026-11-10 00:10 (Asia/Taipei)</description>
+      <pubDate>Tue, 10 Nov 2026 04:12:00 +0800</pubDate>
+      <guid isPermaLink="false">aitrade-intel-202611100412-next24h-cpi-mom-only</guid>
+    </item>
+    <item>
+      <title>Late US session ~04:10 Taipei Nov 10 (TradingView): OANDA XAUUSD 4139.61 (+69.0 / +1.70%; H 4140.77 L 4054.40, at day high); COMEX GC1! 4142.0 (+1.65%; H 4148.6); Dec GC settled 4114.50 (+1%, CNBC/Reuters); DXY 101.665 (−0.60%; L 101.642); US02Y 4.545% (+3.3bp); US10Y 4.862% (+0.3bp); EURUSD 1.12226 (+0.78%); USDJPY 157.783 (−0.43%); GBPUSD 1.34393 (+0.73%); WTI CL1! 85.93 (−5.4%); Brent ~93 (−~5%, Reuters/CNBC)</title>
+      <link>https://www.tradingview.com/symbols/XAUUSD/</link>
+      <description>[事實] 影響: XAUUSD/DXY/US02Y/US10Y/EURUSD/USDJPY/GBPUSD | 重點: 美盤尾段現貨金升至約4139.6（+1.70%，創當日高），美元指數跌至約101.665貼近日低；油價跌幅擴大（WTI約85.93、−5.4%），美2年殖利率自4.564%回落至4.545%；歐元、英鎊走強，美元日圓回落至約157.78 | 發布: 2026-11-10 04:10 (Asia/Taipei) | 抓取: 2026-11-10 00:10 (Asia/Taipei)</description>
+      <pubDate>Tue, 10 Nov 2026 04:10:00 +0800</pubDate>
+      <guid isPermaLink="false">aitrade-intel-202611100410-xau-4139-dxy-1016</guid>
+    </item>
+    <item>
+      <title>BLS will omit 12-month CPI and core CPI changes from the Oct 2026 report (Investing.com/Reuters, Nov 9 14:32 ET): Oct 2025 prices not collected during 2025 shutdown; only m/m published; real earnings y/y also unavailable. Sep CPI 3.7% y/y remains latest official annual rate</title>
+      <link>https://ca.investing.com/news/economy-news/bls-will-omit-12month-cpi-core-cpi-figures-from-october-report-4944122</link>
+      <description>[事實] 影響: XAUUSD/DXY/US02Y/主要貨幣對 | 重點: 美勞工統計局（BLS）確認週二10月CPI不公布整體及核心年增率（2025年10月停擺期間缺資料），只有月增率；市場解讀將集中在月增數字，9月年增3.7%仍是最新官方年率。BLS官方說明: https://www.bls.gov/cpi/additional-resources/2025-federal-government-shutdown-impact-cpi.htm | 發布: 2026-11-10 03:32 (Asia/Taipei) | 抓取: 2026-11-10 00:10 (Asia/Taipei)</description>
+      <pubDate>Tue, 10 Nov 2026 03:32:00 +0800</pubDate>
+      <guid isPermaLink="false">aitrade-intel-202611100332-bls-cpi-no-yoy</guid>
+    </item>
+    <item>
+      <title>US Treasury $58bn 3-year note auction (Nov 9, 13:00 ET / 02:00 Taipei): high yield 4.627% vs WI 4.622% (0.5bp tail); bid-to-cover 2.53x (avg 2.64x; lowest since Aug 2025 refunding per Investing); indirects 55.5% (avg 62.7%), directs 35.0% (record per Investing), dealers 9.5%. investingLive grade C−. Next: 10Y $42bn Tue, 30Y $25bn Thu</title>
+      <link>https://investinglive.com/news/u-s-treasury-sells-58-billion-of-3-year-notes-at-a-high-yield-of-4-627/</link>
+      <description>[事實] 影響: US02Y/US10Y/DXY/XAUUSD | 重點: 美3年債標售580億美元需求偏弱：得標殖利率4.627%，高於發行前4.622%（尾差0.5bp），投標倍數2.53倍低於均值2.64，海外為主的間接投標比率55.5%偏低；但美2年殖利率之後未續升 | 發布: 2026-11-10 02:00 (Asia/Taipei) | 抓取: 2026-11-10 00:10 (Asia/Taipei)</description>
+      <pubDate>Tue, 10 Nov 2026 02:00:00 +0800</pubDate>
+      <guid isPermaLink="false">aitrade-intel-202611100200-ust-3y-4627-tail</guid>
+    </item>
+    <item>
+      <title>Atlanta Fed GDPNow Q4 2026: 3.5% (from 3.4% on Nov 4), updated Nov 9 (FRED timestamp 11:02 CST / 01:02 Taipei Nov 10; 3.4810 raw); private domestic estimate raised; next update Nov 17</title>
+      <link>https://fred.stlouisfed.org/series/GDPNOW</link>
+      <description>[事實] 影響: DXY/US02Y/XAUUSD | 重點: 亞特蘭大Fed GDPNow第四季成長估值由3.4%上調至3.5%（原始值3.481），下次更新11/17；先前feed標示UNKNOWN已補上 | 發布: 2026-11-10 01:02 (Asia/Taipei) | 抓取: 2026-11-10 00:10 (Asia/Taipei)</description>
+      <pubDate>Tue, 10 Nov 2026 01:02:00 +0800</pubDate>
+      <guid isPermaLink="false">aitrade-intel-202611100102-gdpnow-q4-35</guid>
     </item>
     <item>
       <title>US afternoon ~00:10 Taipei Nov 10 (TradingView): OANDA XAUUSD 4125.09 (+54.5 / +1.34%; H 4134.14 L 4054.40); COMEX GC1! 4131.2 (+1.38%); DXY 101.911 (−0.36%; H 102.284 L 101.782); US02Y 4.564% (+5.2bp, day high 4.570); US10Y 4.876% (+1.7bp); EURUSD 1.11941; USDJPY 158.141; GBPUSD 1.34033; WTI CL1! 88.19 (−2.9%). Kitco 11:00 ET spot ~4121 (+1.23%)</title>
@@ -187,34 +215,6 @@
       <description>[事實] 影響: XAUUSD/DXY/EURUSD/USDJPY/GBPUSD/美債殖利率 | 重點: 約00:15台北 TradingView：金4085.38（日高4146.92/日低4057.83）、DXY 101.569、EURUSD 1.1220、USDJPY 157.857、GBPUSD 1.3467、美10年4.831%（約-5.9bp）、美2年4.508%（約-7.5bp）；與FXStreet約23:23所寫10年4.89%/DXY 101.60相比，亞盤前殖利率與美元再度回軟 | 發布: 2026-11-06 00:15 (Asia/Taipei，串流報價） | 抓取: 2026-11-06 00:15 (Asia/Taipei)</description>
       <pubDate>Fri, 06 Nov 2026 00:15:00 +0800</pubDate>
       <guid isPermaLink="false">aitrade-intel-202611060015-asia-open-xau-dxy-yields</guid>
-    </item>
-    <item>
-      <title>Overnight gold (Kitco charts ~00:05 Taipei / 11:05 ET Nov 5): spot bid $4,088.30 (+$29.10 / +0.72%), ask $4,090.30; day's range $4,057.50-$4,148.00 — off two-week high near $4,148 into late US/Asia handoff. TradingView XAUUSD ~4085 at 00:15 Taipei</title>
-      <link>https://www.kitco.com/charts/gold</link>
-      <description>[事實] 影響: XAUUSD | 重點: Kitco圖表約美東11:05（台北00:05）現貨bid 4,088.30（+0.72%），日區間4,057.50–4,148.00，自日高約4,148回落；TradingView約00:15報4085；對週五非農前區間屬事實價位，後續方向屬推測 | 發布: 約2026-11-06 00:05 (Asia/Taipei，Kitco 11:05 ET Nov 5) | 抓取: 2026-11-06 00:15 (Asia/Taipei)</description>
-      <pubDate>Fri, 06 Nov 2026 00:05:00 +0800</pubDate>
-      <guid isPermaLink="false">aitrade-intel-202611060005-kitco-gold-4088-range-4148</guid>
-    </item>
-    <item>
-      <title>Late US gold/FX wrap (FXStreet 15:23 GMT / 23:23 Taipei Nov 5): XAUUSD around $4,105 after intraday high $4,146; DXY around 101.60 from low 101.20; US 10Y to 4.89% from 4.83% low; CME FedWatch Dec hike odds ~79%; cites claims 189k vs ~196k forecast. Tech notes in article (21-day SMA ~$4,077 etc.) are analysis not prints</title>
-      <link>https://www.fxstreet.com/news/gold-extends-recovery-amid-post-election-volatility-us-jobs-data-in-focus-202611051101</link>
-      <description>[事實] 影響: XAUUSD/DXY/美債殖利率 | 重點: FXStreet約23:23台北：金約4,105（日高約4,146）、DXY約101.60（自101.20反彈）、美10年約4.89%（自4.83%低點回升）、CME FedWatch稱12月升息機率約79%；技術均線敘述屬分析/觀點。稍後亞盤前報價顯示殖利率與DXY再度回軟（見另則） | 發布: 2026-11-05 23:23 (Asia/Taipei，15:23 GMT) | 抓取: 2026-11-06 00:15 (Asia/Taipei)</description>
-      <pubDate>Thu, 05 Nov 2026 23:23:00 +0800</pubDate>
-      <guid isPermaLink="false">aitrade-intel-202611052323-fxstreet-gold-4105-dxy-1016</guid>
-    </item>
-    <item>
-      <title>Cleveland Fed President Hammack (official 2026-11-05, SNB Watchers Zurich): expects policy 'will need to move to a restrictive stance' to return inflation to 2% timely; prefers 'more frequent smaller adjustments'; inflation above goal nearly six years, pressures broad supply and demand; stressed Fed independence for dollar reserve status. Reuters ~08:51 ET noted she dissented for a hike at last week's hold</title>
-      <link>https://www.clevelandfed.org/collections/press-releases/2026/pr-20261105-cleveland-fed-president-hammack-speech</link>
-      <description>[事實] 影響: XAUUSD/DXY/美債殖利率/USD | 重點: 克里夫蘭聯儲總裁Hammack官方稿：預期政策需轉向限制性以把通膨及時拉回2%，偏好較頻繁的小幅調整；通膨高於目標近六年且供需壓力偏廣；並強調聯儲獨立對美元儲備地位重要。路透另稱其上週維持利率時曾主張升息（異議）屬報導事實；對12月路徑解讀屬推測 | 發布: 2026-11-05 21:51 (Asia/Taipei，路透約08:51 ET；官方頁日期11.05.2026) | 抓取: 2026-11-06 00:15 (Asia/Taipei)</description>
-      <pubDate>Thu, 05 Nov 2026 21:51:00 +0800</pubDate>
-      <guid isPermaLink="false">aitrade-intel-202611052151-cleveland-fed-hammack-restrictive</guid>
-    </item>
-    <item>
-      <title>Post-claims gold (Kitco ~21:47 Taipei): spot XAUUSD $4,120.60 (+1.5%), holding above $4,100 but off session high ~$4,147; little immediate reaction to soft claims; Kitco: solid labor print keeps Dec Fed hike room open ahead of Fri NFP (Reuters poll +65k). exa quote $4,125.84 (+1.48%) at 22:20 Taipei, day range $4,061.39-$4,146.97</title>
-      <link>https://www.kitco.com/news/article/2026-11-05/gold-prices-holding-above-4100-weekly-jobless-claims-rise-189k</link>
-      <description>[事實] 影響: XAUUSD/DXY | 重點: 初請公布後現貨金約4,120.6（Kitco）至4,125.8（exa），仍守4,100上方但低於日高約4,147；Kitco稱對數據反應有限，並指勞動數據仍讓Fed有空間考慮12月升息（屬觀點/推測）；週五非農為下一焦點 | 發布: 約2026-11-05 21:47 (Asia/Taipei，Kitco更新13:47) | 抓取: 2026-11-05 22:20 (Asia/Taipei)</description>
-      <pubDate>Thu, 05 Nov 2026 21:47:00 +0800</pubDate>
-      <guid isPermaLink="false">aitrade-intel-202611052147-gold-post-claims-4120</guid>
     </item>
   </channel>
 </rss>
