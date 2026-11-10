@@ -5,13 +5,48 @@
     <link>https://lk1227ai-sudo.github.io/aitrade-intel-feed/</link>
     <description>公開資訊彙整，非交易建議</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 10 Nov 2026 04:12:00 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 08:20:00 +0800</lastBuildDate>
     <item>
-      <title>Next 24h (Taipei) from ~04:12 Tue Nov 10: China Oct trade Tue 11:00; Waller Tue 17:00 (London); US Oct CPI Tue 21:30 — BLS will NOT publish 12-month headline/core rates (Oct 2025 data missing from shutdown), only m/m (consensus headline +0.3% / core +0.2%; FactSet headline 0.24%); Bowman per Investing calendar Tue (Taipei time UNCONFIRMED); US 10Y $42B auction Tue 13:00 ET = Wed 02:00 Taipei; Wed Veterans Day US bond market closed; 30Y auction Thu; PPI Fri</title>
-      <link>https://etf.net/news/october-cpi-without-yearly-comparison-2026-11-08</link>
-      <description>[事實] 影響: XAUUSD/DXY/美債殖利率/主要貨幣對 | 重點: 週二11:00中國10月貿易、17:00 Waller、21:30美10月CPI只公布月增率（街估整體+0.3%、核心+0.2%），BLS不公布年增率，先前流傳的年增3.9%預估無法對照；Bowman週二發言台北時間UNKNOWN；週三02:00美10年債標售420億美元；週三美債市休市 | 發布: 2026-11-10 04:12 (Asia/Taipei) | 抓取: 2026-11-10 00:10 (Asia/Taipei)</description>
-      <pubDate>Tue, 10 Nov 2026 04:12:00 +0800</pubDate>
-      <guid isPermaLink="false">aitrade-intel-202611100412-next24h-cpi-mom-only</guid>
+      <title>Next 24h (Taipei) from ~08:20 Tue Nov 10: China Oct trade 11:00 (TV fcst exports +33% y/y, imports +33%, balance $125bn; prior $133.5bn); China new yuan loans/TSF ~16:00 (TV calendar, window Nov 9-14); Waller 17:00 (London); NFIB Oct ~19:00 (prior 97.9, Westpac fcst 98.2); US Oct CPI 21:30 m/m only (headline +0.3%, core +0.2%); Bowman Tue (Taipei time UNCONFIRMED); US 10Y $42bn auction Wed 02:00; Wed Veterans Day US bond market closed</title>
+      <link>https://www.tradingview.com/economic-calendar/</link>
+      <description>[事實] 影響: XAUUSD/DXY/美債殖利率/USDCNH/AUDUSD/主要貨幣對 | 重點: 11:00中國10月貿易（出口年增預估33%）、16:00左右中國新增貸款、17:00 Waller、19:00左右NFIB、21:30美10月CPI只公布月增率（整體+0.3%、核心+0.2%）；矛盾：TradingView日曆仍列年增預估3.9%，但BLS已確認本次不公布年增率；Bowman台北時間UNKNOWN；週三02:00美10年債標售 | 發布: 2026-11-10 08:20 (Asia/Taipei) | 抓取: 2026-11-10 08:20 (Asia/Taipei)</description>
+      <pubDate>Tue, 10 Nov 2026 08:20:00 +0800</pubDate>
+      <guid isPermaLink="false">aitrade-intel-202611100820-next24h-china-trade-cpi</guid>
+    </item>
+    <item>
+      <title>Asia open ~08:05 Taipei Nov 10 (TradingView): OANDA XAUUSD 4137.68 (session H 4146.74 L 4135.01); COMEX GC1! 4148.4 (H 4156.2); DXY 101.677; US02Y 4.566%; US10Y 4.884% (vs 4.862% at 04:10); EURUSD 1.12212; USDJPY 158.00; GBPUSD 1.34411; AUDUSD 0.69206; WTI CL1! 86.46 (−0.45%)</title>
+      <link>https://www.tradingview.com/symbols/XAUUSD/</link>
+      <description>[事實] 影響: XAUUSD/DXY/US02Y/US10Y/EURUSD/USDJPY/GBPUSD/AUDUSD | 重點: 亞洲早盤現貨金約4137.7，在4135–4147窄幅整理、守住週一漲幅；美元指數約101.68持平；美10年殖利率升至約4.884%（較04:10高約2bp），美元日圓回到158.00；WTI小跌至約86.46 | 發布: 2026-11-10 08:05 (Asia/Taipei) | 抓取: 2026-11-10 08:20 (Asia/Taipei)</description>
+      <pubDate>Tue, 10 Nov 2026 08:05:00 +0800</pubDate>
+      <guid isPermaLink="false">aitrade-intel-202611100805-asia-xau-4137-usdjpy-158</guid>
+    </item>
+    <item>
+      <title>Japan Sep current account surplus ¥2.37tn (Kyodo, Nov 10 08:52 JST), below consensus ¥3.354tn (RTTNews preview) and Aug ¥4.062tn</title>
+      <link>https://english.kyodonews.net/articles/-/90865</link>
+      <description>[事實] 影響: USDJPY/JPY交叉盤 | 重點: 日本9月經常帳順差2.37兆日圓，低於預估3.354兆、8月4.062兆；順差縮小對日圓屬邊際利空，但早盤美元日圓僅在157.85–158.03區間 | 發布: 2026-11-10 07:52 (Asia/Taipei) | 抓取: 2026-11-10 08:20 (Asia/Taipei)</description>
+      <pubDate>Tue, 10 Nov 2026 07:52:00 +0800</pubDate>
+      <guid isPermaLink="false">aitrade-intel-202611100752-japan-ca-sep-237tn</guid>
+    </item>
+    <item>
+      <title>BoJ Summary of Opinions (Oct 29–30 MPM, released Nov 10 08:50 JST): some members say BoJ should 'step up the pace' toward neutral rate and bring policy rate to neutral 'soon'/'at an early stage'; one says neutral rate 'likely considerably above 1 percent'; others urge assessing cumulative effects of past hikes and risk of downward pressure. Takata dissented at the meeting, proposing a hike to 1.5% (investingLive)</title>
+      <link>https://www.boj.or.jp/en/mopo/mpmsche_minu/opinion_2026/opi261030.pdf</link>
+      <description>[事實] 影響: USDJPY/JPY交叉盤/XAUUSD | 重點: 日銀10月會議意見摘要偏鷹：多位委員主張盡早把利率拉到中性水準，並有人認為中性利率「明顯高於1%」，但也有委員提醒先評估過去升息的累積效果；摘要未給下一次升息時點（時點UNKNOWN） | 發布: 2026-11-10 07:50 (Asia/Taipei) | 抓取: 2026-11-10 08:20 (Asia/Taipei)</description>
+      <pubDate>Tue, 10 Nov 2026 07:50:00 +0800</pubDate>
+      <guid isPermaLink="false">aitrade-intel-202611100750-boj-summary-opinions-oct</guid>
+    </item>
+    <item>
+      <title>Japan Sep household spending −6.7% y/y real (Fisco/ZAi FX; consensus −3.1%, prior −3.1%), −2.8% m/m (consensus +0.3%); Jiji reports −6.8% y/y, 10th straight monthly decline — sources differ by 0.1pp</title>
+      <link>https://zai.diamond.jp/articles/-/498744</link>
+      <description>[事實] 影響: USDJPY/JPY交叉盤 | 重點: 日本9月家庭支出實質年減6.7%、月減2.8%，遠差於預估（年減3.1%、月增0.3%），連10個月下滑；矛盾：時事通信報年減6.8%，與Fisco的6.7%差0.1個百分點，官方確切值以總務省為準。時事通信: https://sp.m.jiji.com/article/show/3908094 | 發布: 2026-11-10 07:30 (Asia/Taipei) | 抓取: 2026-11-10 08:20 (Asia/Taipei)</description>
+      <pubDate>Tue, 10 Nov 2026 07:30:00 +0800</pubDate>
+      <guid isPermaLink="false">aitrade-intel-202611100730-japan-hh-spending-sep</guid>
+    </item>
+    <item>
+      <title>Australia Westpac-MI consumer sentiment Nov: −2.7% to 78.2 (from 80.4), third straight monthly fall; survey week included RBA hike to 4.85% (Finimize/Westpac)</title>
+      <link>https://finimize.com/content/australian-consumer-confidence-hit-a-four-year-low-in-november</link>
+      <description>[事實] 影響: AUDUSD | 重點: 澳洲11月Westpac消費者信心月減2.7%至78.2，連3個月下滑、Finimize稱為4年低點；調查期間澳洲央行升息至4.85% | 發布: 2026-11-10 07:30 (Asia/Taipei) | 抓取: 2026-11-10 08:20 (Asia/Taipei)</description>
+      <pubDate>Tue, 10 Nov 2026 07:30:00 +0800</pubDate>
+      <guid isPermaLink="false">aitrade-intel-202611100730-au-westpac-sentiment-nov</guid>
     </item>
     <item>
       <title>Late US session ~04:10 Taipei Nov 10 (TradingView): OANDA XAUUSD 4139.61 (+69.0 / +1.70%; H 4140.77 L 4054.40, at day high); COMEX GC1! 4142.0 (+1.65%; H 4148.6); Dec GC settled 4114.50 (+1%, CNBC/Reuters); DXY 101.665 (−0.60%; L 101.642); US02Y 4.545% (+3.3bp); US10Y 4.862% (+0.3bp); EURUSD 1.12226 (+0.78%); USDJPY 157.783 (−0.43%); GBPUSD 1.34393 (+0.73%); WTI CL1! 85.93 (−5.4%); Brent ~93 (−~5%, Reuters/CNBC)</title>
@@ -180,41 +215,6 @@
       <description>[事實] 影響: EURUSD/XAUUSD/DXY | 重點: 德國聯邦統計局：9月工業產出季調／曆調月增+0.7%（街估約0%；8月上修為+1.0%，初值曾+2.0%）、年增曆調+0.4%；第三季較第二季三月比−0.4%。汽車+17.1%、製藥+8.0%；營建−2.6%、機械−6.5%；不含能源與營建工業+1.7%，能源−1.2%。TradingView日曆MoM實值0.7／預估0；其YoY SA 0.55與Destatis曆調年增+0.4%口徑不同。歐元區9月零售銷售實值此輪仍UNKNOWN | 發布: Destatis 2026-11-06（歐洲上午，約台北15:00前後） | 抓取: 2026-11-06 16:12 (Asia/Taipei)</description>
       <pubDate>Fri, 06 Nov 2026 16:11:00 +0800</pubDate>
       <guid isPermaLink="false">aitrade-intel-202611061611-de-ip-sep-07</guid>
-    </item>
-    <item>
-      <title>Europe afternoon ~16:10 Taipei Nov 6 (TradingView): XAUUSD 4054.325 (−33.95 / −0.83%; H 4107.085 L 4035.775 open 4087.84) vs midday 12:10 print ~4039.79 — rebound ~+$14; Kitco bid 4054.2; COMEX GC1! 4063.5 (−50 / −1.22%; H 4116.2 L 4044.5); Yahoo GC=F ~4064.4. DXY 101.88 (+0.31); US02Y 4.459%; US10Y 4.829%; EURUSD 1.11849; USDJPY 157.883; GBPUSD 1.3402. FXStreet early-Europe note (~07:31 GMT/15:31 Taipei) had gold ~$4,050 — ACTUALS for NFP still UNKNOWN</title>
-      <link>https://www.tradingview.com/symbols/XAUUSD/</link>
-      <description>[事實] 影響: XAUUSD/DXY/US02Y/US10Y/EURUSD/USDJPY/GBPUSD | 重點: 台北約16:10歐盤午後，現貨金約4054.3（較12:10約4039.8回升約14美元；日高約4107.1／日低約4035.8），Kitco bid約4054.2、COMEX約4063.5、Yahoo GC=F約4064.4；美元指數約101.88；美2年約4.459%、10年約4.829%；歐元美元約1.11849、美元日圓約157.883、鎊美約1.3402；FXStreet歐盤早段約15:31台北稿寫金價約4050。NFP實值仍UNKNOWN | 發布: 2026-11-06 16:10 (Asia/Taipei) | 抓取: 2026-11-06 16:12 (Asia/Taipei)</description>
-      <pubDate>Fri, 06 Nov 2026 16:10:00 +0800</pubDate>
-      <guid isPermaLink="false">aitrade-intel-202611061610-europe-xau-4054</guid>
-    </item>
-    <item>
-      <title>Asia midday ~12:10 Taipei (TradingView): XAUUSD 4039.79 (−48.49 / −1.19%; H 4107.09 L 4037.47 open 4087.84) vs 08:00 print 4084.62 — further −~$45; Kitco bid ~4038.1 / ~4040.8; COMEX GC1! 4053.4 (−60.1 / −1.46%; H 4116.2 L 4049.6). DXY 101.775 (+0.21); US02Y 4.48%; US10Y 4.843%; EURUSD 1.11952; USDJPY 157.831; GBPUSD 1.3429</title>
-      <link>https://www.tradingview.com/symbols/XAUUSD/</link>
-      <description>[事實] 影響: XAUUSD/DXY/US02Y/US10Y/EURUSD/USDJPY/GBPUSD | 重點: 亞歐盤中段相對08:00，現貨金續挫至約4039.79（約再跌45美元，日高約4107／日低約4037），Kitco約4038–4041、COMEX主力約4053.4（約−1.5%）；美元指數約101.775；美2年約4.48%、10年約4.843%；歐元美元約1.1195、美元日圓約157.83、鎊美約1.3429 | 發布: 2026-11-06 12:10 (Asia/Taipei) | 抓取: 2026-11-06 12:10 (Asia/Taipei)</description>
-      <pubDate>Fri, 06 Nov 2026 12:10:00 +0800</pubDate>
-      <guid isPermaLink="false">aitrade-intel-202611061210-asia-midday-xau-pullback</guid>
-    </item>
-    <item>
-      <title>Richmond Fed Barkin (CNBC interview Nov 5 / FXStreet 15:48 GMT): inflation 'too high' and 'most important risk'; path 'straightforward' toward further hikes but gradual pace 'makes sense'; policy around neutral / slightly accommodative; firms cautious hiring 'not yet firing'; AI near-term inflationary; not 2026 voter (votes 2027). Hammack already in prior feed</title>
-      <link>https://www.cnbc.com/2026/11/05/barkin-sees-interest-rate-hikes-ahead-but-at-a-gradual-pace.html</link>
-      <description>[事實] 影響: XAUUSD/DXY/美債殖利率/EURUSD/USDJPY | 重點: 里奇蒙聯儲總裁Barkin（11/5 CNBC專訪）：通膨「太高」且是當前最重要風險；政策路徑「相當直接」＝還需升息，但漸進節奏「說得通」；目前政策約在中性、略偏寬鬆；企業仍謹慎招募「尚未裁員」；AI近端有通膨效應；2026年無票、2027年有票。Cleveland Fed Hammack鷹派發言已見前饋 | 發布: CNBC 2026-11-05 約09:29–11:34 ET；FXStreet 15:48 GMT | 抓取: 2026-11-06 08:00 (Asia/Taipei)</description>
-      <pubDate>Fri, 06 Nov 2026 08:02:00 +0800</pubDate>
-      <guid isPermaLink="false">aitrade-intel-202611060802-barkin-gradual-hikes</guid>
-    </item>
-    <item>
-      <title>Asia early session ~04:10 Taipei Nov 6 (TradingView): XAUUSD 4104.93 (+19.55 / +0.48% vs 00:15 open 4085.38; day H 4146.92 L 4057.83, day +1.10%); US02Y 4.462% (−4.6bp vs 4.508); US10Y 4.831% unch; DXY 101.549 (−0.02); EURUSD 1.12237; USDJPY 157.794; GBPUSD 1.3455. Kitco homepage ~4,106.60 aligns. FXBus ~02:02 Taipei: spot briefly above $4,100 then ~$4,099.36</title>
-      <link>https://www.tradingview.com/symbols/XAUUSD/</link>
-      <description>[事實] 影響: XAUUSD/US02Y/US10Y/DXY/EURUSD/USDJPY/GBPUSD | 重點: 亞盤早段相對00:15開盤，現貨金約4104.93（約+0.48%，日高4146.92／日低4057.83），美2年期殖利率降至4.462%（再降約4.6個基點），10年持平4.831%；美元指數約101.549、主要貨幣對變動極小；Kitco首頁約4106.60；FXBus約02:02台北亦報現貨短暫站上4100 | 發布: 2026-11-06 04:10 (Asia/Taipei) | 抓取: 2026-11-06 04:10 (Asia/Taipei)</description>
-      <pubDate>Fri, 06 Nov 2026 04:10:00 +0800</pubDate>
-      <guid isPermaLink="false">aitrade-intel-202611060410-asia-early-xau-us02y</guid>
-    </item>
-    <item>
-      <title>Asia open quotes ~00:15 Taipei Nov 6 (TradingView): XAUUSD 4085.38 (+25.0 / +0.62%; H 4146.92 L 4057.83); DXY 101.569 (+0.08); EURUSD 1.1220; USDJPY 157.857; GBPUSD 1.3467; US10Y 4.831% (-5.9bp); US02Y 4.508% (-7.5bp). CONTRADICTION vs FXStreet ~23:23 Taipei snapshot (10Y 4.89% / DXY 101.60): yields and DXY eased again into Asia</title>
-      <link>https://www.tradingview.com/symbols/XAUUSD/</link>
-      <description>[事實] 影響: XAUUSD/DXY/EURUSD/USDJPY/GBPUSD/美債殖利率 | 重點: 約00:15台北 TradingView：金4085.38（日高4146.92/日低4057.83）、DXY 101.569、EURUSD 1.1220、USDJPY 157.857、GBPUSD 1.3467、美10年4.831%（約-5.9bp）、美2年4.508%（約-7.5bp）；與FXStreet約23:23所寫10年4.89%/DXY 101.60相比，亞盤前殖利率與美元再度回軟 | 發布: 2026-11-06 00:15 (Asia/Taipei，串流報價） | 抓取: 2026-11-06 00:15 (Asia/Taipei)</description>
-      <pubDate>Fri, 06 Nov 2026 00:15:00 +0800</pubDate>
-      <guid isPermaLink="false">aitrade-intel-202611060015-asia-open-xau-dxy-yields</guid>
     </item>
   </channel>
 </rss>
