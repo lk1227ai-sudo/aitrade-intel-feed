@@ -5,7 +5,14 @@
     <link>https://lk1227ai-sudo.github.io/aitrade-intel-feed/</link>
     <description>公開資訊彙整，非交易建議</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 10 Nov 2026 22:35:00 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 00:25:00 +0800</lastBuildDate>
+    <item>
+      <title>Late US session ~00:20 Taipei Nov 11 (TradingView): OANDA XAUUSD 4033.16 (−107.5 / −2.60%; H 4146.74 L 4032.69, at new day low); COMEX GC1! 4049.6 (−1.58%; L 4040.8); DXY 102.333 (+0.65%; H 102.353); US02Y 4.746% (+18.0bp; H 4.755); US10Y 4.996% (+11.2bp, at day high); EURUSD 1.11538 (−0.62%); USDJPY 158.743 (+0.53%); GBPUSD 1.33276 (−0.85%); AUDUSD 0.68502 (−1.09%); WTI CL1! 85.77 (−1.24%). Reuters headline 22:55 Taipei: 'Gold falls more than 2% as CPI tops forecasts, lifting dollar and yields'</title>
+      <link>https://www.tradingview.com/symbols/XAUUSD/</link>
+      <description>[事實] 影響: XAUUSD/DXY/US02Y/US10Y/USDJPY/EURUSD/GBPUSD/AUDUSD | 重點: CPI後賣壓延續，現貨金再創日低約4032.7、日跌約2.6%，逼近4000整數關；美10年期殖利率升至約4.996%逼近5%、2年期日升約18bp，美元指數約102.33創日高 | 發布: 2026-11-11 00:20 (Asia/Taipei) | 抓取: 2026-11-11 00:25 (Asia/Taipei)</description>
+      <pubDate>Wed, 11 Nov 2026 00:20:00 +0800</pubDate>
+      <guid isPermaLink="false">aitrade-intel-202611110020-late-us-xau-4033-us10y-4996</guid>
+    </item>
     <item>
       <title>Next 24h (Taipei) from ~22:35 Tue Nov 10: US 10Y $42bn auction Wed 02:00; API crude Wed 05:30; Reuters Tankan Wed 07:00; Wed Veterans Day US bond market closed; German Oct CPI final Wed 15:00. China Oct new loans/TSF release time UNKNOWN. Dec 8–9 FOMC pricing: 25bp fully priced, 50bp 13.6% (CNBC/CME FedWatch post-CPI)</title>
       <link>https://www.tradingview.com/economic-calendar/</link>
@@ -47,6 +54,13 @@
       <description>[事實] 影響: XAUUSD/DXY/US02Y/US10Y/EURUSD/USDJPY | 重點: Fed理事Waller表示即使10月CPI改善也支持12月升息1碼，若核心CPI月增達0.3%以上應考慮升息2碼（50bp）；路透稱講話後市場已完全定價12月升息，且此前FedWatch並未定價50bp，今晚CPI的核心月增0.2%或0.3%成為關鍵分界 | 發布: 2026-11-10 17:00 (Asia/Taipei) | 抓取: 2026-11-10 20:15 (Asia/Taipei)</description>
       <pubDate>Tue, 10 Nov 2026 17:00:00 +0800</pubDate>
       <guid isPermaLink="false">aitrade-intel-202611101700-waller-dec-hike-50bp-if-core-03</guid>
+    </item>
+    <item>
+      <title>ECB chief economist Lane (Bloomberg TV, Nov 10; FXStreet 08:44 GMT / 16:44 Taipei): 'prudent to hike in December if data don't shift'; 'more to come in terms of peak inflation'; inflation likely 'a little bit' over 4% at year-end; French fiscal problems 'need to be fixed in Paris'. Governing Council member Kazaks (Bloomberg, Econostream): 'some further tightening, from today's perspective, would be warranted', trade-offs 'more nuanced'. Barchart: ECB comments added to pressure on precious metals</title>
+      <link>https://www.fxstreet.com/news/ecbs-lane-prudent-to-hike-again-as-inflation-seen-over-4-by-year-end-202611100844</link>
+      <description>[事實] 影響: EURUSD/XAUUSD | 重點: ECB首席經濟學家Lane稱若數據不變12月升息屬審慎、通膨高峰未到，Kazaks也稱目前看來需再緊縮但權衡變複雜；不過CPI後美元走強，EURUSD仍跌至約1.115 | 發布: 2026-11-10 16:44 (Asia/Taipei) | 抓取: 2026-11-11 00:25 (Asia/Taipei)</description>
+      <pubDate>Tue, 10 Nov 2026 16:44:00 +0800</pubDate>
+      <guid isPermaLink="false">aitrade-intel-202611101644-ecb-lane-kazaks-dec-hike</guid>
     </item>
     <item>
       <title>Afternoon Asia ~16:05 Taipei Nov 10 (TradingView): OANDA XAUUSD 4115.05 (−25.6 / −0.62%; H 4146.74 L 4108.22); COMEX GC1! 4122.5 (+0.19%); DXY 101.547 (−0.13%; L 101.519); US02Y 4.553% (−1.3bp); US10Y 4.868% (−1.6bp); EURUSD 1.12427 (+0.17%); USDJPY 158.004; GBPUSD 1.34522; AUDUSD 0.69197; USDCNH 6.6664; WTI CL1! 85.51 (−1.54%)</title>
@@ -201,20 +215,6 @@
       <description>[推測] 影響: XAUUSD/原油/USDJPY/USDCAD/DXY | 重點: 事實部分：川普稱談判有進展則「極不可能」再攻擊伊朗；Rubio稱伊朗要求「離譜」、未近突破（官方說法互相矛盾）；週末荷莫茲附近仍有船隻遇襲。傳言部分：據以色列媒體引外交消息，卡達總理攜伊朗臨時協議（重開荷莫茲、解除封鎖、釋放80億美元）赴白宮，兩國政府均未證實。油價大跌是今日金價與通膨預期降溫主因之一 | 發布: 2026-11-09 19:09–21:30 (Asia/Taipei) | 抓取: 2026-11-09 22:25 (Asia/Taipei)</description>
       <pubDate>Mon, 09 Nov 2026 21:30:00 +0800</pubDate>
       <guid isPermaLink="false">aitrade-intel-202611092130-iran-qatar-deal-rumor-oil</guid>
-    </item>
-    <item>
-      <title>Monday Europe ~20:05 Taipei Nov 9 (TradingView): OANDA XAUUSD 4107.36 (+36.77 / +0.90%); exa day range 4055.06–4134.10 (open 4055.76); COMEX GC1! 4119.6 (+1.10%); silver 52.64 (+1.36%); DXY 101.869 (−0.41 / −0.40%); US02Y 4.530% (+1.8bp); US10Y 4.859% (unch); EURUSD 1.11883 (+0.46%); USDJPY 157.958 (−0.36%); GBPUSD 1.34112 (+0.48%); AUDUSD 0.68997; USDCHF 0.81853; WTI CL1! 88.07 (−3.04%)</title>
-      <link>https://www.tradingview.com/symbols/XAUUSD/</link>
-      <description>[事實] 影響: XAUUSD/DXY/US02Y/US10Y/EURUSD/USDJPY/GBPUSD | 重點: 週一現貨金約4107.36（約+0.90%；exa日內約4055–4134），COMEX約4119.6、白銀約52.64；美元指數約101.869（約−0.40%）；美2年約4.530%、10年約4.859%持平；歐元美元約1.1188、美元日圓約157.96、鎊美約1.3411；WTI約88.07（約−3.0%）。相對週六交接金約4055、美元指數約102.19，金反彈、美元走弱 | 發布: 2026-11-09 20:05 (Asia/Taipei) | 抓取: 2026-11-09 20:10 (Asia/Taipei)</description>
-      <pubDate>Mon, 09 Nov 2026 20:05:00 +0800</pubDate>
-      <guid isPermaLink="false">aitrade-intel-202611092005-xau-4107-dxy-1019</guid>
-    </item>
-    <item>
-      <title>Gold driver Mon (CNBC/Reuters; Investing.com 08:48 GMT): gold up as lower oil prices ease inflation fears, US CPI in focus. Investing: spot $4,098.03 (+0.7%), Dec futures $4,106.47, DXY −0.4% to 101.88 at 08:48 GMT (~16:48 Taipei). CNBC: bullion gained ~5% last week on Democratic midterm wins and hopes for end to Middle East conflict; gold still ~20% below pre-US-Iran-conflict level (Investing). Reuters latest headline 19:48 Taipei</title>
-      <link>https://www.cnbc.com/2026/11/09/gold-gains-more-than-1percent-as-softer-oil-prices-ease-inflation-worries.html</link>
-      <description>[事實] 影響: XAUUSD/DXY/原油 | 重點: 週一金價受油價回落緩解通膨擔憂支撐，市場聚焦週二美CPI；Investing於台北約16:48報現貨約4098.03、12月期金約4106.47、美元指數約101.88；CNBC稱上週金約漲5%（民主黨期中選舉勝選、中東衝突可望結束的期待）；Investing稱金價仍較美伊衝突前低約20% | 發布: Reuters/TV標題 2026-11-09 19:48 (Asia/Taipei) | 抓取: 2026-11-09 20:10 (Asia/Taipei)</description>
-      <pubDate>Mon, 09 Nov 2026 19:48:00 +0800</pubDate>
-      <guid isPermaLink="false">aitrade-intel-202611091948-gold-oil-eases-cpi-focus</guid>
     </item>
   </channel>
 </rss>
