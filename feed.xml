@@ -5,13 +5,27 @@
     <link>https://lk1227ai-sudo.github.io/aitrade-intel-feed/</link>
     <description>公開資訊彙整，非交易建議</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 10 Nov 2026 20:15:00 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 22:35:00 +0800</lastBuildDate>
     <item>
-      <title>Next 24h (Taipei) from ~20:15 Tue Nov 10: US Oct CPI 21:30 (TV fcst headline +0.3% m/m, core +0.2% m/m; Waller flagged core ≥0.3% as 50bp trigger); ADP weekly pulse 21:15; US 10Y $42bn auction Wed 02:00; API crude Wed 05:30; Reuters Tankan Wed 07:00; Wed Veterans Day US bond market closed; German Oct CPI final Wed 15:00. China Oct new loans/TSF still not published as of 20:15 (release time UNKNOWN). SOURCE CONFLICT persists: TV calendar lists CPI y/y fcst 3.9%/core 2.8% but BLS says Oct 12-month changes will not be published</title>
+      <title>Next 24h (Taipei) from ~22:35 Tue Nov 10: US 10Y $42bn auction Wed 02:00; API crude Wed 05:30; Reuters Tankan Wed 07:00; Wed Veterans Day US bond market closed; German Oct CPI final Wed 15:00. China Oct new loans/TSF release time UNKNOWN. Dec 8–9 FOMC pricing: 25bp fully priced, 50bp 13.6% (CNBC/CME FedWatch post-CPI)</title>
       <link>https://www.tradingview.com/economic-calendar/</link>
-      <description>[事實] 影響: XAUUSD/DXY/US02Y/US10Y/USDJPY/EURUSD/USDCNH | 重點: 今晚21:30美國10月CPI為最大焦點（月增預估整體0.3%、核心0.2%，核心若達0.3%即觸及Waller提的2碼門檻），之後是週三凌晨02:00的10年債標售；中國10月新增貸款仍未公布、時間UNKNOWN；BLS本次不公布年增率，TradingView日曆的年增預估勿當作實際對照 | 發布: 2026-11-10 20:15 (Asia/Taipei) | 抓取: 2026-11-10 20:15 (Asia/Taipei)</description>
-      <pubDate>Tue, 10 Nov 2026 20:15:00 +0800</pubDate>
-      <guid isPermaLink="false">aitrade-intel-202611102015-next24h-cpi-core-50bp-trigger</guid>
+      <description>[事實] 影響: XAUUSD/DXY/US10Y/USDJPY/EURUSD/USDCNH | 重點: CPI已公布，接下來焦點是週三凌晨02:00美國10年期420億美元標售（週一3年期標售需求偏弱）；週三美國退伍軍人節債市休市；中國10月新增貸款公布時間UNKNOWN；10月CPI年增率BLS不公布，任何年增實際值說法都不是官方數據 | 發布: 2026-11-10 22:35 (Asia/Taipei) | 抓取: 2026-11-10 22:35 (Asia/Taipei)</description>
+      <pubDate>Tue, 10 Nov 2026 22:35:00 +0800</pubDate>
+      <guid isPermaLink="false">aitrade-intel-202611102235-next24h-10y-auction-veterans-day</guid>
+    </item>
+    <item>
+      <title>Post-CPI ~22:30 Taipei Nov 10 (TradingView): OANDA XAUUSD 4051.48 (−89.2 / −2.15%; H 4146.74 L 4039.72); COMEX GC1! 4061.1 (−1.30%; L 4046.4); DXY 101.996 (+0.31%; H 102.064); US02Y 4.708% (+14.2bp; H 4.719); US10Y 4.971% (+8.7bp; H 4.975); EURUSD 1.11919 (−0.28%); USDJPY 158.567 (+0.42%); GBPUSD 1.33922 (−0.36%); AUDUSD 0.68752 (−0.73%). Kitco: spot gold $4,054.90 (−2%); FXStreet: XAUUSD ~$4,052, holding above 20-day SMA ~$4,061 at time of writing</title>
+      <link>https://www.kitco.com/news/article/2026-11-10/gold-prices-down-2-day-us-cpi-rises-more-expected</link>
+      <description>[事實] 影響: XAUUSD/DXY/US02Y/US10Y/USDJPY/EURUSD/AUDUSD | 重點: CPI後現貨金跌破先前FXStreet所列4064–4068支撐、日低4039.7，現約4051（日跌約2.2%）；美2年期殖利率急升約14bp至4.708%、10年期近4.97%，美元指數升至約102、美元兌日圓約158.6 | 發布: 2026-11-10 22:30 (Asia/Taipei) | 抓取: 2026-11-10 22:35 (Asia/Taipei)</description>
+      <pubDate>Tue, 10 Nov 2026 22:30:00 +0800</pubDate>
+      <guid isPermaLink="false">aitrade-intel-202611102230-post-cpi-xau-4051-us02y-4708</guid>
+    </item>
+    <item>
+      <title>US Oct 2026 CPI (BLS, Nov 10 08:30 ET / 21:30 Taipei): headline +0.4% m/m SA (consensus 0.3%; Sep 0.6%); core +0.3% m/m (consensus 0.2%; Sep 0.3%, Aug 0.3%). Shelter +0.3% (&gt;30% of headline), food +0.5%, energy +0.7%, gasoline +1.0%, used cars −1.2%, transportation services +0.8%. No 12-month headline/core rates published (Oct 2025 data not collected). CNBC: CME FedWatch fully prices 25bp Dec hike, 50bp odds 13.6%</title>
+      <link>https://www.bls.gov/news.release/cpi.nr0.htm</link>
+      <description>[事實] 影響: XAUUSD/DXY/US02Y/US10Y/USDJPY/EURUSD/GBPUSD/AUDUSD | 重點: 美國10月CPI月增0.4%、核心月增0.3%，雙雙高於預期（0.3%/0.2%），核心觸及Waller所提考慮升息2碼的門檻；CNBC引CME FedWatch稱12月升息1碼已完全定價、2碼機率約13.6%；BLS本次無年增率 | 發布: 2026-11-10 21:30 (Asia/Taipei) | 抓取: 2026-11-10 22:35 (Asia/Taipei)</description>
+      <pubDate>Tue, 10 Nov 2026 21:30:00 +0800</pubDate>
+      <guid isPermaLink="false">aitrade-intel-202611102130-us-oct-cpi-04-core-03-hot</guid>
     </item>
     <item>
       <title>Evening Europe ~20:13 Taipei Nov 10 (TradingView): OANDA XAUUSD 4077.65 (−63.0 / −1.52%; H 4146.74 L 4068.72); COMEX GC1! 4084.9 (−0.72%); DXY 101.744 (+0.07%; L 101.488); US02Y 4.616% (+5.0bp); US10Y 4.894% (+1.0bp); EURUSD 1.12191; USDJPY 158.219 (+0.20%); GBPUSD 1.34304; AUDUSD 0.69111; USDCNH 6.6678; WTI CL1! 85.26 (−1.83%). Reuters headline 18:48 Taipei: 'Gold drops 1% on hawkish Fed comments ahead of US inflation data'</title>
@@ -201,20 +215,6 @@
       <description>[事實] 影響: XAUUSD/DXY/原油 | 重點: 週一金價受油價回落緩解通膨擔憂支撐，市場聚焦週二美CPI；Investing於台北約16:48報現貨約4098.03、12月期金約4106.47、美元指數約101.88；CNBC稱上週金約漲5%（民主黨期中選舉勝選、中東衝突可望結束的期待）；Investing稱金價仍較美伊衝突前低約20% | 發布: Reuters/TV標題 2026-11-09 19:48 (Asia/Taipei) | 抓取: 2026-11-09 20:10 (Asia/Taipei)</description>
       <pubDate>Mon, 09 Nov 2026 19:48:00 +0800</pubDate>
       <guid isPermaLink="false">aitrade-intel-202611091948-gold-oil-eases-cpi-focus</guid>
-    </item>
-    <item>
-      <title>FedWatch / Dec 9 hike odds — sources differ: Reuters Fri ~78% (from 66.9% Thu); HedgeWeekly via Kilambi ~77% at Fri close; Aju Press (Nov 9) 78%; FXCM briefing (Nov 9) ~80% after move from ~75%; Moneycontrol ~75%. Policy range 3.75–4.00%; a hike would take it to 4.00–4.25%. Live official CME tool % this run = UNKNOWN</title>
-      <link>https://www.fxcm.com/uk/insights/global-macro-and-markets-briefing-9-november-2026/</link>
-      <description>[事實] 影響: XAUUSD/DXY/美債殖利率/主要貨幣對 | 重點: 12月9日升息25bp機率各來源約75%–80%不一（Reuters週五約78%、Kilambi引週五收盤約77%、Aju Press 78%、FXCM約80%、Moneycontrol約75%）；現行利率3.75–4.00%；本輪未取得官方CME即時數字＝UNKNOWN。矛盾：DXY週五收約102.3（Kilambi），TV今晚約101.87 | 發布: 各來源2026-11-07至11-09 | 抓取: 2026-11-09 20:10 (Asia/Taipei)</description>
-      <pubDate>Mon, 09 Nov 2026 19:40:00 +0800</pubDate>
-      <guid isPermaLink="false">aitrade-intel-202611091940-fedwatch-dec-75to80</guid>
-    </item>
-    <item>
-      <title>Sentix Nov (09:30 GMT / 17:30 Taipei): euro area investor confidence 2.4 (prior 2.7; TV fcst 2.1); current situation −3.3 unch; expectations 8.3 (from 8.8). Germany −3.3 (from −3.6), current −14.0 (highest since May 2023), expectations 8.0 unch. Sentix cites rising rates, high oil prices, political uncertainty</title>
-      <link>https://www.fxstreet.com/news/eurozone-sentix-investor-confidence-index-slips-to-24-in-november-from-27-in-october-202611091000</link>
-      <description>[事實] 影響: EURUSD/歐元區成長 | 重點: 歐元區11月Sentix投資信心2.4（前2.7；TV街估2.1）；現況−3.3持平、預期降至8.3；德國升至−3.3（前−3.6），現況−14.0為2023年5月來最高；Sentix稱升息、高油價與政治不確定性拖累 | 發布: 2026-11-09 17:30 (Asia/Taipei) | 抓取: 2026-11-09 20:10 (Asia/Taipei)</description>
-      <pubDate>Mon, 09 Nov 2026 17:30:00 +0800</pubDate>
-      <guid isPermaLink="false">aitrade-intel-202611091730-sentix-nov-24</guid>
     </item>
   </channel>
 </rss>
