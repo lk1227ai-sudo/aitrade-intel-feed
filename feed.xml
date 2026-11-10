@@ -5,13 +5,34 @@
     <link>https://lk1227ai-sudo.github.io/aitrade-intel-feed/</link>
     <description>公開資訊彙整，非交易建議</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 10 Nov 2026 16:10:00 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 20:15:00 +0800</lastBuildDate>
     <item>
-      <title>Next 24h (Taipei) from ~16:10 Tue Nov 10: China new yuan loans/TSF (TV listed 16:00, not yet out at 16:05; fcst loans ¥20bn, TSF ¥1.42tn); Waller 17:00; NFIB Oct ~19:00; US Oct CPI 21:30 (m/m fcst headline +0.3%, core +0.2%); US 10Y $42bn auction Wed 02:00; Wed Veterans Day US bond market closed. SOURCE CONFLICT: TV calendar still shows CPI y/y fcst 3.9% and core y/y 2.8%, but BLS/FXStreet/Reuters say Oct 12-month changes will NOT be published</title>
+      <title>Next 24h (Taipei) from ~20:15 Tue Nov 10: US Oct CPI 21:30 (TV fcst headline +0.3% m/m, core +0.2% m/m; Waller flagged core ≥0.3% as 50bp trigger); ADP weekly pulse 21:15; US 10Y $42bn auction Wed 02:00; API crude Wed 05:30; Reuters Tankan Wed 07:00; Wed Veterans Day US bond market closed; German Oct CPI final Wed 15:00. China Oct new loans/TSF still not published as of 20:15 (release time UNKNOWN). SOURCE CONFLICT persists: TV calendar lists CPI y/y fcst 3.9%/core 2.8% but BLS says Oct 12-month changes will not be published</title>
       <link>https://www.tradingview.com/economic-calendar/</link>
-      <description>[事實] 影響: XAUUSD/DXY/US02Y/US10Y/USDCNH/AUDUSD | 重點: 未來24小時焦點為21:30美國10月CPI（月增預估整體0.3%、核心0.2%）、17:00 Waller談話與週三凌晨10年債標售；來源矛盾：TradingView日曆仍列年增預估3.9%，但BLS已表示本次不公布年增率，以月增為準；中國10月新增貸款公布時間未定 | 發布: 2026-11-10 16:10 (Asia/Taipei) | 抓取: 2026-11-10 16:10 (Asia/Taipei)</description>
-      <pubDate>Tue, 10 Nov 2026 16:10:00 +0800</pubDate>
-      <guid isPermaLink="false">aitrade-intel-202611101610-next24h-cpi-waller-yoy-conflict</guid>
+      <description>[事實] 影響: XAUUSD/DXY/US02Y/US10Y/USDJPY/EURUSD/USDCNH | 重點: 今晚21:30美國10月CPI為最大焦點（月增預估整體0.3%、核心0.2%，核心若達0.3%即觸及Waller提的2碼門檻），之後是週三凌晨02:00的10年債標售；中國10月新增貸款仍未公布、時間UNKNOWN；BLS本次不公布年增率，TradingView日曆的年增預估勿當作實際對照 | 發布: 2026-11-10 20:15 (Asia/Taipei) | 抓取: 2026-11-10 20:15 (Asia/Taipei)</description>
+      <pubDate>Tue, 10 Nov 2026 20:15:00 +0800</pubDate>
+      <guid isPermaLink="false">aitrade-intel-202611102015-next24h-cpi-core-50bp-trigger</guid>
+    </item>
+    <item>
+      <title>Evening Europe ~20:13 Taipei Nov 10 (TradingView): OANDA XAUUSD 4077.65 (−63.0 / −1.52%; H 4146.74 L 4068.72); COMEX GC1! 4084.9 (−0.72%); DXY 101.744 (+0.07%; L 101.488); US02Y 4.616% (+5.0bp); US10Y 4.894% (+1.0bp); EURUSD 1.12191; USDJPY 158.219 (+0.20%); GBPUSD 1.34304; AUDUSD 0.69111; USDCNH 6.6678; WTI CL1! 85.26 (−1.83%). Reuters headline 18:48 Taipei: 'Gold drops 1% on hawkish Fed comments ahead of US inflation data'</title>
+      <link>https://www.tradingview.com/symbols/XAUUSD/</link>
+      <description>[事實] 影響: XAUUSD/DXY/US02Y/US10Y/USDJPY/EURUSD | 重點: Waller鷹派講話後現貨金跌破4100至約4078（日跌約1.5%、日低4068.7），美2年期殖利率升約5bp至4.616%、美元指數從日低101.49回升至101.74，美元兌日圓升至約158.2；接近FXStreet所列支撐4064–4068區 | 發布: 2026-11-10 20:13 (Asia/Taipei) | 抓取: 2026-11-10 20:15 (Asia/Taipei)</description>
+      <pubDate>Tue, 10 Nov 2026 20:13:00 +0800</pubDate>
+      <guid isPermaLink="false">aitrade-intel-202611102013-evening-xau-4078-us02y-4616</guid>
+    </item>
+    <item>
+      <title>NFIB Small Business Optimism Oct 2026 (Nov 10, 06:00 ET / 19:00 Taipei): 97.8 (Sep 97.9; 53-yr avg 98.0); Uncertainty Index −6 to 84 (lowest since Dec 2025). Net 33% raised selling prices (+2), net 37% plan price hikes (+6, highest since Jul 2022). Consensus differs: Investing 98.0 vs Trading Economics 97.7</title>
+      <link>https://www.nfib.com/news/press-release/new-nfib-survey-main-street-optimism-remains-steady-uncertainty-declines-in-october/</link>
+      <description>[事實] 影響: DXY/US02Y/XAUUSD | 重點: 美國10月NFIB小企業樂觀指數97.8、幾乎持平；但計畫漲價的業者淨比例升至37%，為2022年7月以來最高，顯示價格壓力仍在；預估值來源不一（Investing 98.0、Trading Economics 97.7） | 發布: 2026-11-10 19:00 (Asia/Taipei) | 抓取: 2026-11-10 20:15 (Asia/Taipei)</description>
+      <pubDate>Tue, 10 Nov 2026 19:00:00 +0800</pubDate>
+      <guid isPermaLink="false">aitrade-intel-202611101900-nfib-oct-978-price-plans-37</guid>
+    </item>
+    <item>
+      <title>Fed Governor Waller (London speech, Nov 10, ~17:00 Taipei; federalreserve.gov): would support a 25bp hike at Dec 8–9 FOMC even if Oct CPI improves; if core CPI ~0.3% m/m or higher, 'a 50 basis point hike ... should be considered'; 'Hiking only 25 basis points would put our credibility at risk'. Reuters: markets now fully pricing a Dec hike after remarks (Mon close ~85%); CNBC: FedWatch showed no chance of 50bp pre-speech</title>
+      <link>https://www.federalreserve.gov/newsevents/speech/waller20261110a.htm</link>
+      <description>[事實] 影響: XAUUSD/DXY/US02Y/US10Y/EURUSD/USDJPY | 重點: Fed理事Waller表示即使10月CPI改善也支持12月升息1碼，若核心CPI月增達0.3%以上應考慮升息2碼（50bp）；路透稱講話後市場已完全定價12月升息，且此前FedWatch並未定價50bp，今晚CPI的核心月增0.2%或0.3%成為關鍵分界 | 發布: 2026-11-10 17:00 (Asia/Taipei) | 抓取: 2026-11-10 20:15 (Asia/Taipei)</description>
+      <pubDate>Tue, 10 Nov 2026 17:00:00 +0800</pubDate>
+      <guid isPermaLink="false">aitrade-intel-202611101700-waller-dec-hike-50bp-if-core-03</guid>
     </item>
     <item>
       <title>Afternoon Asia ~16:05 Taipei Nov 10 (TradingView): OANDA XAUUSD 4115.05 (−25.6 / −0.62%; H 4146.74 L 4108.22); COMEX GC1! 4122.5 (+0.19%); DXY 101.547 (−0.13%; L 101.519); US02Y 4.553% (−1.3bp); US10Y 4.868% (−1.6bp); EURUSD 1.12427 (+0.17%); USDJPY 158.004; GBPUSD 1.34522; AUDUSD 0.69197; USDCNH 6.6664; WTI CL1! 85.51 (−1.54%)</title>
@@ -194,27 +215,6 @@
       <description>[事實] 影響: EURUSD/歐元區成長 | 重點: 歐元區11月Sentix投資信心2.4（前2.7；TV街估2.1）；現況−3.3持平、預期降至8.3；德國升至−3.3（前−3.6），現況−14.0為2023年5月來最高；Sentix稱升息、高油價與政治不確定性拖累 | 發布: 2026-11-09 17:30 (Asia/Taipei) | 抓取: 2026-11-09 20:10 (Asia/Taipei)</description>
       <pubDate>Mon, 09 Nov 2026 17:30:00 +0800</pubDate>
       <guid isPermaLink="false">aitrade-intel-202611091730-sentix-nov-24</guid>
-    </item>
-    <item>
-      <title>FXEmpire XAUUSD technical view (Nov 9, 07:13 GMT): resistance $4,147.62 (descending trendline) then $4,200.09; support $4,088.51 then $4,051.45. WGC: gold ETFs +$2.7bn inflows in Oct, holdings +19t to 4,275t (European funds led)</title>
-      <link>https://www.fxempire.com/forecasts/article/gold-xauusd-silver-price-forecast-can-gold-clear-4148-ahead-of-us-cpi-1643236</link>
-      <description>[推測] 影響: XAUUSD/XAGUSD | 重點: FXEmpire技術觀點（分析非事實）：上方壓力4147.62（下降趨勢線、11/5高點附近）與4200.09，下方支撐4088.51、4051.45；現價約4130貼近壓力區。事實部分：WGC稱10月黃金ETF流入27億美元、持倉增19噸至4275噸 | 發布: 2026-11-09 15:13 (Asia/Taipei) | 抓取: 2026-11-09 22:25 (Asia/Taipei)</description>
-      <pubDate>Mon, 09 Nov 2026 15:13:00 +0800</pubDate>
-      <guid isPermaLink="false">aitrade-intel-202611091513-fxempire-xau-levels-4148</guid>
-    </item>
-    <item>
-      <title>Destatis PE26_390: Germany Sep exports +2.0% m/m to €141.1bn (fcst +0.5%; Aug revised −0.4%), +7.7% y/y; imports +4.2% m/m to €125.5bn; trade surplus €15.6bn (Aug €17.9bn). Exports to US −0.5% m/m, China −5.2%, UK −4.7%; to EU +3.5%. CONVENTION GAP: TradingView calendar had fcst €19.6bn / prev €19.5bn vs Destatis Aug €17.9bn</title>
-      <link>https://www.destatis.de/EN/Press/2026/11/PE26_390_51.html</link>
-      <description>[事實] 影響: EURUSD/XAUUSD | 重點: 德國9月出口月增2.0%至1411億歐元（街估+0.5%；8月修正−0.4%）、年增7.7%；進口月增4.2%；貿易順差156億歐元（8月179億）；對美−0.5%、對中−5.2%、對英−4.7%，對歐盟+3.5%。TV日曆預估196億／前值195億與Destatis口徑不同 | 發布: 2026-11-09 約15:00 (Asia/Taipei) | 抓取: 2026-11-09 20:10 (Asia/Taipei)</description>
-      <pubDate>Mon, 09 Nov 2026 15:00:00 +0800</pubDate>
-      <guid isPermaLink="false">aitrade-intel-202611091500-de-trade-sep-exports-2</guid>
-    </item>
-    <item>
-      <title>China NBS 09:30 Taipei: Oct CPI +0.7% y/y (fcst 0.8; prior 0.9), 0.0% m/m; core CPI 0.8% y/y (from 1.0). PPI +5.7% y/y (Reuters poll 5.3; prior 5.0) — fastest since Jun 2022 per Reuters/LSEG; +0.7% m/m; purchase prices +7.9% y/y. Energy-driven (coal mining +36.6%, oil &amp; gas extraction +35.0% y/y); gold jewelry prices −5.9% m/m</title>
-      <link>https://www.stats.gov.cn/sj/zxfbhjd/202611/t20261109_1965794.html</link>
-      <description>[事實] 影響: XAUUSD/AUDUSD/USDCNH/商品 | 重點: 中國10月CPI年增0.7%（街估0.8、前0.9）、月持平，核心0.8%；PPI年增5.7%（Reuters調查5.3、前5.0），為2022年6月來最高，月增0.7%，購進價格年增7.9%；主因能源（煤炭開採+36.6%、油氣開採+35.0%）；國內金飾價格月減5.9% | 發布: 2026-11-09 09:30 (Asia/Taipei) | 抓取: 2026-11-09 20:10 (Asia/Taipei)</description>
-      <pubDate>Mon, 09 Nov 2026 09:30:00 +0800</pubDate>
-      <guid isPermaLink="false">aitrade-intel-202611090930-cn-cpi-07-ppi-57</guid>
     </item>
   </channel>
 </rss>
