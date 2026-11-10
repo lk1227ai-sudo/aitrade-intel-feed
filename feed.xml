@@ -5,7 +5,28 @@
     <link>https://lk1227ai-sudo.github.io/aitrade-intel-feed/</link>
     <description>公開資訊彙整，非交易建議</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 10 Nov 2026 08:20:00 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 12:15:00 +0800</lastBuildDate>
+    <item>
+      <title>Midday Asia ~12:10 Taipei Nov 10 (TradingView): OANDA XAUUSD 4109.26 (−31.4 / −0.76%; H 4146.74 L 4108.22, near session low); COMEX GC1! 4119.9; DXY 101.688 (flat); US02Y 4.555% (−1.1bp); US10Y 4.868% (−1.6bp); EURUSD 1.12211; USDJPY 157.985; GBPUSD 1.34422; AUDUSD 0.69168; USDCNH 6.6684; WTI CL1! 85.87 (−1.13%). Reuters headlines: 'Gold edges lower as focus shifts to US inflation data' (10:58), 'Spot gold biased to retrace toward $4,033' (technical view, 11:50)</title>
+      <link>https://www.tradingview.com/symbols/XAUUSD/</link>
+      <description>[事實] 影響: XAUUSD/DXY/US02Y/US10Y/EURUSD/USDJPY/GBPUSD/AUDUSD/USDCNH | 重點: 午盤現貨金回落約0.76%至約4109.3、接近日內低點4108.2，美元指數約101.69持平、美債殖利率小跌，市場等今晚21:30美國CPI；附註[推測]：路透技術分析標題稱現貨金偏向回測4033（僅標題、內文付費，細節UNKNOWN） | 發布: 2026-11-10 12:10 (Asia/Taipei) | 抓取: 2026-11-10 12:15 (Asia/Taipei)</description>
+      <pubDate>Tue, 10 Nov 2026 12:10:00 +0800</pubDate>
+      <guid isPermaLink="false">aitrade-intel-202611101210-midday-xau-4109</guid>
+    </item>
+    <item>
+      <title>China Oct 2026 trade (GAC, 11:00 Taipei; TradingView calendar): exports +35.2% y/y USD (fcst 33.5; prior 36.3); imports +41.6% y/y (fcst 32; prior 31); trade surplus $105.28bn (fcst $125.8bn; prior $133.53bn). CNY terms: exports +28.7% y/y, imports +34.7%, surplus ¥712.8bn</title>
+      <link>https://www.tradingview.com/economic-calendar/</link>
+      <description>[事實] 影響: USDCNH/AUDUSD/XAUUSD | 重點: 中國10月出口年增35.2%略高於預估33.5%，進口年增41.6%遠高於預估32%，順差1052.8億美元低於預估1258億；公布後離岸人民幣約6.668變化不大 | 發布: 2026-11-10 11:00 (Asia/Taipei) | 抓取: 2026-11-10 12:15 (Asia/Taipei)</description>
+      <pubDate>Tue, 10 Nov 2026 11:00:00 +0800</pubDate>
+      <guid isPermaLink="false">aitrade-intel-202611101100-china-trade-oct</guid>
+    </item>
+    <item>
+      <title>Australia NAB Oct business survey (00:30 GMT / 08:30 Taipei; TradingView calendar): business confidence −15 (prior −14); business conditions −2 (prior −1)</title>
+      <link>https://business.nab.com.au/</link>
+      <description>[事實] 影響: AUDUSD | 重點: 澳洲10月NAB企業信心−15（前值−14）、企業現況−2（前值−1），雙雙再走弱；無市場預估值（UNKNOWN） | 發布: 2026-11-10 08:30 (Asia/Taipei) | 抓取: 2026-11-10 12:15 (Asia/Taipei)</description>
+      <pubDate>Tue, 10 Nov 2026 08:30:00 +0800</pubDate>
+      <guid isPermaLink="false">aitrade-intel-202611100830-au-nab-oct</guid>
+    </item>
     <item>
       <title>Next 24h (Taipei) from ~08:20 Tue Nov 10: China Oct trade 11:00 (TV fcst exports +33% y/y, imports +33%, balance $125bn; prior $133.5bn); China new yuan loans/TSF ~16:00 (TV calendar, window Nov 9-14); Waller 17:00 (London); NFIB Oct ~19:00 (prior 97.9, Westpac fcst 98.2); US Oct CPI 21:30 m/m only (headline +0.3%, core +0.2%); Bowman Tue (Taipei time UNCONFIRMED); US 10Y $42bn auction Wed 02:00; Wed Veterans Day US bond market closed</title>
       <link>https://www.tradingview.com/economic-calendar/</link>
@@ -194,27 +215,6 @@
       <description>[事實] 影響: EURUSD/XAUUSD/歐元區成長 | 重點: 歐元區2026年9月零售量月減0.7%（街估−0.1、前值+0.4；歐盟月減0.6%；年增+0.4%低於街估+0.6%）。16:12 Pages饋源時實值仍UNKNOWN | 發布: 2026-11-06 約18:00 (Asia/Taipei，10:00Z) | 抓取: 2026-11-07 00:08 (Asia/Taipei)</description>
       <pubDate>Fri, 06 Nov 2026 18:00:00 +0800</pubDate>
       <guid isPermaLink="false">aitrade-intel-202611061800-ez-retail-sep-m07</guid>
-    </item>
-    <item>
-      <title>ECB Lane at Money Markets fireside (FXStreet 09:57 GMT / ~17:57 Taipei): energy inflation will influence wage negotiations/price setting; policy to contain spillovers; need inflation back to target within a year or two; financial conditions tightened; exports surprisingly strong; fiscal more expansive than expected but expect tightening next year; 'Let's gather information between now and December and let's see what we do in December.'; need significant liquidity buffer. EUR/USD ~1.1170 (−0.4%) at that press</title>
-      <link>https://www.fxstreet.com/news/ecbs-lane-energy-inflation-to-influence-wage-negotiations-202611060957</link>
-      <description>[事實] 影響: EURUSD/XAUUSD/歐元區利率路徑 | 重點: Lane：能源通膨將影響薪資談判與定價；須抑制外溢；通膨須約一至兩年回目標；金融條件已收緊；出口意外強；財政較預期擴張但預期明年緊縮；「現在到12月先蒐集資訊再看12月怎麼做」；需充足流動性緩衝。見報時歐元美元約1.1170（約−0.4%） | 發布: FXStreet 2026-11-06 09:57 GMT（約17:57台北） | 抓取: 2026-11-07 00:08 (Asia/Taipei)</description>
-      <pubDate>Fri, 06 Nov 2026 17:57:00 +0800</pubDate>
-      <guid isPermaLink="false">aitrade-intel-202611061757-lane-energy-wages-dec</guid>
-    </item>
-    <item>
-      <title>NY Fed Williams at ECB Money Markets fireside (FXStreet 09:57 GMT / ~17:57 Taipei; Reuters via Investing): economy resilient; labour market stable/solid; 'Inflation too high for too long'; tariffs mostly behind; energy in airfares; narrow AI chip effect; essential timely return to 2%; policy 1–2y lag; expectations anchored, wage growth consistent; 'appropriate time to accumulate more information.'</title>
-      <link>https://www.fxstreet.com/news/feds-williams-appropriate-time-to-accumulate-more-information-202611060957</link>
-      <description>[事實] 影響: XAUUSD/DXY/美債殖利率/EURUSD | 重點: Williams：經濟與勞動市場具韌性；通膨「太高且太久」；關稅效應大多已過；能源反映於機票；AI對晶片價格影響狹窄；須及時回到2%；政策傳導約1–2年；預期穩固、薪資與目標一致；現為「累積更多資訊」適當時機 | 發布: FXStreet 2026-11-06 09:57 GMT（約17:57台北） | 抓取: 2026-11-07 00:08 (Asia/Taipei)</description>
-      <pubDate>Fri, 06 Nov 2026 17:56:00 +0800</pubDate>
-      <guid isPermaLink="false">aitrade-intel-202611061756-williams-accumulate-info</guid>
-    </item>
-    <item>
-      <title>BREAKING (Destatis PE26_389, 6 Nov 2026): Germany Sep industrial production +0.7% m/m sa/ca (vs ~0% street; Aug revised +1.0% from provisional +2.0%); +0.4% y/y calendar-adj; Q3 vs Q2 −0.4% (3m/3m). Auto +17.1% m/m, pharma +8.0%; construction −2.6%, machinery −6.5%; industry ex-energy/construction +1.7% m/m; energy −1.2%. TradingView calendar MoM actual 0.7 / fcst 0 / prev 1.0; its YoY SA print 0.55 vs Destatis calendar-adj +0.4% — source convention differs. EZ Sep retail sales actuals still UNKNOWN (TV calendar null at 16:12)</title>
-      <link>https://www.destatis.de/EN/Press/2026/11/PE26_389_421.html</link>
-      <description>[事實] 影響: EURUSD/XAUUSD/DXY | 重點: 德國聯邦統計局：9月工業產出季調／曆調月增+0.7%（街估約0%；8月上修為+1.0%，初值曾+2.0%）、年增曆調+0.4%；第三季較第二季三月比−0.4%。汽車+17.1%、製藥+8.0%；營建−2.6%、機械−6.5%；不含能源與營建工業+1.7%，能源−1.2%。TradingView日曆MoM實值0.7／預估0；其YoY SA 0.55與Destatis曆調年增+0.4%口徑不同。歐元區9月零售銷售實值此輪仍UNKNOWN | 發布: Destatis 2026-11-06（歐洲上午，約台北15:00前後） | 抓取: 2026-11-06 16:12 (Asia/Taipei)</description>
-      <pubDate>Fri, 06 Nov 2026 16:11:00 +0800</pubDate>
-      <guid isPermaLink="false">aitrade-intel-202611061611-de-ip-sep-07</guid>
     </item>
   </channel>
 </rss>
