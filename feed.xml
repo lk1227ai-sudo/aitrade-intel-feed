@@ -5,13 +5,27 @@
     <link>https://lk1227ai-sudo.github.io/aitrade-intel-feed/</link>
     <description>公開資訊彙整，非交易建議</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 11 Nov 2026 00:25:00 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 04:30:00 +0800</lastBuildDate>
     <item>
-      <title>Late US session ~00:20 Taipei Nov 11 (TradingView): OANDA XAUUSD 4033.16 (−107.5 / −2.60%; H 4146.74 L 4032.69, at new day low); COMEX GC1! 4049.6 (−1.58%; L 4040.8); DXY 102.333 (+0.65%; H 102.353); US02Y 4.746% (+18.0bp; H 4.755); US10Y 4.996% (+11.2bp, at day high); EURUSD 1.11538 (−0.62%); USDJPY 158.743 (+0.53%); GBPUSD 1.33276 (−0.85%); AUDUSD 0.68502 (−1.09%); WTI CL1! 85.77 (−1.24%). Reuters headline 22:55 Taipei: 'Gold falls more than 2% as CPI tops forecasts, lifting dollar and yields'</title>
+      <title>Dallas Fed Logan (energy conference, Nov 10; Reuters via Investing.com): 'It may be possible to move more rapidly' than September's 25bp; feels Fed needs to raise rates at least half a percentage point before pausing to take stock. Reuters: 2Y yield posted biggest rise since early Apr 2025; core PCE seen on track for +0.34% m/m in Oct. CME FedWatch Dec 50bp odds: 14.7% (14:45 UTC snapshot, MarketSpeaker) vs 11.7% (16:28 UTC, Cointelegraph); 25bp remains base case, hold 0%</title>
+      <link>https://www.investing.com/news/economy-news/investors-boost-odds-of-halfpoint-fed-hike-as-core-cpi-rise-meets-wallers-bar-5016055</link>
+      <description>[事實] 影響: XAUUSD/DXY/US02Y/USDJPY/EURUSD | 重點: 達拉斯Fed Logan稱可能需加快升息、暫停前至少再升50bp，與Waller同樣鷹派；FedWatch 12月升50bp機率各快照在約11.7%至14.7%之間，升25bp仍是主流 | 發布: 2026-11-10 時間UNKNOWN（Reuters原文時間未取得） | 抓取: 2026-11-11 04:30 (Asia/Taipei)</description>
+      <pubDate>Wed, 11 Nov 2026 04:25:00 +0800</pubDate>
+      <guid isPermaLink="false">aitrade-intel-202611110425-fed-logan-50bp-before-pause-fedwatch</guid>
+    </item>
+    <item>
+      <title>Late US session ~04:20 Taipei Nov 11 (TradingView): OANDA XAUUSD 4032.19 (−108.5 / −2.62%; H 4146.74 L 4013.64); COMEX GC1! 4037.8 (−1.86%; L 4020.8); DXY 102.249 (+0.56%; H 102.410); US02Y 4.731% (+16.5bp; H 4.769); US10Y 4.985% (+10.1bp; H 5.021); EURUSD 1.11635 (−0.54%); USDJPY 158.80 (+0.57%; H 158.849); GBPUSD 1.33459 (−0.71%); AUDUSD 0.68663 (−0.86%); WTI CL1! 86.31 (−0.62%). Reuters headline 03:10 Taipei: 'Gold falls nearly 3% as CPI tops forecasts, lifting dollar and yields'</title>
       <link>https://www.tradingview.com/symbols/XAUUSD/</link>
-      <description>[事實] 影響: XAUUSD/DXY/US02Y/US10Y/USDJPY/EURUSD/GBPUSD/AUDUSD | 重點: CPI後賣壓延續，現貨金再創日低約4032.7、日跌約2.6%，逼近4000整數關；美10年期殖利率升至約4.996%逼近5%、2年期日升約18bp，美元指數約102.33創日高 | 發布: 2026-11-11 00:20 (Asia/Taipei) | 抓取: 2026-11-11 00:25 (Asia/Taipei)</description>
-      <pubDate>Wed, 11 Nov 2026 00:20:00 +0800</pubDate>
-      <guid isPermaLink="false">aitrade-intel-202611110020-late-us-xau-4033-us10y-4996</guid>
+      <description>[事實] 影響: XAUUSD/DXY/US02Y/US10Y/USDJPY/EURUSD/GBPUSD/AUDUSD | 重點: 美盤尾段現貨金日低下探約4013.6、收在約4032附近，日跌約2.6%，未跌破4000整數關；美10年期殖利率盤中觸及約5.021%後回到約4.985%，美元指數約102.25 | 發布: 2026-11-11 04:20 (Asia/Taipei) | 抓取: 2026-11-11 04:30 (Asia/Taipei)</description>
+      <pubDate>Wed, 11 Nov 2026 04:20:00 +0800</pubDate>
+      <guid isPermaLink="false">aitrade-intel-202611110420-late-us-xau-4032-low-4013-us10y-5021</guid>
+    </item>
+    <item>
+      <title>US Treasury $42bn 10-year note auction (Nov 10, 13:00 ET / 02:00 Taipei Nov 11): high yield 5.020% vs WI 5.010% (1.0bp tail; avg −0.6bp); bid-to-cover 2.46x (avg 2.60x per investingLive; prior 10 auctions avg 2.54 per RTTNews; Oct 2.77 at 5.300%); indirects 61.2%, directs 29.0%, dealers 9.8%. investingLive grade D+. Next: 30Y $25bn Thu</title>
+      <link>https://investinglive.com/news/u-s-treasury-sells-42-billion-of-10-year-notes-at-a-high-yield-of-5-02/</link>
+      <description>[事實] 影響: US10Y/DXY/XAUUSD/USDJPY | 重點: 10年期美債標售得標殖利率5.020%、尾差1bp且投標倍數2.46低於均值，海外需求偏弱，殖利率盤中站上5%；各來源對「均值」計算口徑不同（2.60 vs 2.54） | 發布: 2026-11-11 02:07 (Asia/Taipei) | 抓取: 2026-11-11 04:30 (Asia/Taipei)</description>
+      <pubDate>Wed, 11 Nov 2026 02:07:00 +0800</pubDate>
+      <guid isPermaLink="false">aitrade-intel-202611110207-ust-10y-auction-5020-tail-1bp</guid>
     </item>
     <item>
       <title>Next 24h (Taipei) from ~22:35 Tue Nov 10: US 10Y $42bn auction Wed 02:00; API crude Wed 05:30; Reuters Tankan Wed 07:00; Wed Veterans Day US bond market closed; German Oct CPI final Wed 15:00. China Oct new loans/TSF release time UNKNOWN. Dec 8–9 FOMC pricing: 25bp fully priced, 50bp 13.6% (CNBC/CME FedWatch post-CPI)</title>
@@ -201,20 +215,6 @@
       <description>[事實] 影響: XAUUSD/DXY/US02Y/US10Y/EURUSD/USDJPY/GBPUSD | 重點: 美盤開盤後現貨金約4129.63（約+1.45%，日高約4134.14），較20:05約4107再升約22美元；美元指數約101.819（約−0.45%，貼近日低）；美10年約4.835%降約2.4bp、2年約4.522%；歐元美元約1.1198、鎊美約1.3419、美元日圓約157.92；WTI約86.85（約−4.4%） | 發布: 2026-11-09 22:25 (Asia/Taipei) | 抓取: 2026-11-09 22:25 (Asia/Taipei)</description>
       <pubDate>Mon, 09 Nov 2026 22:24:00 +0800</pubDate>
       <guid isPermaLink="false">aitrade-intel-202611092225-xau-4130-dxy-1018</guid>
-    </item>
-    <item>
-      <title>Kitco AM Report Nov 9: spot gold ~$4,124.74 (+1.33%), silver ~$52.759 (+1.57%) in early US trade on softer USD, lower crude and US-Iran diplomacy hopes. Rate futures ~79–81% odds of Dec 25bp hike (vs ~71% pre-NFP); 10Y ~4.87%, 2Y ~4.54% early Monday. CPI Tue 8:30 ET; Sep CPI +0.6% m/m, +3.7% y/y</title>
-      <link>https://www.kitco.com/news/article/2026-11-09/gold-silver-rise-iran-diplomacy-pressures-crude-dollar-weakens-kitco-am</link>
-      <description>[事實] 影響: XAUUSD/XAGUSD/DXY/美債殖利率 | 重點: Kitco美盤早報：現貨金約4124.74（+1.33%）、白銀約52.759，受美元轉弱、油價下跌與美伊外交期待支撐；利率期貨顯示12月升息25bp機率約79%–81%（非農前約71%）；CNBC引CME為81%、Investing.com.au為80.5%，各來源略有差異 | 發布: 2026-11-09 美東早盤（約21:30–22:00 Asia/Taipei） | 抓取: 2026-11-09 22:25 (Asia/Taipei)</description>
-      <pubDate>Mon, 09 Nov 2026 22:00:00 +0800</pubDate>
-      <guid isPermaLink="false">aitrade-intel-202611092200-kitco-am-gold-4125-hike-80</guid>
-    </item>
-    <item>
-      <title>Iran/oil headlines Nov 9: Trump (CNN, Sun) said renewed US strikes on Iran 'highly unlikely' if talks progress; Rubio called Iranian demands 'outrageous and ridiculous', no breakthrough near; Qatar PM to meet Trump at White House with Iranian interim Hormuz proposal (OilPrice citing Israeli-media sources: reopen Hormuz, lift blockade, release $8bn — UNCONFIRMED by either government). Shipping attacks near Hormuz and Houthi-claimed strike on Aramco Riyadh office over weekend. Brent ~$94–95 (−3.5%)</title>
-      <link>https://www.cnbc.com/2026/11/09/us-iran-war-trump-hormuz.html</link>
-      <description>[推測] 影響: XAUUSD/原油/USDJPY/USDCAD/DXY | 重點: 事實部分：川普稱談判有進展則「極不可能」再攻擊伊朗；Rubio稱伊朗要求「離譜」、未近突破（官方說法互相矛盾）；週末荷莫茲附近仍有船隻遇襲。傳言部分：據以色列媒體引外交消息，卡達總理攜伊朗臨時協議（重開荷莫茲、解除封鎖、釋放80億美元）赴白宮，兩國政府均未證實。油價大跌是今日金價與通膨預期降溫主因之一 | 發布: 2026-11-09 19:09–21:30 (Asia/Taipei) | 抓取: 2026-11-09 22:25 (Asia/Taipei)</description>
-      <pubDate>Mon, 09 Nov 2026 21:30:00 +0800</pubDate>
-      <guid isPermaLink="false">aitrade-intel-202611092130-iran-qatar-deal-rumor-oil</guid>
     </item>
   </channel>
 </rss>
