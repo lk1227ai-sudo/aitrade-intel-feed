@@ -5,7 +5,14 @@
     <link>https://lk1227ai-sudo.github.io/aitrade-intel-feed/</link>
     <description>公開資訊彙整，非交易建議</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 11 Nov 2026 22:30:00 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 00:15:00 +0800</lastBuildDate>
+    <item>
+      <title>Late evening ~00:13 Taipei Nov 12 (TradingView): OANDA XAUUSD 4004.36 (-28.16 / -0.70%; H 4067.10 L 4000.76), now below FXStreet 50% Fib support 4,008 and testing the $4,000 mark; COMEX GC1! 4010.7 (-0.48%; L 4008.1); DXY 102.862 (+0.63%; H 102.961); EURUSD 1.1097 (-0.60%; L 1.10826); USDJPY 159.79 (+0.66%; H 159.894); GBPUSD 1.3281 (-0.47%); AUDUSD 0.68525 (-0.20%); US02Y 4.746%, US10Y 5.000% (US cash Treasuries closed for Veterans Day); WTI CL1! 87.93 (+2.20%; H 88.74). Reuters headline 23:12 Taipei: 'Gold sheds gains as hot inflation figures, higher dollar weigh'</title>
+      <link>https://www.tradingview.com/news/reuters.com,2026:newsml_L2N46S0JV:0-gold-sheds-gains-as-hot-inflation-figures-higher-dollar-weigh/</link>
+      <description>[事實] 影響: XAUUSD/DXY/EURUSD/USDJPY/GBPUSD/WTI | 重點: 現貨金回吐日內漲幅並轉跌約0.7%至約4004、日低4000.76，已跌破FXStreet所列50%斐波那契支撐4008、測試4000整數關；美元指數約102.86、美元兌日圓日高159.89逼近160、歐元兌美元日低1.1083；Reuters標題歸因於通膨數據偏熱與美元走強 | 發布: 2026-11-11 23:12 (Asia/Taipei，Reuters標題) / 報價 2026-11-12 00:13 | 抓取: 2026-11-12 00:15 (Asia/Taipei)</description>
+      <pubDate>Thu, 12 Nov 2026 00:13:00 +0800</pubDate>
+      <guid isPermaLink="false">aitrade-intel-202611120013-late-xau-tests-4000-usdjpy-159-9</guid>
+    </item>
     <item>
       <title>US open ~22:26 Taipei Nov 11 (TradingView): DXY 102.925 (+0.69%; H 102.929, new session high); EURUSD 1.10861 (-0.70%; L 1.10849, below the 2026 low ~1.1105 cited by Capital Street FX); USDJPY 159.637 (+0.56%; H 159.640); GBPUSD 1.32696 (-0.55%); AUDUSD 0.68508 (-0.22%); OANDA XAUUSD 4029.60 (-2.92 / -0.07%; H 4067.10 L 4026.60), giving back the Asia/Europe gain; COMEX GC1! 4038.2 (+0.20%; L 4034.1); US02Y 4.746%, US10Y 5.000% (US cash Treasuries closed for Veterans Day); WTI CL1! 87.08 (+1.21%). Reuters headline 20:37 Taipei: 'Dollar firms as hot inflation, hawkish Fed talk lift rate-hike bets'; Dow Jones Market Talk 20:20 Taipei: dollar strength could persist on US rate-rise prospects</title>
       <link>https://live.euronext.com/en/financial-news/dollar-gains-hot-inflation-hawkish-fed-talk-lift-rate-hike-bets</link>
@@ -208,13 +215,6 @@
       <description>[事實] 影響: XAUUSD/DXY/US02Y/US10Y/EURUSD/USDJPY/GBPUSD/AUDUSD/USDCNH | 重點: 午盤現貨金回落約0.76%至約4109.3、接近日內低點4108.2，美元指數約101.69持平、美債殖利率小跌，市場等今晚21:30美國CPI；附註[推測]：路透技術分析標題稱現貨金偏向回測4033（僅標題、內文付費，細節UNKNOWN） | 發布: 2026-11-10 12:10 (Asia/Taipei) | 抓取: 2026-11-10 12:15 (Asia/Taipei)</description>
       <pubDate>Tue, 10 Nov 2026 12:10:00 +0800</pubDate>
       <guid isPermaLink="false">aitrade-intel-202611101210-midday-xau-4109</guid>
-    </item>
-    <item>
-      <title>China Oct 2026 trade (GAC, 11:00 Taipei; TradingView calendar): exports +35.2% y/y USD (fcst 33.5; prior 36.3); imports +41.6% y/y (fcst 32; prior 31); trade surplus $105.28bn (fcst $125.8bn; prior $133.53bn). CNY terms: exports +28.7% y/y, imports +34.7%, surplus ¥712.8bn</title>
-      <link>https://www.tradingview.com/economic-calendar/</link>
-      <description>[事實] 影響: USDCNH/AUDUSD/XAUUSD | 重點: 中國10月出口年增35.2%略高於預估33.5%，進口年增41.6%遠高於預估32%，順差1052.8億美元低於預估1258億；公布後離岸人民幣約6.668變化不大 | 發布: 2026-11-10 11:00 (Asia/Taipei) | 抓取: 2026-11-10 12:15 (Asia/Taipei)</description>
-      <pubDate>Tue, 10 Nov 2026 11:00:00 +0800</pubDate>
-      <guid isPermaLink="false">aitrade-intel-202611101100-china-trade-oct</guid>
     </item>
   </channel>
 </rss>
