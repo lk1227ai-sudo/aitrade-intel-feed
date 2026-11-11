@@ -5,7 +5,28 @@
     <link>https://lk1227ai-sudo.github.io/aitrade-intel-feed/</link>
     <description>公開資訊彙整，非交易建議</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 11 Nov 2026 04:30:00 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 08:20:00 +0800</lastBuildDate>
+    <item>
+      <title>Next ~32h (Taipei) from 08:20 Wed Nov 11: Wed US Veterans Day, cash Treasury market closed; German Oct CPI final Wed 15:00; Thu Japan Oct PPI (time UNKNOWN); Thu 15:00 UK Q3 GDP first estimate (consensus +0.7% q/q, prior +0.5%) and Sep m/m (forecasts split). US initial jobless claims timing conflicts: Thu Nov 12 08:30 ET / 21:30 Taipei (VFunded, Globe and Mail) vs Fri Nov 13 per ITC calendar. US Oct PPI Fri Nov 13 08:30 ET / 21:30 Taipei (consensus +0.4% m/m, prior +1.3%)</title>
+      <link>https://www.vfunded.com/blog/week-ahead-2026-11-09/</link>
+      <description>[事實] 影響: XAUUSD/DXY/GBPUSD/EURUSD/USDJPY | 重點: 未來約32小時重點為週三美債休市、德國CPI終值及週四英國Q3 GDP；美國初領失業金時間各日曆不一致（週四或週五），PPI排在週五晚間 | 發布: 2026-11-11 08:20 (Asia/Taipei，彙整) | 抓取: 2026-11-11 08:20 (Asia/Taipei)</description>
+      <pubDate>Wed, 11 Nov 2026 08:20:00 +0800</pubDate>
+      <guid isPermaLink="false">aitrade-intel-202611110820-next-32h-uk-gdp-claims-timing-conflict</guid>
+    </item>
+    <item>
+      <title>Asia open ~08:15 Taipei Nov 11 (TradingView): OANDA XAUUSD 4042.07 (session H 4042.14 L 4031.06); COMEX GC1! 4047.7 (H 4047.8 L 4038.3); DXY 102.217; US02Y 4.746%; US10Y 5.000%; EURUSD 1.11675; USDJPY 158.75; GBPUSD 1.33484; AUDUSD 0.68717; WTI CL1! 86.15. FXBus (07:46 Taipei): Tue spot close 4032.73 (low 4013.53, ~1-week low); Dec GC settled 4030.20 (−2.0%); 2Y +18.44bp to 4.731% (largest daily rise since early Apr 2025), 10Y +12.6bp to 4.99% (highest since Oct 29); DXY closed +0.58% at 102.24</title>
+      <link>https://www.tradingview.com/symbols/XAUUSD/</link>
+      <description>[事實] 影響: XAUUSD/DXY/US02Y/US10Y/USDJPY/EURUSD/GBPUSD/AUDUSD | 重點: 亞洲早盤現貨金在約4031至4042窄幅整理，仍守在4000整數關上方；美10年期殖利率報約5.00%、美元指數約102.2，CPI後的高殖利率與強美元格局未變；週三美國退伍軍人節債市休市，亞歐時段美債流動性可能較低 | 發布: 2026-11-11 08:15 (Asia/Taipei) | 抓取: 2026-11-11 08:20 (Asia/Taipei)</description>
+      <pubDate>Wed, 11 Nov 2026 08:15:00 +0800</pubDate>
+      <guid isPermaLink="false">aitrade-intel-202611110815-asia-open-xau-4042-us10y-500</guid>
+    </item>
+    <item>
+      <title>Reuters Tankan Nov 2026 (released Nov 11, ~07:00 Taipei; poll Oct 27–Nov 6, 214 of 508 firms): manufacturers +27 (Oct +22; highest since Aug 2021); non-manufacturers +35 (Oct +23; highest since Jun 2018). Electronics +39 (from +25), precision machinery +42 (from +38). Outlook Feb: mfrs +28, non-mfrs +29. Firms cite rising prices and higher rates weighing; some struggle to pass on costs</title>
+      <link>https://investinglive.com/news/reuters-tankan-japan-manufacturer-mood-hits-27-highest-in-over-five-years-on-chips/</link>
+      <description>[事實] 影響: USDJPY/JPY交叉盤 | 重點: 日本Reuters短觀製造業+27創2021年8月以來新高、非製造業+35創2018年6月以來新高，企業信心強與勞動市場緊俏，是BoJ評估是否加快升息的參考之一（對日圓的實際影響屬推測） | 發布: 2026-11-11 07:00 (Asia/Taipei，依Reuters例行時間，原文時間UNKNOWN) | 抓取: 2026-11-11 08:20 (Asia/Taipei)</description>
+      <pubDate>Wed, 11 Nov 2026 07:00:00 +0800</pubDate>
+      <guid isPermaLink="false">aitrade-intel-202611110700-reuters-tankan-nov-mfr-27-nonmfr-35</guid>
+    </item>
     <item>
       <title>Dallas Fed Logan (energy conference, Nov 10; Reuters via Investing.com): 'It may be possible to move more rapidly' than September's 25bp; feels Fed needs to raise rates at least half a percentage point before pausing to take stock. Reuters: 2Y yield posted biggest rise since early Apr 2025; core PCE seen on track for +0.34% m/m in Oct. CME FedWatch Dec 50bp odds: 14.7% (14:45 UTC snapshot, MarketSpeaker) vs 11.7% (16:28 UTC, Cointelegraph); 25bp remains base case, hold 0%</title>
       <link>https://www.investing.com/news/economy-news/investors-boost-odds-of-halfpoint-fed-hike-as-core-cpi-rise-meets-wallers-bar-5016055</link>
@@ -26,13 +47,6 @@
       <description>[事實] 影響: US10Y/DXY/XAUUSD/USDJPY | 重點: 10年期美債標售得標殖利率5.020%、尾差1bp且投標倍數2.46低於均值，海外需求偏弱，殖利率盤中站上5%；各來源對「均值」計算口徑不同（2.60 vs 2.54） | 發布: 2026-11-11 02:07 (Asia/Taipei) | 抓取: 2026-11-11 04:30 (Asia/Taipei)</description>
       <pubDate>Wed, 11 Nov 2026 02:07:00 +0800</pubDate>
       <guid isPermaLink="false">aitrade-intel-202611110207-ust-10y-auction-5020-tail-1bp</guid>
-    </item>
-    <item>
-      <title>Next 24h (Taipei) from ~22:35 Tue Nov 10: US 10Y $42bn auction Wed 02:00; API crude Wed 05:30; Reuters Tankan Wed 07:00; Wed Veterans Day US bond market closed; German Oct CPI final Wed 15:00. China Oct new loans/TSF release time UNKNOWN. Dec 8–9 FOMC pricing: 25bp fully priced, 50bp 13.6% (CNBC/CME FedWatch post-CPI)</title>
-      <link>https://www.tradingview.com/economic-calendar/</link>
-      <description>[事實] 影響: XAUUSD/DXY/US10Y/USDJPY/EURUSD/USDCNH | 重點: CPI已公布，接下來焦點是週三凌晨02:00美國10年期420億美元標售（週一3年期標售需求偏弱）；週三美國退伍軍人節債市休市；中國10月新增貸款公布時間UNKNOWN；10月CPI年增率BLS不公布，任何年增實際值說法都不是官方數據 | 發布: 2026-11-10 22:35 (Asia/Taipei) | 抓取: 2026-11-10 22:35 (Asia/Taipei)</description>
-      <pubDate>Tue, 10 Nov 2026 22:35:00 +0800</pubDate>
-      <guid isPermaLink="false">aitrade-intel-202611102235-next24h-10y-auction-veterans-day</guid>
     </item>
     <item>
       <title>Post-CPI ~22:30 Taipei Nov 10 (TradingView): OANDA XAUUSD 4051.48 (−89.2 / −2.15%; H 4146.74 L 4039.72); COMEX GC1! 4061.1 (−1.30%; L 4046.4); DXY 101.996 (+0.31%; H 102.064); US02Y 4.708% (+14.2bp; H 4.719); US10Y 4.971% (+8.7bp; H 4.975); EURUSD 1.11919 (−0.28%); USDJPY 158.567 (+0.42%); GBPUSD 1.33922 (−0.36%); AUDUSD 0.68752 (−0.73%). Kitco: spot gold $4,054.90 (−2%); FXStreet: XAUUSD ~$4,052, holding above 20-day SMA ~$4,061 at time of writing</title>
@@ -201,20 +215,6 @@
       <description>[事實] 影響: XAUUSD/DXY/美債殖利率 | 重點: 紐約Fed 10月消費者預期調查：一年、三年、五年通膨預期中位數持平於3.9%、3.3%、3.0%（未再升）；預期一年後失業率上升的機率升1.4個百分點至45.3%，為2020年4月以來最高；汽油價格預期降0.6至4.2%，房租預期升0.9至7.7% | 發布: 2026-11-10 00:00 (Asia/Taipei) | 抓取: 2026-11-10 00:10 (Asia/Taipei)</description>
       <pubDate>Tue, 10 Nov 2026 00:00:00 +0800</pubDate>
       <guid isPermaLink="false">aitrade-intel-202611100000-nyfed-sce-oct-1y-39</guid>
-    </item>
-    <item>
-      <title>Chicago Fed Goolsbee (Leadership Greater Chicago Q&amp;A, Nov 9 ~23:00 Taipei; FXStreet/investingLive/Seeking Alpha): 'We've got to come to terms with... inflation side failure'; employment and growth 'pretty stable'; inflation kicking up in services beyond oil/tariffs; AI data-center buildout 'starting to look more like old-fashioned demand overheating'. investingLive: Dec hike priced ~84%</title>
-      <link>https://www.fxstreet.com/news/feds-goolsbee-warns-services-inflation-goes-beyond-tariff-pressure-202611091537</link>
-      <description>[事實] 影響: XAUUSD/DXY/US02Y/主要貨幣對 | 重點: 芝加哥Fed總裁Goolsbee稱Fed必須正視通膨目標的「失敗」，就業與成長大致穩定，服務業通膨回升且非僅油價或關稅所致，AI資料中心建設看似「傳統的需求過熱」；偏鷹。investingLive稱市場12月升息定價約84%（其他來源約80%–81%，數字不一） | 發布: 2026-11-09 23:30 (Asia/Taipei) | 抓取: 2026-11-10 00:10 (Asia/Taipei)</description>
-      <pubDate>Mon, 09 Nov 2026 23:30:00 +0800</pubDate>
-      <guid isPermaLink="false">aitrade-intel-202611092330-goolsbee-inflation-failure</guid>
-    </item>
-    <item>
-      <title>US morning ~22:25 Taipei Nov 9 (TradingView): OANDA XAUUSD 4129.63 (+59.04 / +1.45%; H 4134.14 L 4054.40); COMEX GC1! 4129.1 (+1.33%; H 4143.3); DXY 101.819 (−0.45%; L 101.782); US02Y 4.522% (+1.0bp); US10Y 4.835% (−2.4bp); EURUSD 1.11983 (+0.56%); USDJPY 157.918 (−0.35%); GBPUSD 1.34193 (+0.58%); WTI CL1! 86.85 (−4.38%)</title>
-      <link>https://www.tradingview.com/symbols/XAUUSD/</link>
-      <description>[事實] 影響: XAUUSD/DXY/US02Y/US10Y/EURUSD/USDJPY/GBPUSD | 重點: 美盤開盤後現貨金約4129.63（約+1.45%，日高約4134.14），較20:05約4107再升約22美元；美元指數約101.819（約−0.45%，貼近日低）；美10年約4.835%降約2.4bp、2年約4.522%；歐元美元約1.1198、鎊美約1.3419、美元日圓約157.92；WTI約86.85（約−4.4%） | 發布: 2026-11-09 22:25 (Asia/Taipei) | 抓取: 2026-11-09 22:25 (Asia/Taipei)</description>
-      <pubDate>Mon, 09 Nov 2026 22:24:00 +0800</pubDate>
-      <guid isPermaLink="false">aitrade-intel-202611092225-xau-4130-dxy-1018</guid>
     </item>
   </channel>
 </rss>
