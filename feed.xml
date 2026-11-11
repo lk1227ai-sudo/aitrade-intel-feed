@@ -5,11 +5,25 @@
     <link>https://lk1227ai-sudo.github.io/aitrade-intel-feed/</link>
     <description>公開資訊彙整，非交易建議</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 11 Nov 2026 20:30:00 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 22:30:00 +0800</lastBuildDate>
     <item>
-      <title>Next ~25h (Taipei) from 20:30 Wed Nov 11: Japan Oct PPI Thu 07:50 (Octa fcst +6.5% y/y, prior +6.8%); UK RICS house price balance Thu 08:01 (fcst -34, prior -32); UK Q3 GDP prelim Thu 15:00 (fcst +0.7% q/q, +1.9% y/y; Sep m/m fcst 0.0%); US initial jobless claims Thu 21:30 (fcst 195K, prior 189K); US existing home sales Thu 23:00 (fcst 3.85M, prior 3.99M); US 30Y $25bn auction Thu (time UNKNOWN); US Oct PPI Fri 21:30. OPEC MOMR scheduled Wed Nov 11: content UNKNOWN at time of writing</title>
+      <title>US open ~22:26 Taipei Nov 11 (TradingView): DXY 102.925 (+0.69%; H 102.929, new session high); EURUSD 1.10861 (-0.70%; L 1.10849, below the 2026 low ~1.1105 cited by Capital Street FX); USDJPY 159.637 (+0.56%; H 159.640); GBPUSD 1.32696 (-0.55%); AUDUSD 0.68508 (-0.22%); OANDA XAUUSD 4029.60 (-2.92 / -0.07%; H 4067.10 L 4026.60), giving back the Asia/Europe gain; COMEX GC1! 4038.2 (+0.20%; L 4034.1); US02Y 4.746%, US10Y 5.000% (US cash Treasuries closed for Veterans Day); WTI CL1! 87.08 (+1.21%). Reuters headline 20:37 Taipei: 'Dollar firms as hot inflation, hawkish Fed talk lift rate-hike bets'; Dow Jones Market Talk 20:20 Taipei: dollar strength could persist on US rate-rise prospects</title>
+      <link>https://live.euronext.com/en/financial-news/dollar-gains-hot-inflation-hawkish-fed-talk-lift-rate-hike-bets</link>
+      <description>[事實] 影響: XAUUSD/DXY/EURUSD/USDJPY/GBPUSD/AUDUSD | 重點: 美盤前美元全面走強，美元指數升至約102.93日內新高，歐元兌美元跌破今年低點約1.1105至1.1086、美元兌日圓升至159.64逼近160，現貨金回吐日內漲幅回到約4030、接近日低4026.6；主因仍為CPI偏熱與Fed升息預期（Reuters） | 發布: 2026-11-11 20:37 (Asia/Taipei，Reuters標題) / 報價 22:26 | 抓取: 2026-11-11 22:30 (Asia/Taipei)</description>
+      <pubDate>Wed, 11 Nov 2026 22:26:00 +0800</pubDate>
+      <guid isPermaLink="false">aitrade-intel-202611112226-us-open-dxy-102-9-eurusd-ytd-low-xau-4030</guid>
+    </item>
+    <item>
+      <title>OPEC MOMR Nov 2026 (released Wed Nov 11; Anadolu 16:14 TRT / 21:14 Taipei): 2026 world oil demand growth unchanged at +180k bpd to 105.72M bpd; 2027 unchanged at +2.55M bpd to 108.28M bpd. OPEC crude output (secondary sources) +1.97M bpd to ~27.16M bpd in Oct; Saudi +1.18M to ~9.19M bpd, Iraq +496k to 4.49M, Iran -44k to ~1.91M. OPEC+ total +2.04M to 41.23M bpd. Source discrepancy: ScanX reports Saudi told OPEC (direct communication) output rose 26% to 10.6M bpd, vs ~9.19M in Anadolu's secondary-source figure</title>
+      <link>https://www.aa.com.tr/en/energy/oil/opec-crude-production-rises-by-nearly-2-million-bpd-in-october/60890</link>
+      <description>[事實] 影響: WTI/XAUUSD/USDCAD | 重點: OPEC 11月月報維持2026與2027年全球石油需求成長預估不變，10月OPEC原油產量大增約197萬桶/日至約2716萬桶/日（沙烏地帶頭）；沙國產量有9.19百萬（次級來源）與10.6百萬（自報）兩種數字，屬口徑差異（[推測]） | 發布: 2026-11-11 21:14 (Asia/Taipei，Anadolu) | 抓取: 2026-11-11 22:30 (Asia/Taipei)</description>
+      <pubDate>Wed, 11 Nov 2026 21:14:00 +0800</pubDate>
+      <guid isPermaLink="false">aitrade-intel-202611112114-opec-momr-nov-demand-unchanged-output-up</guid>
+    </item>
+    <item>
+      <title>Next ~25h (Taipei) from 20:30 Wed Nov 11: Japan Oct PPI Thu 07:50 (Octa fcst +6.5% y/y, prior +6.8%); UK RICS house price balance Thu 08:01 (fcst -34, prior -32); UK Q3 GDP prelim Thu 15:00 (fcst +0.7% q/q, +1.9% y/y; Sep m/m fcst 0.0%); US initial jobless claims Thu 21:30 (fcst 195K, prior 189K); US existing home sales Thu 23:00 (fcst 3.85M, prior 3.99M); US 30Y $25bn auction Thu (time UNKNOWN); US Oct PPI Fri 21:30. OPEC MOMR released Wed Nov 11 (see separate item)</title>
       <link>https://www.tradingview.com/economic-calendar/</link>
-      <description>[事實] 影響: XAUUSD/DXY/GBPUSD/USDJPY | 重點: 今晚美國公債休市，接下來重點為週四07:50日本PPI、15:00英國Q3 GDP（預估季增0.7%）、21:30美國初領失業金（預估19.5萬）與23:00成屋銷售，週五21:30美國PPI；今日OPEC月報內容UNKNOWN | 發布: 2026-11-11 20:30 (Asia/Taipei，彙整) | 抓取: 2026-11-11 20:25 (Asia/Taipei)</description>
+      <description>[事實] 影響: XAUUSD/DXY/GBPUSD/USDJPY | 重點: 今晚美國公債休市，接下來重點為週四07:50日本PPI、15:00英國Q3 GDP（預估季增0.7%）、21:30美國初領失業金（預估19.5萬）與23:00成屋銷售，週五21:30美國PPI；今日OPEC月報已公布（見另一則） | 發布: 2026-11-11 20:30 (Asia/Taipei，彙整) | 抓取: 2026-11-11 20:25 (Asia/Taipei)</description>
       <pubDate>Wed, 11 Nov 2026 20:30:00 +0800</pubDate>
       <guid isPermaLink="false">aitrade-intel-202611112030-next-25h-japan-ppi-uk-gdp-claims</guid>
     </item>
@@ -201,20 +215,6 @@
       <description>[事實] 影響: USDCNH/AUDUSD/XAUUSD | 重點: 中國10月出口年增35.2%略高於預估33.5%，進口年增41.6%遠高於預估32%，順差1052.8億美元低於預估1258億；公布後離岸人民幣約6.668變化不大 | 發布: 2026-11-10 11:00 (Asia/Taipei) | 抓取: 2026-11-10 12:15 (Asia/Taipei)</description>
       <pubDate>Tue, 10 Nov 2026 11:00:00 +0800</pubDate>
       <guid isPermaLink="false">aitrade-intel-202611101100-china-trade-oct</guid>
-    </item>
-    <item>
-      <title>Australia NAB Oct business survey (00:30 GMT / 08:30 Taipei; TradingView calendar): business confidence −15 (prior −14); business conditions −2 (prior −1)</title>
-      <link>https://business.nab.com.au/</link>
-      <description>[事實] 影響: AUDUSD | 重點: 澳洲10月NAB企業信心−15（前值−14）、企業現況−2（前值−1），雙雙再走弱；無市場預估值（UNKNOWN） | 發布: 2026-11-10 08:30 (Asia/Taipei) | 抓取: 2026-11-10 12:15 (Asia/Taipei)</description>
-      <pubDate>Tue, 10 Nov 2026 08:30:00 +0800</pubDate>
-      <guid isPermaLink="false">aitrade-intel-202611100830-au-nab-oct</guid>
-    </item>
-    <item>
-      <title>Asia open ~08:05 Taipei Nov 10 (TradingView): OANDA XAUUSD 4137.68 (session H 4146.74 L 4135.01); COMEX GC1! 4148.4 (H 4156.2); DXY 101.677; US02Y 4.566%; US10Y 4.884% (vs 4.862% at 04:10); EURUSD 1.12212; USDJPY 158.00; GBPUSD 1.34411; AUDUSD 0.69206; WTI CL1! 86.46 (−0.45%)</title>
-      <link>https://www.tradingview.com/symbols/XAUUSD/</link>
-      <description>[事實] 影響: XAUUSD/DXY/US02Y/US10Y/EURUSD/USDJPY/GBPUSD/AUDUSD | 重點: 亞洲早盤現貨金約4137.7，在4135–4147窄幅整理、守住週一漲幅；美元指數約101.68持平；美10年殖利率升至約4.884%（較04:10高約2bp），美元日圓回到158.00；WTI小跌至約86.46 | 發布: 2026-11-10 08:05 (Asia/Taipei) | 抓取: 2026-11-10 08:20 (Asia/Taipei)</description>
-      <pubDate>Tue, 10 Nov 2026 08:05:00 +0800</pubDate>
-      <guid isPermaLink="false">aitrade-intel-202611100805-asia-xau-4137-usdjpy-158</guid>
     </item>
   </channel>
 </rss>
