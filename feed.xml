@@ -5,7 +5,21 @@
     <link>https://lk1227ai-sudo.github.io/aitrade-intel-feed/</link>
     <description>公開資訊彙整，非交易建議</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 12 Nov 2026 00:15:00 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 04:25:00 +0800</lastBuildDate>
+    <item>
+      <title>Late US session ~04:20 Taipei Nov 12 (TradingView): OANDA XAUUSD 3983.93 (-48.59 / -1.20%; H 4067.10 L 3982.69), below $4,000 and FXStreet 50% Fib 4,008, next cited support 61.8% Fib 3,975; COMEX GC1! 3992.8 (-0.93%; L 3989.6); DXY 102.904 (+0.67%; H 102.962); EURUSD 1.10921 (-0.65%; L 1.10826); USDJPY 159.872 (+0.71%; H 159.937); GBPUSD 1.32776 (-0.49%); AUDUSD 0.68495 (-0.24%); US02Y 4.746%, US10Y 5.000% (cash Treasuries closed for Veterans Day). Seeking Alpha 03:09 Taipei: DXY 102.92 is a 19-month high (last seen Apr 10, 2025), +4.7% YTD; Dow Jones 03:19 Taipei: 'Gold Futures Slip Back Under $4,000 Level'</title>
+      <link>https://www.tradingview.com/news/seekingalpha:24097bae4094b:0-dollar-index-crossed-a-19-month-high-as-the-greenback-continues-to-rally/</link>
+      <description>[事實] 影響: XAUUSD/DXY/EURUSD/USDJPY/GBPUSD/AUDUSD | 重點: 現貨金跌破4000至約3984（日跌約1.2%、日低3982.69），期金GC1!也跌破4000；美元指數102.9創19個月高（上次在2025-04-10），美元兌日圓日高159.94逼近160；下一個被引用的支撐是FXStreet列的61.8%斐波那契3975 | 發布: 2026-11-12 03:09 (Asia/Taipei，Seeking Alpha) / 03:19 (Dow Jones標題) / 報價 2026-11-12 04:20 | 抓取: 2026-11-12 04:25 (Asia/Taipei)</description>
+      <pubDate>Thu, 12 Nov 2026 04:20:00 +0800</pubDate>
+      <guid isPermaLink="false">aitrade-intel-202611120420-xau-below-4000-dxy-19m-high</guid>
+    </item>
+    <item>
+      <title>dpa-AFX/RTTNews (02:52 Taipei Nov 12): Comex Dec gold -$31.20 (-0.77%) to $3,999.00, silver +1.56% to $52.025; attributes drop to hawkish Fed talk (Bowman: inflation broadening, more work on rates; Logan: two more hikes possibly rapidly; Paulson) and Iran hardening stance (Rezaei: US talk of Qatar meeting 'lies', no enriched material leaves Iran; Ghalibaf: 'ball is in US court'). CME FedWatch here: 87.1% 25bp / 12.9% 50bp for Dec 8-9 vs Reuters' earlier 100%-hike framing. Oil discrepancy: RTT says Dec WTI -1.19% at $87.06, while TradingView CL1! shows 86.33 +0.34%</title>
+      <link>https://www.tradingview.com/news/dpa_afx:9b95c4045d887:0-gold-slides-as-u-s-dollar-moves-higher-due-to-renewed-inflation-concerns/</link>
+      <description>[事實] 影響: XAUUSD/XAGUSD/DXY/WTI | 重點: RTTNews歸因金價下跌於Fed官員鷹派發言與伊朗對美強硬（否認卡達會談、拒絕移出濃縮鈾）；FedWatch顯示12月升息25bp機率87.1%、50bp 12.9%；白銀逆勢漲1.56%；原油報價來源不一致（RTT稱WTI跌1.19%至87.06，TradingView CL1!顯示86.33漲0.34%，可能是合約月份不同，原因UNKNOWN） | 發布: 2026-11-12 02:52 (Asia/Taipei) | 抓取: 2026-11-12 04:25 (Asia/Taipei)</description>
+      <pubDate>Thu, 12 Nov 2026 02:52:00 +0800</pubDate>
+      <guid isPermaLink="false">aitrade-intel-202611120252-rtt-gold-3999-iran-fedwatch</guid>
+    </item>
     <item>
       <title>Late evening ~00:13 Taipei Nov 12 (TradingView): OANDA XAUUSD 4004.36 (-28.16 / -0.70%; H 4067.10 L 4000.76), now below FXStreet 50% Fib support 4,008 and testing the $4,000 mark; COMEX GC1! 4010.7 (-0.48%; L 4008.1); DXY 102.862 (+0.63%; H 102.961); EURUSD 1.1097 (-0.60%; L 1.10826); USDJPY 159.79 (+0.66%; H 159.894); GBPUSD 1.3281 (-0.47%); AUDUSD 0.68525 (-0.20%); US02Y 4.746%, US10Y 5.000% (US cash Treasuries closed for Veterans Day); WTI CL1! 87.93 (+2.20%; H 88.74). Reuters headline 23:12 Taipei: 'Gold sheds gains as hot inflation figures, higher dollar weigh'</title>
       <link>https://www.tradingview.com/news/reuters.com,2026:newsml_L2N46S0JV:0-gold-sheds-gains-as-hot-inflation-figures-higher-dollar-weigh/</link>
@@ -201,20 +215,6 @@
       <description>[事實] 影響: XAUUSD/DXY/US02Y | 重點: 路透稱金價因前一日大漲後獲利了結而回落0.6%，CME FedWatch顯示12月升息機率84%；Barkin稱通膨仍是最大風險、12月沒有既定立場；附註[推測]：分析師Kyle Rodda認為若中東不升級、油價續跌將對金價有利 | 發布: 2026-11-10 12:30 (Asia/Taipei) | 抓取: 2026-11-10 16:10 (Asia/Taipei)</description>
       <pubDate>Tue, 10 Nov 2026 12:30:00 +0800</pubDate>
       <guid isPermaLink="false">aitrade-intel-202611101230-reuters-gold-fedwatch-84</guid>
-    </item>
-    <item>
-      <title>FXStreet XAUUSD technical view (Nov 10, 04:28 GMT / 12:28 Taipei): gold pulled back from 3-week high $4,149 before CPI. Resistance $4,185–4,190 (38.2% Fib 4,185.36 / 50-day SMA 4,187.32), then 100-day SMA ~4,201.62, 50% Fib 4,283.11. Support 21-day SMA ~4,067.85 and 23.6% Fib 4,064.42; deeper anchor low 3,868.92. Price below 50/100/200-day SMAs; RSI just above 50</title>
-      <link>https://www.fxstreet.com/analysis/4-150-remains-a-tough-nut-to-crack-for-gold-as-us-cpi-report-looms-202611100428</link>
-      <description>[推測] 影響: XAUUSD | 重點: FXStreet技術面看法：上方壓力4185–4190（費波38.2%與50日均線）再看4201.6，下方支撐約4067.9與4064.4，金價仍在50/100/200日均線下方、整體結構偏弱 | 發布: 2026-11-10 12:28 (Asia/Taipei) | 抓取: 2026-11-10 16:10 (Asia/Taipei)</description>
-      <pubDate>Tue, 10 Nov 2026 12:28:00 +0800</pubDate>
-      <guid isPermaLink="false">aitrade-intel-202611101228-fxstreet-xau-tech-4185-4068</guid>
-    </item>
-    <item>
-      <title>Midday Asia ~12:10 Taipei Nov 10 (TradingView): OANDA XAUUSD 4109.26 (−31.4 / −0.76%; H 4146.74 L 4108.22, near session low); COMEX GC1! 4119.9; DXY 101.688 (flat); US02Y 4.555% (−1.1bp); US10Y 4.868% (−1.6bp); EURUSD 1.12211; USDJPY 157.985; GBPUSD 1.34422; AUDUSD 0.69168; USDCNH 6.6684; WTI CL1! 85.87 (−1.13%). Reuters headlines: 'Gold edges lower as focus shifts to US inflation data' (10:58), 'Spot gold biased to retrace toward $4,033' (technical view, 11:50)</title>
-      <link>https://www.tradingview.com/symbols/XAUUSD/</link>
-      <description>[事實] 影響: XAUUSD/DXY/US02Y/US10Y/EURUSD/USDJPY/GBPUSD/AUDUSD/USDCNH | 重點: 午盤現貨金回落約0.76%至約4109.3、接近日內低點4108.2，美元指數約101.69持平、美債殖利率小跌，市場等今晚21:30美國CPI；附註[推測]：路透技術分析標題稱現貨金偏向回測4033（僅標題、內文付費，細節UNKNOWN） | 發布: 2026-11-10 12:10 (Asia/Taipei) | 抓取: 2026-11-10 12:15 (Asia/Taipei)</description>
-      <pubDate>Tue, 10 Nov 2026 12:10:00 +0800</pubDate>
-      <guid isPermaLink="false">aitrade-intel-202611101210-midday-xau-4109</guid>
     </item>
   </channel>
 </rss>
