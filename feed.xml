@@ -5,7 +5,14 @@
     <link>https://lk1227ai-sudo.github.io/aitrade-intel-feed/</link>
     <description>公開資訊彙整，非交易建議</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 12 Nov 2026 12:25:00 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 16:20:00 +0800</lastBuildDate>
+    <item>
+      <title>Afternoon Asia ~16:15 Taipei Nov 12 (TradingView): OANDA XAUUSD 3957.49 (-30.22 / -0.76%; H 4000.73 L 3954.82), below Reuters technical support $3,971; COMEX GC1! 3968.3 (-0.80%; L 3960.6); DXY 102.923 (+0.08%; H 103.083); EURUSD 1.10871; USDJPY 159.69 (H 159.947); GBPUSD 1.32674; AUDUSD 0.68264 (-0.30%); US02Y 4.769%, US10Y 4.996%; WTI CL1! 87.08 (+0.64%). Reuters (Sukanya Mitra, 07:32 GMT / 15:32 Taipei): spot -0.7% at $3,959.03 after lowest since Nov 4; Dec futures -0.9% at $3,964.50; dollar at 19-month high; CME FedWatch: traders price a Dec hike and another in March; Tastylive's Spivak: markets 'struggling for a follow through'; OCBC: two-way risks, not bearish medium term; US PPI due Friday</title>
+      <link>https://www.tradingview.com/news/reuters.com,2026:newsml_L3N46T0LZ:0-gold-hits-over-one-week-low-on-firm-dollar-fed-hike-bets/</link>
+      <description>[事實] 影響: XAUUSD/DXY/AUDUSD/USDJPY | 重點: 午後現貨金跌至約3957（日低3954.82），已跌破Reuters技術分析所列3971支撐，Reuters稱為11月4日以來最低；CME FedWatch顯示市場定價12月與明年3月各升息一次，DXY維持約102.9、美10年期約5.00%，週五美國PPI為下一焦點 | 發布: Reuters 2026-11-12 15:40 (Asia/Taipei)；報價 16:15 | 抓取: 2026-11-12 16:20 (Asia/Taipei)</description>
+      <pubDate>Thu, 12 Nov 2026 16:15:00 +0800</pubDate>
+      <guid isPermaLink="false">aitrade-intel-202611121615-xau-3957-below-3971</guid>
+    </item>
     <item>
       <title>Midday Asia ~12:20 Taipei Nov 12 (TradingView): OANDA XAUUSD 3979.77 (-7.93 / -0.20%; H 4000.73 L 3968.77); COMEX GC1! 3986.5 (-0.35%; L 3973.5); DXY 103.012 (+0.16%; H 103.083, above 103 for first time this week); EURUSD 1.1075 (-0.13%; L 1.10663); USDJPY 159.708 (H 159.836); GBPUSD 1.3258 (-0.12%; L 1.3250); AUDUSD 0.68446; US02Y 4.765%, US10Y 4.984%; WTI CL1! 85.58 (-1.10%). Reuters (03:10 GMT / 11:10 Taipei): spot -0.2% at $3,981.49 after lowest since Nov 4; Dec futures $3,987.50; dollar at 19-month high; Tastylive's Spivak: 'sitting on a critical level ... around the $4,000 mark'; OCBC: two-way risks, not turning bearish medium term; focus on US PPI Friday</title>
       <link>https://www.tradingview.com/news/reuters.com,2026:newsml_L2N46T01Z:0-gold-falls-to-over-one-week-low-on-firm-dollar-fed-rate-hike-bets/</link>
@@ -208,13 +215,6 @@
       <description>[事實] 影響: XAUUSD/DXY/US02Y/US10Y/USDJPY/EURUSD | 重點: Waller鷹派講話後現貨金跌破4100至約4078（日跌約1.5%、日低4068.7），美2年期殖利率升約5bp至4.616%、美元指數從日低101.49回升至101.74，美元兌日圓升至約158.2；接近FXStreet所列支撐4064–4068區 | 發布: 2026-11-10 20:13 (Asia/Taipei) | 抓取: 2026-11-10 20:15 (Asia/Taipei)</description>
       <pubDate>Tue, 10 Nov 2026 20:13:00 +0800</pubDate>
       <guid isPermaLink="false">aitrade-intel-202611102013-evening-xau-4078-us02y-4616</guid>
-    </item>
-    <item>
-      <title>NFIB Small Business Optimism Oct 2026 (Nov 10, 06:00 ET / 19:00 Taipei): 97.8 (Sep 97.9; 53-yr avg 98.0); Uncertainty Index −6 to 84 (lowest since Dec 2025). Net 33% raised selling prices (+2), net 37% plan price hikes (+6, highest since Jul 2022). Consensus differs: Investing 98.0 vs Trading Economics 97.7</title>
-      <link>https://www.nfib.com/news/press-release/new-nfib-survey-main-street-optimism-remains-steady-uncertainty-declines-in-october/</link>
-      <description>[事實] 影響: DXY/US02Y/XAUUSD | 重點: 美國10月NFIB小企業樂觀指數97.8、幾乎持平；但計畫漲價的業者淨比例升至37%，為2022年7月以來最高，顯示價格壓力仍在；預估值來源不一（Investing 98.0、Trading Economics 97.7） | 發布: 2026-11-10 19:00 (Asia/Taipei) | 抓取: 2026-11-10 20:15 (Asia/Taipei)</description>
-      <pubDate>Tue, 10 Nov 2026 19:00:00 +0800</pubDate>
-      <guid isPermaLink="false">aitrade-intel-202611101900-nfib-oct-978-price-plans-37</guid>
     </item>
   </channel>
 </rss>
