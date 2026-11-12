@@ -5,7 +5,28 @@
     <link>https://lk1227ai-sudo.github.io/aitrade-intel-feed/</link>
     <description>公開資訊彙整，非交易建議</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 12 Nov 2026 08:25:00 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 12:25:00 +0800</lastBuildDate>
+    <item>
+      <title>Midday Asia ~12:20 Taipei Nov 12 (TradingView): OANDA XAUUSD 3979.77 (-7.93 / -0.20%; H 4000.73 L 3968.77); COMEX GC1! 3986.5 (-0.35%; L 3973.5); DXY 103.012 (+0.16%; H 103.083, above 103 for first time this week); EURUSD 1.1075 (-0.13%; L 1.10663); USDJPY 159.708 (H 159.836); GBPUSD 1.3258 (-0.12%; L 1.3250); AUDUSD 0.68446; US02Y 4.765%, US10Y 4.984%; WTI CL1! 85.58 (-1.10%). Reuters (03:10 GMT / 11:10 Taipei): spot -0.2% at $3,981.49 after lowest since Nov 4; Dec futures $3,987.50; dollar at 19-month high; Tastylive's Spivak: 'sitting on a critical level ... around the $4,000 mark'; OCBC: two-way risks, not turning bearish medium term; focus on US PPI Friday</title>
+      <link>https://www.tradingview.com/news/reuters.com,2026:newsml_L2N46T01Z:0-gold-falls-to-over-one-week-low-on-firm-dollar-fed-rate-hike-bets/</link>
+      <description>[事實] 影響: XAUUSD/DXY/EURUSD/USDJPY/GBPUSD | 重點: 午盤現貨金約3980、盤中低3968.77（Reuters稱11月4日以來最低），DXY升破103（高103.083），歐元兌美元低見1.1066；Reuters引述分析師稱4000是關鍵位，市場等週五美國PPI | 發布: Reuters 2026-11-12 11:31 (Asia/Taipei)；報價 12:20 | 抓取: 2026-11-12 12:25 (Asia/Taipei)</description>
+      <pubDate>Thu, 12 Nov 2026 12:20:00 +0800</pubDate>
+      <guid isPermaLink="false">aitrade-intel-202611121220-midday-xau-3980-dxy-103</guid>
+    </item>
+    <item>
+      <title>Reuters technicals (Wang Tao, 10:53 Taipei Nov 12): spot gold may retest support at $3,971; break below opens $3,945-$3,957. Double-top confirmed with target ~$3,895. Immediate resistance $3,995, break above may lead to $4,009-$4,018. Daily wave count: wave (4) complete, wave (5) in progress, capable of travelling below $3,870 (wave (3) bottom). Analyst's own view</title>
+      <link>https://www.tradingview.com/news/reuters.com,2026:newsml_L2N46T03M:0-spot-gold-may-retest-support-at-3-971/</link>
+      <description>[推測] 影響: XAUUSD | 重點: Reuters技術分析師觀點：支撐3971，跌破看3945-3957，雙頂目標約3895；壓力3995，突破看4009-4018（屬個人技術觀點，非事實） | 發布: 2026-11-12 10:53 (Asia/Taipei) | 抓取: 2026-11-12 12:25 (Asia/Taipei)</description>
+      <pubDate>Thu, 12 Nov 2026 10:53:00 +0800</pubDate>
+      <guid isPermaLink="false">aitrade-intel-202611121053-reuters-tech-xau-3971</guid>
+    </item>
+    <item>
+      <title>Source discrepancy on dollar index high (Nov 12): Moneycontrol Commodity Corner (10:29 Taipei) says DXY rose 0.63% to 102.85, 'its highest level since October 14' / near a one-month high, while also saying the dollar hit 'the highest since May 2025'; Reuters (11:31 Taipei) and Seeking Alpha (Nov 12 03:09 Taipei) call it a 19-month high. Moneycontrol also: Brent -$1.14 to $91.62, WTI -$1.04 to $85.49 on Middle East and Russia-Ukraine peace-talk hopes</title>
+      <link>https://www.tradingview.com/news/moneycontrol:80be6a469094b:0-commodity-corner-oil-gold-extend-losses-on-peace-hopes-hawkish-fed-signals/</link>
+      <description>[UNKNOWN] 影響: DXY/XAUUSD/WTI | 重點: DXY高點的描述來源互相矛盾：Moneycontrol寫「10月14日以來最高」，Reuters與Seeking Alpha寫「19個月高點」，以哪個為準未確認；油價因中東與俄烏和談期待下跌約1.2% | 發布: 2026-11-12 10:29 (Asia/Taipei) | 抓取: 2026-11-12 12:25 (Asia/Taipei)</description>
+      <pubDate>Thu, 12 Nov 2026 10:29:00 +0800</pubDate>
+      <guid isPermaLink="false">aitrade-intel-202611121029-dxy-high-source-conflict</guid>
+    </item>
     <item>
       <title>Asia open ~08:20 Taipei Nov 12 (TradingView): OANDA XAUUSD 3982.20 (-5.50 / -0.14%; session H 3991.41 L 3968.77), still below $4,000; COMEX GC1! 3974.9 (-0.64%; L 3973.5); DXY 102.844 (H 102.962); EURUSD 1.10921 (+0.03%); USDJPY 159.606 (-0.12%; H 159.781 L 159.498); GBPUSD 1.32731; AUDUSD 0.68419 (-0.07%); US02Y 4.774%, US10Y 4.994%</title>
       <link>https://www.tradingview.com/symbols/XAUUSD/</link>
@@ -194,27 +215,6 @@
       <description>[事實] 影響: DXY/US02Y/XAUUSD | 重點: 美國10月NFIB小企業樂觀指數97.8、幾乎持平；但計畫漲價的業者淨比例升至37%，為2022年7月以來最高，顯示價格壓力仍在；預估值來源不一（Investing 98.0、Trading Economics 97.7） | 發布: 2026-11-10 19:00 (Asia/Taipei) | 抓取: 2026-11-10 20:15 (Asia/Taipei)</description>
       <pubDate>Tue, 10 Nov 2026 19:00:00 +0800</pubDate>
       <guid isPermaLink="false">aitrade-intel-202611101900-nfib-oct-978-price-plans-37</guid>
-    </item>
-    <item>
-      <title>Fed Governor Waller (London speech, Nov 10, ~17:00 Taipei; federalreserve.gov): would support a 25bp hike at Dec 8–9 FOMC even if Oct CPI improves; if core CPI ~0.3% m/m or higher, 'a 50 basis point hike ... should be considered'; 'Hiking only 25 basis points would put our credibility at risk'. Reuters: markets now fully pricing a Dec hike after remarks (Mon close ~85%); CNBC: FedWatch showed no chance of 50bp pre-speech</title>
-      <link>https://www.federalreserve.gov/newsevents/speech/waller20261110a.htm</link>
-      <description>[事實] 影響: XAUUSD/DXY/US02Y/US10Y/EURUSD/USDJPY | 重點: Fed理事Waller表示即使10月CPI改善也支持12月升息1碼，若核心CPI月增達0.3%以上應考慮升息2碼（50bp）；路透稱講話後市場已完全定價12月升息，且此前FedWatch並未定價50bp，今晚CPI的核心月增0.2%或0.3%成為關鍵分界 | 發布: 2026-11-10 17:00 (Asia/Taipei) | 抓取: 2026-11-10 20:15 (Asia/Taipei)</description>
-      <pubDate>Tue, 10 Nov 2026 17:00:00 +0800</pubDate>
-      <guid isPermaLink="false">aitrade-intel-202611101700-waller-dec-hike-50bp-if-core-03</guid>
-    </item>
-    <item>
-      <title>ECB chief economist Lane (Bloomberg TV, Nov 10; FXStreet 08:44 GMT / 16:44 Taipei): 'prudent to hike in December if data don't shift'; 'more to come in terms of peak inflation'; inflation likely 'a little bit' over 4% at year-end; French fiscal problems 'need to be fixed in Paris'. Governing Council member Kazaks (Bloomberg, Econostream): 'some further tightening, from today's perspective, would be warranted', trade-offs 'more nuanced'. Barchart: ECB comments added to pressure on precious metals</title>
-      <link>https://www.fxstreet.com/news/ecbs-lane-prudent-to-hike-again-as-inflation-seen-over-4-by-year-end-202611100844</link>
-      <description>[事實] 影響: EURUSD/XAUUSD | 重點: ECB首席經濟學家Lane稱若數據不變12月升息屬審慎、通膨高峰未到，Kazaks也稱目前看來需再緊縮但權衡變複雜；不過CPI後美元走強，EURUSD仍跌至約1.115 | 發布: 2026-11-10 16:44 (Asia/Taipei) | 抓取: 2026-11-11 00:25 (Asia/Taipei)</description>
-      <pubDate>Tue, 10 Nov 2026 16:44:00 +0800</pubDate>
-      <guid isPermaLink="false">aitrade-intel-202611101644-ecb-lane-kazaks-dec-hike</guid>
-    </item>
-    <item>
-      <title>Afternoon Asia ~16:05 Taipei Nov 10 (TradingView): OANDA XAUUSD 4115.05 (−25.6 / −0.62%; H 4146.74 L 4108.22); COMEX GC1! 4122.5 (+0.19%); DXY 101.547 (−0.13%; L 101.519); US02Y 4.553% (−1.3bp); US10Y 4.868% (−1.6bp); EURUSD 1.12427 (+0.17%); USDJPY 158.004; GBPUSD 1.34522; AUDUSD 0.69197; USDCNH 6.6664; WTI CL1! 85.51 (−1.54%)</title>
-      <link>https://www.tradingview.com/symbols/XAUUSD/</link>
-      <description>[事實] 影響: XAUUSD/DXY/US02Y/US10Y/EURUSD/USDJPY/GBPUSD/AUDUSD/USDCNH | 重點: 午後現貨金約4115、仍守在日內低點4108上方；美元指數小跌至約101.55、殖利率小降、歐元走強至約1.1243，原油續跌約1.5%，市場靜待今晚21:30美國CPI | 發布: 2026-11-10 16:05 (Asia/Taipei) | 抓取: 2026-11-10 16:10 (Asia/Taipei)</description>
-      <pubDate>Tue, 10 Nov 2026 16:05:00 +0800</pubDate>
-      <guid isPermaLink="false">aitrade-intel-202611101605-afternoon-xau-4115-dxy-1015</guid>
     </item>
   </channel>
 </rss>
