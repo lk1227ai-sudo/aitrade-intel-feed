@@ -5,7 +5,21 @@
     <link>https://lk1227ai-sudo.github.io/aitrade-intel-feed/</link>
     <description>公開資訊彙整，非交易建議</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 12 Nov 2026 04:25:00 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 08:25:00 +0800</lastBuildDate>
+    <item>
+      <title>Asia open ~08:20 Taipei Nov 12 (TradingView): OANDA XAUUSD 3982.20 (-5.50 / -0.14%; session H 3991.41 L 3968.77), still below $4,000; COMEX GC1! 3974.9 (-0.64%; L 3973.5); DXY 102.844 (H 102.962); EURUSD 1.10921 (+0.03%); USDJPY 159.606 (-0.12%; H 159.781 L 159.498); GBPUSD 1.32731; AUDUSD 0.68419 (-0.07%); US02Y 4.774%, US10Y 4.994%</title>
+      <link>https://www.tradingview.com/symbols/XAUUSD/</link>
+      <description>[事實] 影響: XAUUSD/DXY/EURUSD/USDJPY/GBPUSD/AUDUSD | 重點: 亞洲早盤現貨金約3982仍在4000下方，盤中低點3968.77已跌破前一則引用的61.8%斐波那契3975；美元兌日圓從159.9回落到159.6附近；美2年殖利率4.774%、10年4.994% | 發布: 報價 2026-11-12 08:20 (Asia/Taipei) | 抓取: 2026-11-12 08:25 (Asia/Taipei)</description>
+      <pubDate>Thu, 12 Nov 2026 08:20:00 +0800</pubDate>
+      <guid isPermaLink="false">aitrade-intel-202611120820-asia-open-xau-3982</guid>
+    </item>
+    <item>
+      <title>Japan Oct 2026 corporate goods (producer) prices (BoJ data via Mace News, 07:51 Taipei Nov 12): +7.1% y/y (Sep +6.8%; median forecast +6.5%), +0.7% m/m, first rise in 3 months (Sep revised to -0.2%; forecast +0.2%); yen-based import price index +24.8% y/y, 11th straight rise (Sep revised +23.8%); energy (crude oil/coal products) +15.9% y/y</title>
+      <link>https://www.tradingview.com/news/macenews:ad23e8a4e094b:0-japan-oct-corporate-goods-producer-prices-7-1-y-y-sept-6-8-median-forecast-6-5/</link>
+      <description>[事實] 影響: USDJPY/EURJPY | 重點: 日本10月企業物價年增7.1%（預期6.5%、前值6.8%），月增0.7%（預期0.2%），日圓計價進口物價年增24.8%連11個月上升，輸入型通膨高於預期 | 發布: 2026-11-12 07:51 (Asia/Taipei) | 抓取: 2026-11-12 08:25 (Asia/Taipei)</description>
+      <pubDate>Thu, 12 Nov 2026 07:51:00 +0800</pubDate>
+      <guid isPermaLink="false">aitrade-intel-202611120751-japan-oct-ppi-7-1pct</guid>
+    </item>
     <item>
       <title>Late US session ~04:20 Taipei Nov 12 (TradingView): OANDA XAUUSD 3983.93 (-48.59 / -1.20%; H 4067.10 L 3982.69), below $4,000 and FXStreet 50% Fib 4,008, next cited support 61.8% Fib 3,975; COMEX GC1! 3992.8 (-0.93%; L 3989.6); DXY 102.904 (+0.67%; H 102.962); EURUSD 1.10921 (-0.65%; L 1.10826); USDJPY 159.872 (+0.71%; H 159.937); GBPUSD 1.32776 (-0.49%); AUDUSD 0.68495 (-0.24%); US02Y 4.746%, US10Y 5.000% (cash Treasuries closed for Veterans Day). Seeking Alpha 03:09 Taipei: DXY 102.92 is a 19-month high (last seen Apr 10, 2025), +4.7% YTD; Dow Jones 03:19 Taipei: 'Gold Futures Slip Back Under $4,000 Level'</title>
       <link>https://www.tradingview.com/news/seekingalpha:24097bae4094b:0-dollar-index-crossed-a-19-month-high-as-the-greenback-continues-to-rally/</link>
@@ -201,20 +215,6 @@
       <description>[事實] 影響: XAUUSD/DXY/US02Y/US10Y/EURUSD/USDJPY/GBPUSD/AUDUSD/USDCNH | 重點: 午後現貨金約4115、仍守在日內低點4108上方；美元指數小跌至約101.55、殖利率小降、歐元走強至約1.1243，原油續跌約1.5%，市場靜待今晚21:30美國CPI | 發布: 2026-11-10 16:05 (Asia/Taipei) | 抓取: 2026-11-10 16:10 (Asia/Taipei)</description>
       <pubDate>Tue, 10 Nov 2026 16:05:00 +0800</pubDate>
       <guid isPermaLink="false">aitrade-intel-202611101605-afternoon-xau-4115-dxy-1015</guid>
-    </item>
-    <item>
-      <title>Japan Oct Economy Watchers Survey (13:00 Taipei; TradingView calendar): current conditions index 46.1 (prior 47.0); consensus UNKNOWN</title>
-      <link>https://www.tradingview.com/economic-calendar/</link>
-      <description>[事實] 影響: USDJPY | 重點: 日本10月景氣觀察者現況指數46.1，低於前值47.0、景氣感受轉弱；市場預估值UNKNOWN | 發布: 2026-11-10 13:00 (Asia/Taipei) | 抓取: 2026-11-10 16:10 (Asia/Taipei)</description>
-      <pubDate>Tue, 10 Nov 2026 13:00:00 +0800</pubDate>
-      <guid isPermaLink="false">aitrade-intel-202611101300-jp-eco-watchers-oct</guid>
-    </item>
-    <item>
-      <title>Reuters (via Business Recorder, 04:30 GMT / 12:30 Taipei): spot gold −0.6% at $4,114.48 on profit-taking after Monday's &gt;1% rally; Dec futures +0.2% at $4,123.50. CME FedWatch: 84% chance of Dec hike. Richmond Fed Barkin (Mon): move policy 'with care', inflation remains greatest risk, no base case for December</title>
-      <link>https://www.brecorder.com/news/40448235</link>
-      <description>[事實] 影響: XAUUSD/DXY/US02Y | 重點: 路透稱金價因前一日大漲後獲利了結而回落0.6%，CME FedWatch顯示12月升息機率84%；Barkin稱通膨仍是最大風險、12月沒有既定立場；附註[推測]：分析師Kyle Rodda認為若中東不升級、油價續跌將對金價有利 | 發布: 2026-11-10 12:30 (Asia/Taipei) | 抓取: 2026-11-10 16:10 (Asia/Taipei)</description>
-      <pubDate>Tue, 10 Nov 2026 12:30:00 +0800</pubDate>
-      <guid isPermaLink="false">aitrade-intel-202611101230-reuters-gold-fedwatch-84</guid>
     </item>
   </channel>
 </rss>
