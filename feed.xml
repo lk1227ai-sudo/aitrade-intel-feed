@@ -5,13 +5,41 @@
     <link>https://lk7221ai-bit.github.io/aitrade-intel-feed/</link>
     <description>公開資訊彙整，非交易建議</description>
     <language>zh-TW</language>
-    <lastBuildDate>Fri, 13 Nov 2026 08:25:00 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 12:25:00 +0800</lastBuildDate>
     <item>
-      <title>Next ~24h (Taipei) from 08:25 Fri Nov 13: US Oct PPI 21:30 — StockTitan/Investing.com consensus: headline +0.4% m/m (Sep +1.3%), core +0.3% m/m (Sep +0.7%), headline +6.6% y/y (Sep 6.3%), core 5.0% y/y. Williams panel done (see separate item). NVIDIA Q3 results Tue Nov 17 after US close (Wed ~05:20 Taipei). Other Fed speakers today: UNKNOWN</title>
+      <title>Next ~24h (Taipei) from 12:25 Fri Nov 13: US Oct PPI 21:30 (13:30 GMT) — StockTitan/Investing.com consensus: headline +0.4% m/m (Sep +1.3%), core +0.3% m/m (Sep +0.7%), headline +6.6% y/y (Sep 6.3%), core 5.0% y/y. Weekend: market closed. Ahead next week: Japan Q3 GDP Mon Nov 16 (Mace News economists: +0.1% q/q, +0.4% annualized), more Fed speakers (per CBA via Reuters; exact schedule UNKNOWN), NVIDIA Q3 results Tue Nov 17 after US close (Wed ~05:20 Taipei). Other Fed speakers today: UNKNOWN</title>
       <link>https://www.stocktitan.net/articles/october-2026-ppi-preview-yearly-rate</link>
-      <description>[事實] 影響: XAUUSD/DXY/US02Y | 重點: 今日主焦點為21:30美國10月PPI（預期月增0.4%、核心0.3%、年增6.6%），其他Fed官員講話行程未確認 | 發布: StockTitan/Investing.com 日曆 2026-11-12 (Asia/Taipei) | 抓取: 2026-11-13 08:25 (Asia/Taipei)</description>
-      <pubDate>Fri, 13 Nov 2026 08:25:00 +0800</pubDate>
-      <guid isPermaLink="false">aitrade-intel-202611130825-next24h</guid>
+      <description>[事實] 影響: XAUUSD/DXY/US02Y/USDJPY | 重點: 今晚21:30美國10月PPI為主焦點（預期月增0.4%、核心0.3%、年增6.6%）；下週一日本Q3 GDP、週二盤後NVIDIA財報；今日其他Fed講話未確認 | 發布: StockTitan/Investing.com/Mace News 日曆 (Asia/Taipei) | 抓取: 2026-11-13 12:25 (Asia/Taipei)</description>
+      <pubDate>Fri, 13 Nov 2026 12:25:00 +0800</pubDate>
+      <guid isPermaLink="false">aitrade-intel-202611131225-next24h</guid>
+    </item>
+    <item>
+      <title>Midday Asia ~12:20 Taipei Nov 13 (TradingView): OANDA XAUUSD 3909.06 (+31.47 / +0.81%; H 3923.09 L 3875.23), rebound from Thursday's 13-month low; COMEX GC1! 3921.8 (+0.94%; H 3927.2); DXY 103.183 (H 103.23); EURUSD 1.10572; USDJPY 159.936 (H 159.963); GBPUSD 1.32282; AUDUSD 0.68024; US02Y 4.867% (-1.7bp), US10Y 5.129%; WTI CL1! 88.37 (-0.42%). Reuters (Sukanya Mitra, 03:22 GMT / 11:22 Taipei): spot +1% at $3,915.31 on bargain hunting but -3.5% on the week; Dec futures $3,919.60; OANDA's Kelvin Wong: a 'positioning adjustment' after intraday momentum hit extreme oversold; a turn lower in Treasury yields would be the short-term bullish driver; focus on US PPI 13:30 GMT</title>
+      <link>https://www.tradingview.com/news/reuters.com,2026:newsml_L2N46U03D:0-gold-rises-on-bargain-hunting-but-heads-for-weekly-decline/</link>
+      <description>[事實] 影響: XAUUSD/DXY/USDJPY | 重點: 現貨金午盤反彈約0.8%至3909（高3923），Reuters稱屬超賣後部位調整、本週仍跌約3.5%；DXY維持103.18高位、USDJPY 159.94貼近160 | 發布: TradingView 報價 12:20／Reuters 2026-11-13 11:42 (Asia/Taipei) | 抓取: 2026-11-13 12:25 (Asia/Taipei)</description>
+      <pubDate>Fri, 13 Nov 2026 12:20:00 +0800</pubDate>
+      <guid isPermaLink="false">aitrade-intel-202611131220-snapshot-xau-3909</guid>
+    </item>
+    <item>
+      <title>Reuters technicals (Wang Tao, 11:58 Taipei Nov 13): spot gold may end its bounce around resistance $3,931 (upper line of falling channel) and resume its fall; current move seen as wave d of a five-wave cycle from $4,148, to be followed by wave e. A break above $3,931 could open the way toward $3,999. Daily: wave (5) expected to travel far below wave (3) bottom at $3,870; bounce tentatively a second pullback toward the June 30 low $3,943. Analyst's own view</title>
+      <link>https://www.tradingview.com/news/reuters.com,2026:newsml_L2N46U062:0-spot-gold-may-end-bounce-around-3-931/</link>
+      <description>[推測] 影響: XAUUSD | 重點: Reuters分析師Wang Tao認為反彈可能止於下降通道上緣3931後續跌，日線浪(5)看遠低於3870；若突破3931則看3999（分析師個人觀點） | 發布: Reuters 2026-11-13 11:58 (Asia/Taipei) | 抓取: 2026-11-13 12:25 (Asia/Taipei)</description>
+      <pubDate>Fri, 13 Nov 2026 11:58:00 +0800</pubDate>
+      <guid isPermaLink="false">aitrade-intel-202611131158-reuters-tech-3931</guid>
+    </item>
+    <item>
+      <title>Source discrepancy on 50bp December hike odds (Nov 13): Reuters FX report (09:51 Taipei) cites CME FedWatch at 14.5% for a 50bp hike; Reuters gold report (11:42 Taipei) cites 89% for 25bp / 11% for 50bp; Seeking Alpha (06:40 Taipei) said 87% for 25bp. Different snapshot times of the same tool; direction (rising 50bp odds vs last week) consistent</title>
+      <link>https://www.tradingview.com/news/reuters.com,2026:newsml_L2N46U02T:0-dollar-near-19-month-high-on-fed-hike-bets-yen-tests-160/</link>
+      <description>[事實] 影響: XAUUSD/DXY/US02Y | 重點: 12月升息50bp機率各報導不一（Reuters外匯稿14.5%、Reuters黃金稿11%），屬FedWatch不同時間快照，方向皆為較上週上升 | 發布: Reuters 2026-11-13 09:51／11:42 (Asia/Taipei) | 抓取: 2026-11-13 12:25 (Asia/Taipei)</description>
+      <pubDate>Fri, 13 Nov 2026 11:45:00 +0800</pubDate>
+      <guid isPermaLink="false">aitrade-intel-202611131145-discrepancy-fedwatch-50bp</guid>
+    </item>
+    <item>
+      <title>Reuters FX (09:51 Taipei Nov 13): dollar near 19-month high, DXY 103.17 (highest since Apr 2025); US 2-year yields +34bp over two sessions, sharpest two-day rise in 3-1/2 years; EURUSD 1.1049 near lowest since Apr 2025, -0.8% on the week; USDJPY 159.875 near lowest yen since early Sep; Japan FinMin Satsuki Katayama said the government will respond appropriately to FX volatility after yen briefly hit 160 Thursday; AUD worst G10 performer over past month (~-2.5%). CME FedWatch: 14.5% chance of 50bp Dec hike (0% last week). CBA's Carol Kong: further equity selloff could weigh on USD, but more Fed support for 50bp next week would add upside</title>
+      <link>https://www.tradingview.com/news/reuters.com,2026:newsml_L2N46U02T:0-dollar-near-19-month-high-on-fed-hike-bets-yen-tests-160/</link>
+      <description>[事實] 影響: USDJPY/DXY/EURUSD/AUDUSD/XAUUSD | 重點: 美元守19個月高點，2年期美債兩日升34bp為3年半最大；日財相片山稱將適當因應匯率波動（口頭干預警告），USDJPY約159.9逼近160 | 發布: Reuters 2026-11-13 09:51 (Asia/Taipei) | 抓取: 2026-11-13 12:25 (Asia/Taipei)</description>
+      <pubDate>Fri, 13 Nov 2026 09:51:00 +0800</pubDate>
+      <guid isPermaLink="false">aitrade-intel-202611130951-reuters-fx-yen-160-katayama</guid>
     </item>
     <item>
       <title>Asia open ~08:20 Taipei Nov 13 (TradingView): OANDA XAUUSD 3887.01 (+0.24%; session H 3889.77 L 3875.23), small bounce after Thursday's ~-2.6% drop; COMEX GC1! 3890.8 (+0.14%); DXY 103.17 (H 103.242, near 19-month high); EURUSD 1.10488 (L 1.10474, lowest since Apr 2025 per CNBC); USDJPY 159.831 (just below 160); GBPUSD 1.3229; AUDUSD 0.68028; US02Y 4.872%, US10Y 5.125%; WTI CL1! 88.66</title>
@@ -187,34 +215,6 @@
       <description>[事實] 影響: XAUUSD/DXY/EURUSD/USDJPY/GBPUSD/AUDUSD | 重點: 現貨金跌破4000至約3984（日跌約1.2%、日低3982.69），期金GC1!也跌破4000；美元指數102.9創19個月高（上次在2025-04-10），美元兌日圓日高159.94逼近160；下一個被引用的支撐是FXStreet列的61.8%斐波那契3975 | 發布: 2026-11-12 03:09 (Asia/Taipei，Seeking Alpha) / 03:19 (Dow Jones標題) / 報價 2026-11-12 04:20 | 抓取: 2026-11-12 04:25 (Asia/Taipei)</description>
       <pubDate>Thu, 12 Nov 2026 04:20:00 +0800</pubDate>
       <guid isPermaLink="false">aitrade-intel-202611120420-xau-below-4000-dxy-19m-high</guid>
-    </item>
-    <item>
-      <title>dpa-AFX/RTTNews (02:52 Taipei Nov 12): Comex Dec gold -$31.20 (-0.77%) to $3,999.00, silver +1.56% to $52.025; attributes drop to hawkish Fed talk (Bowman: inflation broadening, more work on rates; Logan: two more hikes possibly rapidly; Paulson) and Iran hardening stance (Rezaei: US talk of Qatar meeting 'lies', no enriched material leaves Iran; Ghalibaf: 'ball is in US court'). CME FedWatch here: 87.1% 25bp / 12.9% 50bp for Dec 8-9 vs Reuters' earlier 100%-hike framing. Oil discrepancy: RTT says Dec WTI -1.19% at $87.06, while TradingView CL1! shows 86.33 +0.34%</title>
-      <link>https://www.tradingview.com/news/dpa_afx:9b95c4045d887:0-gold-slides-as-u-s-dollar-moves-higher-due-to-renewed-inflation-concerns/</link>
-      <description>[事實] 影響: XAUUSD/XAGUSD/DXY/WTI | 重點: RTTNews歸因金價下跌於Fed官員鷹派發言與伊朗對美強硬（否認卡達會談、拒絕移出濃縮鈾）；FedWatch顯示12月升息25bp機率87.1%、50bp 12.9%；白銀逆勢漲1.56%；原油報價來源不一致（RTT稱WTI跌1.19%至87.06，TradingView CL1!顯示86.33漲0.34%，可能是合約月份不同，原因UNKNOWN） | 發布: 2026-11-12 02:52 (Asia/Taipei) | 抓取: 2026-11-12 04:25 (Asia/Taipei)</description>
-      <pubDate>Thu, 12 Nov 2026 02:52:00 +0800</pubDate>
-      <guid isPermaLink="false">aitrade-intel-202611120252-rtt-gold-3999-iran-fedwatch</guid>
-    </item>
-    <item>
-      <title>Late evening ~00:13 Taipei Nov 12 (TradingView): OANDA XAUUSD 4004.36 (-28.16 / -0.70%; H 4067.10 L 4000.76), now below FXStreet 50% Fib support 4,008 and testing the $4,000 mark; COMEX GC1! 4010.7 (-0.48%; L 4008.1); DXY 102.862 (+0.63%; H 102.961); EURUSD 1.1097 (-0.60%; L 1.10826); USDJPY 159.79 (+0.66%; H 159.894); GBPUSD 1.3281 (-0.47%); AUDUSD 0.68525 (-0.20%); US02Y 4.746%, US10Y 5.000% (US cash Treasuries closed for Veterans Day); WTI CL1! 87.93 (+2.20%; H 88.74). Reuters headline 23:12 Taipei: 'Gold sheds gains as hot inflation figures, higher dollar weigh'</title>
-      <link>https://www.tradingview.com/news/reuters.com,2026:newsml_L2N46S0JV:0-gold-sheds-gains-as-hot-inflation-figures-higher-dollar-weigh/</link>
-      <description>[事實] 影響: XAUUSD/DXY/EURUSD/USDJPY/GBPUSD/WTI | 重點: 現貨金回吐日內漲幅並轉跌約0.7%至約4004、日低4000.76，已跌破FXStreet所列50%斐波那契支撐4008、測試4000整數關；美元指數約102.86、美元兌日圓日高159.89逼近160、歐元兌美元日低1.1083；Reuters標題歸因於通膨數據偏熱與美元走強 | 發布: 2026-11-11 23:12 (Asia/Taipei，Reuters標題) / 報價 2026-11-12 00:13 | 抓取: 2026-11-12 00:15 (Asia/Taipei)</description>
-      <pubDate>Thu, 12 Nov 2026 00:13:00 +0800</pubDate>
-      <guid isPermaLink="false">aitrade-intel-202611120013-late-xau-tests-4000-usdjpy-159-9</guid>
-    </item>
-    <item>
-      <title>US open ~22:26 Taipei Nov 11 (TradingView): DXY 102.925 (+0.69%; H 102.929, new session high); EURUSD 1.10861 (-0.70%; L 1.10849, below the 2026 low ~1.1105 cited by Capital Street FX); USDJPY 159.637 (+0.56%; H 159.640); GBPUSD 1.32696 (-0.55%); AUDUSD 0.68508 (-0.22%); OANDA XAUUSD 4029.60 (-2.92 / -0.07%; H 4067.10 L 4026.60), giving back the Asia/Europe gain; COMEX GC1! 4038.2 (+0.20%; L 4034.1); US02Y 4.746%, US10Y 5.000% (US cash Treasuries closed for Veterans Day); WTI CL1! 87.08 (+1.21%). Reuters headline 20:37 Taipei: 'Dollar firms as hot inflation, hawkish Fed talk lift rate-hike bets'; Dow Jones Market Talk 20:20 Taipei: dollar strength could persist on US rate-rise prospects</title>
-      <link>https://live.euronext.com/en/financial-news/dollar-gains-hot-inflation-hawkish-fed-talk-lift-rate-hike-bets</link>
-      <description>[事實] 影響: XAUUSD/DXY/EURUSD/USDJPY/GBPUSD/AUDUSD | 重點: 美盤前美元全面走強，美元指數升至約102.93日內新高，歐元兌美元跌破今年低點約1.1105至1.1086、美元兌日圓升至159.64逼近160，現貨金回吐日內漲幅回到約4030、接近日低4026.6；主因仍為CPI偏熱與Fed升息預期（Reuters） | 發布: 2026-11-11 20:37 (Asia/Taipei，Reuters標題) / 報價 22:26 | 抓取: 2026-11-11 22:30 (Asia/Taipei)</description>
-      <pubDate>Wed, 11 Nov 2026 22:26:00 +0800</pubDate>
-      <guid isPermaLink="false">aitrade-intel-202611112226-us-open-dxy-102-9-eurusd-ytd-low-xau-4030</guid>
-    </item>
-    <item>
-      <title>OPEC MOMR Nov 2026 (released Wed Nov 11; Anadolu 16:14 TRT / 21:14 Taipei): 2026 world oil demand growth unchanged at +180k bpd to 105.72M bpd; 2027 unchanged at +2.55M bpd to 108.28M bpd. OPEC crude output (secondary sources) +1.97M bpd to ~27.16M bpd in Oct; Saudi +1.18M to ~9.19M bpd, Iraq +496k to 4.49M, Iran -44k to ~1.91M. OPEC+ total +2.04M to 41.23M bpd. Source discrepancy: ScanX reports Saudi told OPEC (direct communication) output rose 26% to 10.6M bpd, vs ~9.19M in Anadolu's secondary-source figure</title>
-      <link>https://www.aa.com.tr/en/energy/oil/opec-crude-production-rises-by-nearly-2-million-bpd-in-october/60890</link>
-      <description>[事實] 影響: WTI/XAUUSD/USDCAD | 重點: OPEC 11月月報維持2026與2027年全球石油需求成長預估不變，10月OPEC原油產量大增約197萬桶/日至約2716萬桶/日（沙烏地帶頭）；沙國產量有9.19百萬（次級來源）與10.6百萬（自報）兩種數字，屬口徑差異（[推測]） | 發布: 2026-11-11 21:14 (Asia/Taipei，Anadolu) | 抓取: 2026-11-11 22:30 (Asia/Taipei)</description>
-      <pubDate>Wed, 11 Nov 2026 21:14:00 +0800</pubDate>
-      <guid isPermaLink="false">aitrade-intel-202611112114-opec-momr-nov-demand-unchanged-output-up</guid>
     </item>
   </channel>
 </rss>
