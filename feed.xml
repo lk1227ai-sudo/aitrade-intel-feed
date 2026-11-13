@@ -5,13 +5,27 @@
     <link>https://lk7221ai-bit.github.io/aitrade-intel-feed/</link>
     <description>公開資訊彙整，非交易建議</description>
     <language>zh-TW</language>
-    <lastBuildDate>Fri, 13 Nov 2026 20:20:00 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 22:35:00 +0800</lastBuildDate>
     <item>
-      <title>Next ~24h (Taipei) from 20:20 Fri Nov 13: US Oct PPI 21:30 (13:30 GMT) — StockTitan/Investing.com consensus: headline +0.4% m/m (Sep +1.3%), core +0.3% m/m (Sep +0.7%), headline +6.6% y/y (Sep 6.3%), core 5.0% y/y; WisdomTree: hotter PPI could cap gold gains. USDJPY at ~160.0: Japan intervention risk (none confirmed). Weekend: market closed. Next week: Japan Q3 GDP Mon Nov 16 (Mace News economists: +0.1% q/q, +0.4% annualized), more Fed speakers (exact schedule UNKNOWN), NVIDIA Q3 results Tue Nov 17 after US close (Wed ~05:20 Taipei). Other Fed speakers today: UNKNOWN</title>
-      <link>https://www.stocktitan.net/articles/october-2026-ppi-preview-yearly-rate</link>
-      <description>[事實] 影響: XAUUSD/DXY/US02Y/USDJPY | 重點: 今晚21:30美國10月PPI（預期月增0.4%、核心0.3%、年增6.6%）；USDJPY在160干預風險；下週一日本Q3 GDP、週二盤後NVIDIA財報 | 發布: StockTitan/Investing.com/Mace News 日曆 (Asia/Taipei) | 抓取: 2026-11-13 20:20 (Asia/Taipei)</description>
-      <pubDate>Fri, 13 Nov 2026 20:20:00 +0800</pubDate>
-      <guid isPermaLink="false">aitrade-intel-202611132020-next24h</guid>
+      <title>Post-PPI ~22:35 Taipei Nov 13 (TradingView): OANDA XAUUSD 3887.89 (+10.30 / +0.27%), below pre-PPI 3895 and well under resistance $3,931; COMEX GC1! 3890.1 (+0.12%); DXY 103.264 (+0.09%); EURUSD 1.10477; USDJPY 159.956; GBPUSD 1.32264; AUDUSD 0.67855 (-0.33%); US02Y 4.878% (-0.6bp), US10Y 5.162% (+2.9bp). Kitco (early US trading): spot ~$3,891.50 +0.39%, mixed PPI offered limited relief from Fed tightening expectations; FXStreet: XAU/USD pared gains to ~$3,880 after briefly topping $3,900. FinanceFeeds reference levels $3,963 / $3,800 (outlet's own view). Next week per Kitco: Empire State Mon, Oct retail sales Tue, FOMC Oct minutes Wed Nov 18</title>
+      <link>https://www.kitco.com/news/article/2026-11-13/gold-rebounds-13-month-low-ppi-complicates-fed-outlook-kitco-am-report</link>
+      <description>[事實] 影響: XAUUSD/DXY/US10Y | 重點: PPI後金價漲幅收斂至約3888（+0.27%），10年債殖利率升至5.162%、DXY 103.26；Kitco/FXStreet稱混合數據未緩解Fed緊縮預期 | 發布: TradingView 報價 22:35／Kitco 2026-11-13 (確切時間UNKNOWN, Asia/Taipei) | 抓取: 2026-11-13 22:35 (Asia/Taipei)</description>
+      <pubDate>Fri, 13 Nov 2026 22:35:00 +0800</pubDate>
+      <guid isPermaLink="false">aitrade-intel-202611132235-post-ppi-snapshot</guid>
+    </item>
+    <item>
+      <title>Next ~24h (Taipei) from 22:35 Fri Nov 13: no further tier-1 US data today after PPI; other Fed speakers today UNKNOWN. USDJPY ~160: Japan intervention risk (none confirmed). Weekend: market closed. Next week: Japan Q3 GDP Mon Nov 16 (Mace News economists: +0.1% q/q, +0.4% annualized); US Empire State Mon, Oct retail sales Tue, FOMC October minutes Wed Nov 18 (Kitco); NVIDIA Q3 results Tue Nov 17 after US close (Wed ~05:20 Taipei); Fed meeting Dec 8-9</title>
+      <link>https://www.kitco.com/news/article/2026-11-13/gold-rebounds-13-month-low-ppi-complicates-fed-outlook-kitco-am-report</link>
+      <description>[事實] 影響: XAUUSD/DXY/USDJPY | 重點: 今晚PPI後無一級數據，週末休市；下週一日本GDP與紐約州製造業、週二零售銷售與NVIDIA財報、週三FOMC會議紀要 | 發布: Kitco/Mace News 日曆 (Asia/Taipei) | 抓取: 2026-11-13 22:35 (Asia/Taipei)</description>
+      <pubDate>Fri, 13 Nov 2026 22:35:00 +0800</pubDate>
+      <guid isPermaLink="false">aitrade-intel-202611132235-next24h</guid>
+    </item>
+    <item>
+      <title>US October PPI (BLS, 08:30 ET / 21:30 Taipei Nov 13): final demand +0.3% m/m (consensus +0.4%; Sep revised up to +1.4% from +1.3%); +6.5% y/y NSA (consensus 6.6%, Sep 6.3%), largest annual rise since Nov 2022. Core (ex food &amp; energy) +0.3% m/m, in line; core y/y 5.0% per FXStreet. Goods +0.5%, services +0.2% (5th straight rise; truck freight +3.9%). Ex food, energy &amp; trade services +0.5% m/m, +4.9% y/y. Reuters: data supports expectations the Fed could keep hiking after December's widely expected hike; CNBC: markets still fully price at least a 25bp December hike</title>
+      <link>https://www.bls.gov/ppi/</link>
+      <description>[事實] 影響: XAUUSD/DXY/US02Y/USDJPY/EURUSD | 重點: 美國10月PPI月增0.3%略低於預期0.4%、年增6.5%創2022年11月以來最高，核心月增0.3%符合預期，9月上修至1.4%；市場仍完全定價12月至少升息1碼 | 發布: BLS 2026-11-13 21:30 (Asia/Taipei) | 抓取: 2026-11-13 22:35 (Asia/Taipei)</description>
+      <pubDate>Fri, 13 Nov 2026 21:30:00 +0800</pubDate>
+      <guid isPermaLink="false">aitrade-intel-202611132130-us-ppi-oct-actual</guid>
     </item>
     <item>
       <title>European session ~20:15 Taipei Nov 13 (TradingView): OANDA XAUUSD 3895.34 (+17.75 / +0.46%), holding below Reuters-cited resistance $3,931; COMEX GC1! 3899.5 (+0.37%); DXY 103.243 (+0.07%); EURUSD 1.10504; USDJPY 160.008 (+0.11%, back at 160); GBPUSD 1.32284; AUDUSD 0.67941 (-0.20%); US02Y 4.855% (-2.9bp), US10Y 5.133%; WTI CL1! 88.61. Reuters (Sherin Sans, 10:06 GMT / 18:06 Taipei): spot +0.7% at $3,903.19, nearly -4% this week; Dec futures $3,907.50; WisdomTree's Nitesh Shah: gold undervalued, good support around $3,850, hotter PPI could cap gains; CME FedWatch 89% 25bp / 11% 50bp Dec hike; Reuters poll: most economists see ECB delivering a final deposit rate hike of the cycle next month</title>
@@ -201,20 +215,6 @@
       <description>[事實] 影響: XAUUSD/DXY/AUDUSD/USDJPY | 重點: 午後現貨金跌至約3957（日低3954.82），已跌破Reuters技術分析所列3971支撐，Reuters稱為11月4日以來最低；CME FedWatch顯示市場定價12月與明年3月各升息一次，DXY維持約102.9、美10年期約5.00%，週五美國PPI為下一焦點 | 發布: Reuters 2026-11-12 15:40 (Asia/Taipei)；報價 16:15 | 抓取: 2026-11-12 16:20 (Asia/Taipei)</description>
       <pubDate>Thu, 12 Nov 2026 16:15:00 +0800</pubDate>
       <guid isPermaLink="false">aitrade-intel-202611121615-xau-3957-below-3971</guid>
-    </item>
-    <item>
-      <title>UK Q3 2026 GDP first estimate (ONS, Nov 12 07:00 GMT / 15:00 Taipei): +0.7% q/q (consensus 0.7%; Q2 +0.5%), +1.9% y/y; services +0.9%, production +0.1%, construction -0.7%; Sep monthly GDP +0.2% (Aug revised to 0.0%). CNBC: analysts say data keeps a December BoE hike 'firmly on the table'</title>
-      <link>https://www.ons.gov.uk/economy/grossdomesticproductgdp/bulletins/gdpfirstquarterlyestimateuk/julytoseptember2026</link>
-      <description>[事實] 影響: GBPUSD | 重點: 英國第三季GDP季增0.7%符合預期、年增1.9%，服務業帶動；分析師認為英央行12月升息仍在桌上（觀點） | 發布: ONS 2026-11-12 15:00 (Asia/Taipei) | 抓取: 2026-11-13 00:30 (Asia/Taipei)</description>
-      <pubDate>Thu, 12 Nov 2026 15:00:00 +0800</pubDate>
-      <guid isPermaLink="false">aitrade-intel-202611121500-uk-q3-gdp-07</guid>
-    </item>
-    <item>
-      <title>Midday Asia ~12:20 Taipei Nov 12 (TradingView): OANDA XAUUSD 3979.77 (-7.93 / -0.20%; H 4000.73 L 3968.77); COMEX GC1! 3986.5 (-0.35%; L 3973.5); DXY 103.012 (+0.16%; H 103.083, above 103 for first time this week); EURUSD 1.1075 (-0.13%; L 1.10663); USDJPY 159.708 (H 159.836); GBPUSD 1.3258 (-0.12%; L 1.3250); AUDUSD 0.68446; US02Y 4.765%, US10Y 4.984%; WTI CL1! 85.58 (-1.10%). Reuters (03:10 GMT / 11:10 Taipei): spot -0.2% at $3,981.49 after lowest since Nov 4; Dec futures $3,987.50; dollar at 19-month high; Tastylive's Spivak: 'sitting on a critical level ... around the $4,000 mark'; OCBC: two-way risks, not turning bearish medium term; focus on US PPI Friday</title>
-      <link>https://www.tradingview.com/news/reuters.com,2026:newsml_L2N46T01Z:0-gold-falls-to-over-one-week-low-on-firm-dollar-fed-rate-hike-bets/</link>
-      <description>[事實] 影響: XAUUSD/DXY/EURUSD/USDJPY/GBPUSD | 重點: 午盤現貨金約3980、盤中低3968.77（Reuters稱11月4日以來最低），DXY升破103（高103.083），歐元兌美元低見1.1066；Reuters引述分析師稱4000是關鍵位，市場等週五美國PPI | 發布: Reuters 2026-11-12 11:31 (Asia/Taipei)；報價 12:20 | 抓取: 2026-11-12 12:25 (Asia/Taipei)</description>
-      <pubDate>Thu, 12 Nov 2026 12:20:00 +0800</pubDate>
-      <guid isPermaLink="false">aitrade-intel-202611121220-midday-xau-3980-dxy-103</guid>
     </item>
   </channel>
 </rss>
